@@ -1,0 +1,3018 @@
+<P_1,1G>
+
+<heading>
+
+CHAP. I.  AUTHOLD-E2-H,1,1G.3
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+In the beginning God created the <normalised orig="Heauen" auto="true">Heaven</normalised>, and the Earth.
+AUTHOLD-E2-H,1,1G.6
+
+2 AUTHOLD-E2-H,1,1G.7
+
+And the earth was without <normalised orig="forme" auto="true">form</normalised>, and <normalised orig="voyd" auto="true">void</normalised>, AUTHOLD-E2-H,1,1G.8
+
+and <normalised orig="darkenesse" auto="true">darkness</normalised> <font> was <$$font> <normalised orig="vpon" auto="true">upon</normalised> the face of the <normalised orig="deepe" auto="true">deep</normalised>:
+AUTHOLD-E2-H,1,1G.9
+
+and the Spirit of God <normalised orig="mooued" auto="true">moved</normalised> <normalised orig="vpon" auto="true">upon</normalised> the face of the waters.
+AUTHOLD-E2-H,1,1G.10
+
+3 AUTHOLD-E2-H,1,1G.11
+
+And God said, Let there be light: AUTHOLD-E2-H,1,1G.12
+
+and there was light.  AUTHOLD-E2-H,1,1G.13
+
+4 AUTHOLD-E2-H,1,1G.14
+
+And God saw the light, that <font> it was <$$font> good:
+AUTHOLD-E2-H,1,1G.15
+
+and God <normalised orig="diuided" auto="true">divided</normalised> the light from the <normalised orig="darkenesse" auto="true">darkness</normalised>.  AUTHOLD-E2-H,1,1G.16
+
+5 AUTHOLD-E2-H,1,1G.17
+
+And God called the light, Day, AUTHOLD-E2-H,1,1G.18
+
+and the <normalised orig="darknesse" auto="true">darkness</normalised> he called Night: AUTHOLD-E2-H,1,1G.19
+
+and the <normalised orig="euening" auto="true">evening</normalised> and the morning were the first day.  AUTHOLD-E2-H,1,1G.20
+
+6 AUTHOLD-E2-H,1,1G.21
+
+And God said, Let there be a firmament in the midst of the waters:
+AUTHOLD-E2-H,1,1G.22
+
+and let it <normalised orig="diuide" auto="true">divide</normalised> the waters from the waters.  AUTHOLD-E2-H,1,1G.23
+
+7 AUTHOLD-E2-H,1,1G.24
+
+And God made the firmament; AUTHOLD-E2-H,1,1G.25
+
+and <normalised orig="diuided" auto="true">divided</normalised> the waters, which <font> were <$$font> <normalised orig="vnder" auto="true">under</normalised> the firmament
+, from the waters, which <font> were <$$font> <normalised orig="aboue" auto="true">above</normalised> the firmament:
+AUTHOLD-E2-H,1,1G.26
+
+and it was so.  AUTHOLD-E2-H,1,1G.27
+
+8 AUTHOLD-E2-H,1,1G.28
+
+And God called the firmament, <normalised orig="Heauen" auto="true">Heaven</normalised>: AUTHOLD-E2-H,1,1G.29
+
+and the <normalised orig="euening" auto="true">evening</normalised> and the morning were the second day.  AUTHOLD-E2-H,1,1G.30
+
+9 AUTHOLD-E2-H,1,1G.31
+
+And God said, Let the waters <normalised orig="vnder" auto="true">under</normalised> the <normalised orig="heauen" auto="true">heaven</normalised> be gathered together <normalised orig="vnto" auto="true">unto</normalised>
+one place, AUTHOLD-E2-H,1,1G.32
+
+and let the dry land <normalised orig="appeare" auto="true">appear</normalised>: AUTHOLD-E2-H,1,1G.33
+
+and it was so.  AUTHOLD-E2-H,1,1G.34
+
+10 AUTHOLD-E2-H,1,1G.35
+
+And God called the <normalised orig="drie" auto="true">dry</normalised> land, Earth, AUTHOLD-E2-H,1,1G.36
+
+and the gathering together of the waters called <normalised orig="hee" auto="true">hoe</normalised>, Seas:
+AUTHOLD-E2-H,1,1G.37
+
+and God saw that <font> it was <$$font> good.  AUTHOLD-E2-H,1,1G.38
+
+11 AUTHOLD-E2-H,1,1G.39
+
+And God said, Let the Earth bring <normalised orig="foorth" auto="true">forth</normalised> <normalised orig="grasse" auto="true">grass</normalised>, the <normalised orig="herbe" auto="true">herb</normalised> <normalised orig="yeelding" auto="true">yielding</normalised> seed,
+<font> and <$$font> the fruit tree, <normalised orig="yeelding" auto="true">yielding</normalised> fruit after his <normalised orig="kinde" auto="true">kind</normalised>, whose
+seed <font> is <$$font> in it <normalised orig="selfe" auto="true">self</normalised>, <normalised orig="vpon" auto="true">upon</normalised> the earth: AUTHOLD-E2-H,1,1G.40
+
+and it was so.  AUTHOLD-E2-H,1,1G.41
+
+12 AUTHOLD-E2-H,1,1G.42
+
+And the earth brought <normalised orig="foorth" auto="true">forth</normalised> <normalised orig="grasse" auto="true">grass</normalised>, <font> and <$$font> <normalised orig="herbe" auto="true">herb</normalised> <normalised orig="yeelding" auto="true">yielding</normalised>
+seed after his <normalised orig="kinde" auto="true">kind</normalised>, and the tree <normalised orig="yeelding" auto="true">yielding</normalised> fruit, whose seed <font>
+was <$$font> in it <normalised orig="selfe" auto="true">self</normalised>, after his <normalised orig="kinde" auto="true">kind</normalised>: AUTHOLD-E2-H,1,1G.43
+
+and God saw that <font> it was <$$font> good.  AUTHOLD-E2-H,1,1G.44
+
+13 AUTHOLD-E2-H,1,1G.45
+
+And the <normalised orig="euening" auto="true">evening</normalised> and the morning were the third day.  AUTHOLD-E2-H,1,1G.46
+
+14 AUTHOLD-E2-H,1,1G.47
+
+And God said, Let there bee lights in the firmament of the <normalised orig="heauen" auto="true">heaven</normalised>,
+to <normalised orig="diuide" auto="true">divide</normalised> the day from the night: AUTHOLD-E2-H,1,1G.48
+
+and let them be for <normalised orig="signes" auto="true">signs</normalised> and for seasons, and for <normalised orig="dayes" auto="true">days</normalised> and <normalised orig="yeeres" auto="true">years</normalised>.
+AUTHOLD-E2-H,1,1G.49
+
+15 AUTHOLD-E2-H,1,1G.50
+
+And let them be for lights in the firmament of the <normalised orig="heauen" auto="true">heaven</normalised>, to <normalised orig="giue" auto="true">give</normalised> light
+<normalised orig="vpon" auto="true">upon</normalised> the earth: AUTHOLD-E2-H,1,1G.51
+
+and it was so.  AUTHOLD-E2-H,1,1G.52
+
+16 AUTHOLD-E2-H,1,1G.53
+
+And God made two great lights: the greater light to rule the day, and
+the lesser light to rule the night: AUTHOLD-E2-H,1,1G.54
+
+<font> he made <$$font> the <normalised orig="starres" auto="true">stars</normalised> also.  AUTHOLD-E2-H,1,1G.55
+
+17 AUTHOLD-E2-H,1,1G.56
+
+And God set them in the firmament of the <normalised orig="heauen" auto="true">heaven</normalised>, to <normalised orig="giue" auto="true">give</normalised> light <normalised orig="vpon" auto="true">upon</normalised> the
+earth: 18 And to rule <normalised orig="ouer" auto="true">over</normalised> the day, and <normalised orig="ouer" auto="true">over</normalised> the night, and to <normalised orig="diuide" auto="true">divide</normalised>
+the light from the <normalised orig="darkenesse" auto="true">darkness</normalised>: AUTHOLD-E2-H,1,1G.57
+
+and God saw that <font> it was <$$font> good.  AUTHOLD-E2-H,1,1G.58
+
+19 AUTHOLD-E2-H,1,1G.59
+
+And the <normalised orig="euening" auto="true">evening</normalised> and the morning were the fourth day.  AUTHOLD-E2-H,1,1G.60
+
+<P_1,20G>
+
+20 AUTHOLD-E2-H,1,20G.62
+
+And God said, Let the waters bring <normalised orig="foorth" auto="true">forth</normalised> <normalised orig="aboundantly" auto="true">abundantly</normalised> the <normalised orig="mouing" auto="true">moving</normalised> creature
+that hath life, and <normalised orig="foule" auto="true">foul</normalised> <font> that <$$font> may <normalised orig="flie" auto="true">fly</normalised> <normalised orig="aboue" auto="true">above</normalised> the earth
+in the open firmament of <normalised orig="heauen" auto="true">heaven</normalised>.  AUTHOLD-E2-H,1,20G.63
+
+21 AUTHOLD-E2-H,1,20G.64
+
+And God created great whales, and <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> creature that <normalised orig="moueth" auto="true">moves</normalised>,
+which the waters brought forth <normalised orig="aboundantly" auto="true">abundantly</normalised> after their <normalised orig="kinde" auto="true">kind</normalised>, and <normalised orig="euery" auto="true">every</normalised>
+winged <normalised orig="foule" auto="true">foul</normalised> after his <normalised orig="kinde" auto="true">kind</normalised>: AUTHOLD-E2-H,1,20G.65
+
+and God saw that <font> it was <$$font> good.  AUTHOLD-E2-H,1,20G.66
+
+22 AUTHOLD-E2-H,1,20G.67
+
+And God blessed them, saying, Be <normalised orig="fruitfull" auto="true">fruitful</normalised>, AUTHOLD-E2-H,1,20G.68
+
+and multiply, AUTHOLD-E2-H,1,20G.69
+
+and fill the waters in the Seas, AUTHOLD-E2-H,1,20G.70
+
+and let <normalised orig="foule" auto="true">foul</normalised> multiply in the earth.  AUTHOLD-E2-H,1,20G.71
+
+23 AUTHOLD-E2-H,1,20G.72
+
+And the <normalised orig="euening" auto="true">evening</normalised> and the morning were the <normalised orig="fift" auto="true">fifth</normalised> day.  AUTHOLD-E2-H,1,20G.73
+
+24 AUTHOLD-E2-H,1,20G.74
+
+And God said, Let the earth bring forth the <normalised orig="liuing" auto="true">living</normalised> creature after his
+<normalised orig="kinde" auto="true">kind</normalised>, <normalised orig="cattell" auto="true">cattle</normalised>, and creeping thing, and beast of the earth after his
+<normalised orig="kinde" auto="true">kind</normalised>: AUTHOLD-E2-H,1,20G.75
+
+and it was so.  AUTHOLD-E2-H,1,20G.76
+
+25 AUTHOLD-E2-H,1,20G.77
+
+And God made the beast of the earth after his <normalised orig="kinde" auto="true">kind</normalised>, and <normalised orig="cattell" auto="true">cattle</normalised> after
+their <normalised orig="kinde" auto="true">kind</normalised>, and <normalised orig="euery" auto="true">every</normalised> thing that <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, after his
+<normalised orig="kinde" auto="true">kind</normalised>: AUTHOLD-E2-H,1,20G.78
+
+and God saw that <font> it was <$$font> good.  AUTHOLD-E2-H,1,20G.79
+
+26 AUTHOLD-E2-H,1,20G.80
+
+And God said, Let vs make man in our Image, after our <normalised orig="likenesse" auto="true">likeness</normalised>:
+AUTHOLD-E2-H,1,20G.81
+
+and let them <normalised orig="haue" auto="true">have</normalised> dominion <normalised orig="ouer" auto="true">over</normalised> the fish of the sea, and <normalised orig="ouer" auto="true">over</normalised> the <normalised orig="foule" auto="true">foul</normalised>
+of the <normalised orig="aire" auto="true">air</normalised>, and <normalised orig="ouer" auto="true">over</normalised> the <normalised orig="cattell" auto="true">cattle</normalised>, and <normalised orig="ouer" auto="true">over</normalised> all the earth, and <normalised orig="ouer" auto="true">over</normalised>
+<normalised orig="euery" auto="true">every</normalised> creeping thing that <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth.  AUTHOLD-E2-H,1,20G.82
+
+27 AUTHOLD-E2-H,1,20G.83
+
+So God created man in his <normalised orig="owne" auto="true">own</normalised> Image, AUTHOLD-E2-H,1,20G.84
+
+in the Image of God created <normalised orig="hee" auto="true">hoe</normalised> him; AUTHOLD-E2-H,1,20G.85
+
+male and female created <normalised orig="hee" auto="true">hoe</normalised> them.  AUTHOLD-E2-H,1,20G.86
+
+28 AUTHOLD-E2-H,1,20G.87
+
+And God blessed them, AUTHOLD-E2-H,1,20G.88
+
+and God said <normalised orig="vnto" auto="true">unto</normalised> them, Be <normalised orig="fruitfull" auto="true">fruitful</normalised>, AUTHOLD-E2-H,1,20G.89
+
+and multiply, AUTHOLD-E2-H,1,20G.90
+
+and replenish the earth, AUTHOLD-E2-H,1,20G.91
+
+and subdue it, AUTHOLD-E2-H,1,20G.92
+
+and <normalised orig="haue" auto="true">have</normalised> dominion <normalised orig="ouer" auto="true">over</normalised> the fish of the sea, and <normalised orig="ouer" auto="true">over</normalised> the <normalised orig="foule" auto="true">foul</normalised> of
+the <normalised orig="aire" auto="true">air</normalised>, and <normalised orig="ouer" auto="true">over</normalised> <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> thing that <normalised orig="mooueth" auto="true">moves</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth.
+AUTHOLD-E2-H,1,20G.93
+
+29 AUTHOLD-E2-H,1,20G.94
+
+And God said, Behold, I <normalised orig="haue" auto="true">have</normalised> <normalised orig="giuen" auto="true">given</normalised> you <normalised orig="euery" auto="true">every</normalised> <normalised orig="herbe" auto="true">herb</normalised> bearing <normalised orig="seede" auto="true">seed</normalised>, which
+<font> is <$$font> <normalised orig="vpon" auto="true">upon</normalised> the face of all the earth, AUTHOLD-E2-H,1,20G.95
+
+and <normalised orig="euery" auto="true">every</normalised> tree, in the which <font> is <$$font> the fruit of a tree
+<normalised orig="yeelding" auto="true">yielding</normalised> seed, to you it shall be for meat: AUTHOLD-E2-H,1,20G.96
+
+30 AUTHOLD-E2-H,1,20G.97
+
+And to <normalised orig="euery" auto="true">every</normalised> beast of the earth, and to <normalised orig="euery" auto="true">every</normalised> <normalised orig="foule" auto="true">foul</normalised> of the <normalised orig="aire" auto="true">air</normalised>, and to
+<normalised orig="euery" auto="true">every</normalised> thing that <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, wherein there is life, <font>
+I <normalised orig="haue" auto="true">have</normalised> <normalised orig="giuen" auto="true">given</normalised> <$$font> <normalised orig="euery" auto="true">every</normalised> greene <normalised orig="herbe" auto="true">herb</normalised> for meat: AUTHOLD-E2-H,1,20G.98
+
+and it was so.  AUTHOLD-E2-H,1,20G.99
+
+31 AUTHOLD-E2-H,1,20G.100
+
+And God saw <normalised orig="euery" auto="true">every</normalised> thing that <normalised orig="hee" auto="true">hoe</normalised> had made: AUTHOLD-E2-H,1,20G.101
+
+and behold, <font> it was <$$font> very good.  AUTHOLD-E2-H,1,20G.102
+
+And the <normalised orig="euening" auto="true">evening</normalised> and the morning were the sixth day.
+AUTHOLD-E2-H,1,20G.103
+
+<P_2,1G>
+
+<heading>
+
+CHAP. II.  AUTHOLD-E2-H,2,1G.106
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+Thus the <normalised orig="heauens" auto="true">heavens</normalised> and the earth were finished, and all the <normalised orig="hoste" auto="true">host</normalised> of them.
+AUTHOLD-E2-H,2,1G.109
+
+2 AUTHOLD-E2-H,2,1G.110
+
+And on the <normalised orig="seuenth" auto="true">seventh</normalised> day God ended his <normalised orig="worke" auto="true">work</normalised>, which <normalised orig="hee" auto="true">hoe</normalised> had made:
+AUTHOLD-E2-H,2,1G.111
+
+And he rested on the <normalised orig="seuenth" auto="true">seventh</normalised> day from all his <normalised orig="worke" auto="true">work</normalised>, which he had made.
+AUTHOLD-E2-H,2,1G.112
+
+3 AUTHOLD-E2-H,2,1G.113
+
+And God blessed the <normalised orig="seuenth" auto="true">seventh</normalised> day, AUTHOLD-E2-H,2,1G.114
+
+and sanctified it: because that in it he had rested from all his <normalised orig="worke" auto="true">work</normalised>,
+which God created and made.  AUTHOLD-E2-H,2,1G.115
+
+4 AUTHOLD-E2-H,2,1G.116
+
+These <font> are <$$font> the generations of the <normalised orig="heauens" auto="true">heavens</normalised>, & of the earth,
+when they were created; in the day that the LORD God made the earth,
+and the <normalised orig="heauens" auto="true">heavens</normalised>, 5 And <normalised orig="euery" auto="true">every</normalised> plant of the field, before it was in the
+earth, and <normalised orig="euery" auto="true">every</normalised> <normalised orig="herbe" auto="true">herb</normalised> of the field, before it grew: AUTHOLD-E2-H,2,1G.117
+
+for the LORD God had not caused it to <normalised orig="raine" auto="true">rain</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth,
+AUTHOLD-E2-H,2,1G.118
+
+and there <font> was <$$font> not a man to till the ground.
+AUTHOLD-E2-H,2,1G.119
+
+6 AUTHOLD-E2-H,2,1G.120
+
+But there went up a mist from the earth, AUTHOLD-E2-H,2,1G.121
+
+and watered the whole face of the ground.  AUTHOLD-E2-H,2,1G.122
+
+7 AUTHOLD-E2-H,2,1G.123
+
+And the LORD God formed man of the dust of the ground,
+AUTHOLD-E2-H,2,1G.124
+
+& breathed into this nostrils the breath of life; AUTHOLD-E2-H,2,1G.125
+
+and man became a <normalised orig="liuing" auto="true">living</normalised> <normalised orig="soule" auto="true">soul</normalised>.  AUTHOLD-E2-H,2,1G.126
+
+8 AUTHOLD-E2-H,2,1G.127
+
+And the LORD God planted a garden Eastward in Eden; AUTHOLD-E2-H,2,1G.128
+
+and there he put the man whom he had formed.  AUTHOLD-E2-H,2,1G.129
+
+9 AUTHOLD-E2-H,2,1G.130
+
+And out of the ground made the LORD God to grow <normalised orig="euery" auto="true">every</normalised> tree that is
+pleasant to the sight, and good for food: the tree of life also in
+the midst of the garden, and the tree of knowledge of good and <normalised orig="euill" auto="true">evil</normalised>.
+AUTHOLD-E2-H,2,1G.131
+
+10 AUTHOLD-E2-H,2,1G.132
+
+And a <normalised orig="riuer" auto="true">river</normalised> went out of Eden to water the garden, AUTHOLD-E2-H,2,1G.133
+
+and from thence it was parted, AUTHOLD-E2-H,2,1G.134
+
+and became into <normalised orig="foure" auto="true">four</normalised> heads.  AUTHOLD-E2-H,2,1G.135
+
+11 AUTHOLD-E2-H,2,1G.136
+
+The name of the first <font> is <$$font> <normalised orig="Pison" auto="true">Poison</normalised>: AUTHOLD-E2-H,2,1G.137
+
+that <font> is <$$font> it which <normalised orig="compasseth" auto="true">compasses</normalised> the whole land of <normalised orig="Hauilah" auto="true">Allah</normalised>,
+where <font> there is <$$font> gold.  AUTHOLD-E2-H,2,1G.138
+
+12 AUTHOLD-E2-H,2,1G.139
+
+And the gold of that land <font> is <$$font> good: AUTHOLD-E2-H,2,1G.140
+
+There <font> is <$$font> <normalised orig="Bdellium" auto="true">Bedlam</normalised> and the <normalised orig="Onix" auto="true">Onyx</normalised> stone.
+AUTHOLD-E2-H,2,1G.141
+
+13 AUTHOLD-E2-H,2,1G.142
+
+And the name of the second <normalised orig="riuer" auto="true">river</normalised> <font> is <$$font> <normalised orig="Gihon" auto="true">Given</normalised>:
+AUTHOLD-E2-H,2,1G.143
+
+the same <font> is <$$font> it that <normalised orig="compasseth" auto="true">compasses</normalised> the whole land of Ethiopia.
+AUTHOLD-E2-H,2,1G.144
+
+14 AUTHOLD-E2-H,2,1G.145
+
+And the name of the third <normalised orig="riuer" auto="true">river</normalised> <font> is <$$font> <normalised orig="Hiddekel" auto="true">Hideously</normalised>:
+AUTHOLD-E2-H,2,1G.146
+
+that <font> is it <$$font> which <normalised orig="goeth" auto="true">goes</normalised> toward the East of <normalised orig="Assyria" auto="true">Assure</normalised>:
+AUTHOLD-E2-H,2,1G.147
+
+and the fourth <normalised orig="riuer" auto="true">river</normalised> is <normalised orig="Euphrates" auto="true">Operates</normalised>.  AUTHOLD-E2-H,2,1G.148
+
+15 AUTHOLD-E2-H,2,1G.149
+
+And the LORD God <normalised orig="tooke" auto="true">took</normalised> the man, AUTHOLD-E2-H,2,1G.150
+
+and put him into the garden of Eden, to <normalised orig="dresse" auto="true">dress</normalised> it, and to <normalised orig="keepe" auto="true">keep</normalised> it.
+AUTHOLD-E2-H,2,1G.151
+
+16 AUTHOLD-E2-H,2,1G.152
+
+And the LORD God commanded the man, saying, Of <normalised orig="euery" auto="true">every</normalised> tree of the garden
+thou <normalised orig="mayest" auto="true">may</normalised> freely <normalised orig="eate" auto="true">eat</normalised>.  AUTHOLD-E2-H,2,1G.153
+
+17 AUTHOLD-E2-H,2,1G.154
+
+But of the tree of the knowledge of good and <normalised orig="euill" auto="true">evil</normalised>, thou shalt not <normalised orig="eate" auto="true">eat</normalised>
+of it: AUTHOLD-E2-H,2,1G.155
+
+for in the day that thou <normalised orig="eatest" auto="true">attest</normalised> thereof, thou shalt surely die.
+AUTHOLD-E2-H,2,1G.156
+
+18 AUTHOLD-E2-H,2,1G.157
+
+And the LORD God said, It <font> is <$$font> not good that the man should
+be alone: AUTHOLD-E2-H,2,1G.158
+
+I will make him an <normalised orig="helpe" auto="true">help</normalised> meet for him.  AUTHOLD-E2-H,2,1G.159
+
+19 AUTHOLD-E2-H,2,1G.160
+
+And out of <normalised orig="y=e=" auto="true">yew</normalised> ground the LORD God formed <normalised orig="euery" auto="true">every</normalised> beast of the field,
+and <normalised orig="euery" auto="true">every</normalised> <normalised orig="foule" auto="true">foul</normalised> of the <normalised orig="aire" auto="true">air</normalised>, AUTHOLD-E2-H,2,1G.161
+
+and brought <font> them <$$font> <normalised orig="vnto" auto="true">unto</normalised> Adam, to see what he would call
+them: AUTHOLD-E2-H,2,1G.162
+
+and <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> Adam called <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> creature, that <font> was <$$font>
+the name thereof.  AUTHOLD-E2-H,2,1G.163
+
+<P_2,20G>
+
+20 AUTHOLD-E2-H,2,20G.165
+
+And Adam <normalised orig="gaue" auto="true">gave</normalised> names to all <normalised orig="cattell" auto="true">cattle</normalised>, and to the <normalised orig="foule" auto="true">foul</normalised> of the <normalised orig="aire" auto="true">air</normalised>, and
+to <normalised orig="euery" auto="true">every</normalised> beast of the <normalised orig="fielde" auto="true">field</normalised>: AUTHOLD-E2-H,2,20G.166
+
+but for Adam there was not found an <normalised orig="helpe" auto="true">help</normalised> <normalised orig="meete" auto="true">meet</normalised> for him.
+AUTHOLD-E2-H,2,20G.167
+
+21 AUTHOLD-E2-H,2,20G.168
+
+And the LORD God caused a <normalised orig="deepe" auto="true">deep</normalised> <normalised orig="sleepe" auto="true">sleep</normalised> to fall <normalised orig="vpon" auto="true">upon</normalised> Adam,
+AUTHOLD-E2-H,2,20G.169
+
+and <normalised orig="hee" auto="true">hoe</normalised> slept; AUTHOLD-E2-H,2,20G.170
+
+and he <normalised orig="tooke" auto="true">took</normalised> one of his ribs, AUTHOLD-E2-H,2,20G.171
+
+and closed <normalised orig="vp" auto="true">up</normalised> the flesh in stead thereof.  AUTHOLD-E2-H,2,20G.172
+
+22 AUTHOLD-E2-H,2,20G.173
+
+And the rib which the LORD God had taken from man, made <normalised orig="hee" auto="true">hoe</normalised> a woman,
+AUTHOLD-E2-H,2,20G.174
+
+& brought her <normalised orig="vnto" auto="true">unto</normalised> the man.  AUTHOLD-E2-H,2,20G.175
+
+23 AUTHOLD-E2-H,2,20G.176
+
+And Adam said, This is now bone of my bones, and flesh of my flesh:
+AUTHOLD-E2-H,2,20G.177
+
+she $shall $be {TEXT:shalbe} called woman, because <normalised orig="shee" auto="true">she</normalised> was taken out
+of man.  AUTHOLD-E2-H,2,20G.178
+
+24 AUTHOLD-E2-H,2,20G.179
+
+Therefore shall a man <normalised orig="leaue" auto="true">leave</normalised> his father and his mother,
+AUTHOLD-E2-H,2,20G.180
+
+and shall <normalised orig="cleaue" auto="true">cleave</normalised> <normalised orig="vnto" auto="true">unto</normalised> his wife: AUTHOLD-E2-H,2,20G.181
+
+and they $shall $be {TEXT:shalbe} one flesh.  AUTHOLD-E2-H,2,20G.182
+
+25 AUTHOLD-E2-H,2,20G.183
+
+And they were both naked, the man & his wife, AUTHOLD-E2-H,2,20G.184
+
+and were not ashamed.  AUTHOLD-E2-H,2,20G.185
+
+<P_3,1G>
+
+<heading>
+
+CHAP. III.  AUTHOLD-E2-H,3,1G.188
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+Now the serpent was more <normalised orig="subtill" auto="true">subtle</normalised> then any beast of the field, which the
+LORD God had made, AUTHOLD-E2-H,3,1G.191
+
+and he said <normalised orig="vnto" auto="true">unto</normalised> the woman, Yea, hath God said, Ye shall not eat of
+<normalised orig="euery" auto="true">every</normalised> tree of the garden?  AUTHOLD-E2-H,3,1G.192
+
+2 AUTHOLD-E2-H,3,1G.193
+
+And the woman said <normalised orig="vnto" auto="true">unto</normalised> the serpent, Wee may <normalised orig="eate" auto="true">eat</normalised> of the <normalised orig="fruite" auto="true">fruit</normalised> of the
+trees of the garden: AUTHOLD-E2-H,3,1G.194
+
+3 AUTHOLD-E2-H,3,1G.195
+
+But of the fruit of the tree, which <font> is <$$font> in the midst of
+the garden, God hath said, Ye <normalised orig="shal" auto="true">shall</normalised> not <normalised orig="eate" auto="true">eat</normalised> of it, AUTHOLD-E2-H,3,1G.196
+
+neither shall ye touch it, lest ye die.  AUTHOLD-E2-H,3,1G.197
+
+4 AUTHOLD-E2-H,3,1G.198
+
+And the Serpent said <normalised orig="vnto" auto="true">unto</normalised> the woman, Ye shall not surely die.
+AUTHOLD-E2-H,3,1G.199
+
+5 AUTHOLD-E2-H,3,1G.200
+
+For God <normalised orig="doeth" auto="true">doth</normalised> know, that in the day ye <normalised orig="eate" auto="true">eat</normalised> thereof, then your eyes
+$shall $be {TEXT:shalbee} opened: and <normalised orig="yee" auto="true">ye</normalised> shall bee as Gods, knowing
+good and <normalised orig="euill" auto="true">evil</normalised>.  AUTHOLD-E2-H,3,1G.201
+
+6 AUTHOLD-E2-H,3,1G.202
+
+And when the woman saw, that the tree <font> was <$$font> good for
+food, and that it <font> was <$$font> pleasant to the eyes, and a
+tree to be desired to make one wise, she <normalised orig="tooke" auto="true">took</normalised> of the fruit thereof,
+AUTHOLD-E2-H,3,1G.203
+
+and did <normalised orig="eate" auto="true">eat</normalised>, AUTHOLD-E2-H,3,1G.204
+
+and <normalised orig="gaue" auto="true">gave</normalised> also <normalised orig="vnto" auto="true">unto</normalised> her husband with her, AUTHOLD-E2-H,3,1G.205
+
+and <normalised orig="hee" auto="true">hoe</normalised> did <normalised orig="eate" auto="true">eat</normalised>.  AUTHOLD-E2-H,3,1G.206
+
+7 AUTHOLD-E2-H,3,1G.207
+
+And the eyes of them both <font> were <$$font> opened,
+AUTHOLD-E2-H,3,1G.208
+
+& they knew that they were naked, AUTHOLD-E2-H,3,1G.209
+
+and they sewed <normalised orig="figge" auto="true">fig</normalised> <normalised orig="leaues" auto="true">leaves</normalised> together, AUTHOLD-E2-H,3,1G.210
+
+and made <normalised orig="themselues" auto="true">themselves</normalised> aprons.  AUTHOLD-E2-H,3,1G.211
+
+8 AUTHOLD-E2-H,3,1G.212
+
+And they heard the <normalised orig="voyce" auto="true">voice</normalised> of the LORD God, walking in the garden in the
+<normalised orig="coole" auto="true">cool</normalised> of the day: AUTHOLD-E2-H,3,1G.213
+
+and Adam and his wife hid <normalised orig="themselues" auto="true">themselves</normalised> from the presence of the LORD God,
+amongst the trees of the garden.  AUTHOLD-E2-H,3,1G.214
+
+9 AUTHOLD-E2-H,3,1G.215
+
+And the LORD God called <normalised orig="vnto" auto="true">unto</normalised> Adam, AUTHOLD-E2-H,3,1G.216
+
+and said <normalised orig="vnto" auto="true">unto</normalised> him, Where <font> art <$$font> thou?  AUTHOLD-E2-H,3,1G.217
+
+10 AUTHOLD-E2-H,3,1G.218
+
+And he said, I heard thy voice in the garden: AUTHOLD-E2-H,3,1G.219
+
+and I was afraid, because I <font> was <$$font> naked,
+AUTHOLD-E2-H,3,1G.220
+
+and I hid my <normalised orig="selfe" auto="true">self</normalised>.  AUTHOLD-E2-H,3,1G.221
+
+11 AUTHOLD-E2-H,3,1G.222
+
+And he said, Who told thee, that thou <font> <normalised orig="wast" auto="true">waste</normalised> <$$font> naked?
+AUTHOLD-E2-H,3,1G.223
+
+<normalised orig="Hast" auto="true">Haste</normalised> thou eaten of the <normalised orig="tre" auto="true">tree</normalised>, whereof I commanded thee, that thou shouldest
+not <normalised orig="eate" auto="true">eat</normalised>?  AUTHOLD-E2-H,3,1G.224
+
+12 AUTHOLD-E2-H,3,1G.225
+
+And the man said, The woman whom thou <normalised orig="gauest" auto="true">gave</normalised> <font> to be <$$font>
+with <normalised orig="mee" auto="true">me</normalised>, <normalised orig="shee" auto="true">she</normalised> <normalised orig="gaue" auto="true">gave</normalised> me of the tree, AUTHOLD-E2-H,3,1G.226
+
+and I did <normalised orig="eate" auto="true">eat</normalised>.  AUTHOLD-E2-H,3,1G.227
+
+13 AUTHOLD-E2-H,3,1G.228
+
+And the LORD God said <normalised orig="vnto" auto="true">unto</normalised> the woman, What <font> is <$$font> this <font>
+that <$$font> thou <normalised orig="hast" auto="true">haste</normalised> done?  AUTHOLD-E2-H,3,1G.229
+
+And the woman said, The Serpent beguiled me, AUTHOLD-E2-H,3,1G.230
+
+and I did <normalised orig="eate" auto="true">eat</normalised>.  AUTHOLD-E2-H,3,1G.231
+
+14 AUTHOLD-E2-H,3,1G.232
+
+And the LORD God said <normalised orig="vnto" auto="true">unto</normalised> the Serpent, Because thou <normalised orig="hast" auto="true">haste</normalised> done this,
+thou <font> art <$$font> cursed <normalised orig="aboue" auto="true">above</normalised> all <normalised orig="cattel" auto="true">cattle</normalised>, and <normalised orig="aboue" auto="true">above</normalised> <normalised orig="euery" auto="true">every</normalised> beast
+of the field: AUTHOLD-E2-H,3,1G.233
+
+<normalised orig="vpon" auto="true">upon</normalised> thy belly shalt thou <normalised orig="goe" auto="true">go</normalised>, AUTHOLD-E2-H,3,1G.234
+
+and dust shalt thou <normalised orig="eate" auto="true">eat</normalised>, all the <normalised orig="dayes" auto="true">days</normalised> of thy life.
+AUTHOLD-E2-H,3,1G.235
+
+15 AUTHOLD-E2-H,3,1G.236
+
+And I will put <normalised orig="enmitie" auto="true">enmity</normalised> <normalised orig="betweene" auto="true">between</normalised> thee and the woman, and <normalised orig="betweene" auto="true">between</normalised> thy
+seed and her seed: AUTHOLD-E2-H,3,1G.237
+
+it <normalised orig="shal" auto="true">shall</normalised> bruise thy head, AUTHOLD-E2-H,3,1G.238
+
+and thou shalt bruise his <normalised orig="heele" auto="true">heel</normalised>.  AUTHOLD-E2-H,3,1G.239
+
+16 AUTHOLD-E2-H,3,1G.240
+
+Unto the woman he said, I will greatly multiply thy <normalised orig="sorowe" auto="true">sorrow</normalised> and thy
+conception.  AUTHOLD-E2-H,3,1G.241
+
+In <normalised orig="sorow" auto="true">sorrow</normalised> thou shalt bring forth children: AUTHOLD-E2-H,3,1G.242
+
+and thy desire <font> shall be <$$font> to thy husband,
+AUTHOLD-E2-H,3,1G.243
+
+and <normalised orig="hee" auto="true">hoe</normalised> shall rule <normalised orig="ouer" auto="true">over</normalised> thee.  AUTHOLD-E2-H,3,1G.244
+
+17 AUTHOLD-E2-H,3,1G.245
+
+And <normalised orig="vnto" auto="true">unto</normalised> Adam he said, Because thou <normalised orig="hast" auto="true">haste</normalised> hearkened <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="voyce" auto="true">voice</normalised> of thy
+wife, and <normalised orig="hast" auto="true">haste</normalised> eaten of the tree, of which I <normalised orig="commaunded" auto="true">commanded</normalised> thee, saying,
+Thou shalt not <normalised orig="eate" auto="true">eat</normalised> of it: cursed <font> is <$$font> the ground for thy
+sake: AUTHOLD-E2-H,3,1G.246
+
+in <normalised orig="sorow" auto="true">sorrow</normalised> shalt thou <normalised orig="eate" auto="true">eat</normalised> of it all the <normalised orig="dayes" auto="true">days</normalised> of thy life.
+AUTHOLD-E2-H,3,1G.247
+
+18 AUTHOLD-E2-H,3,1G.248
+
+<normalised orig="Thornes" auto="true">Thorns</normalised> also and thistles shall it bring forth to thee:
+AUTHOLD-E2-H,3,1G.249
+
+and thou shalt <normalised orig="eate" auto="true">eat</normalised> the <normalised orig="herbe" auto="true">herb</normalised> of the field.  AUTHOLD-E2-H,3,1G.250
+
+19 AUTHOLD-E2-H,3,1G.251
+
+In the <normalised orig="sweate" auto="true">sweat</normalised> of thy face shalt thou <normalised orig="eate" auto="true">eat</normalised> bread, till thou <normalised orig="returne" auto="true">return</normalised> <normalised orig="vnto" auto="true">unto</normalised>
+the ground: AUTHOLD-E2-H,3,1G.252
+
+for out of it <normalised orig="wast" auto="true">waste</normalised> thou taken, AUTHOLD-E2-H,3,1G.253
+
+for dust thou <font> art <$$font>, AUTHOLD-E2-H,3,1G.254
+
+and <normalised orig="vnto" auto="true">unto</normalised> dust shalt thou <normalised orig="returne" auto="true">return</normalised>.  AUTHOLD-E2-H,3,1G.255
+
+<P_3,20G>
+
+20 AUTHOLD-E2-H,3,20G.257
+
+And Adam called his <normalised orig="wiues" auto="true">wives</normalised> name <normalised orig="Eue" auto="true">Eve</normalised>, because she was the mother of
+all <normalised orig="liuing" auto="true">living</normalised>.  AUTHOLD-E2-H,3,20G.258
+
+21 AUTHOLD-E2-H,3,20G.259
+
+Unto Adam also, and to his wife, did the LORD God make <normalised orig="coates" auto="true">coats</normalised> of <normalised orig="skinnes" auto="true">skins</normalised>,
+AUTHOLD-E2-H,3,20G.260
+
+and <normalised orig="cloathed" auto="true">clothed</normalised> them.  AUTHOLD-E2-H,3,20G.261
+
+22 AUTHOLD-E2-H,3,20G.262
+
+And the LORD God said, Behold, the man is become as one of us, to know
+good & <normalised orig="euill" auto="true">evil</normalised>.  AUTHOLD-E2-H,3,20G.263
+
+And now lest <normalised orig="hee" auto="true">hoe</normalised> put <normalised orig="foorth" auto="true">forth</normalised> his hand, and take also of the tree of life
+, and <normalised orig="eate" auto="true">eat</normalised> and <normalised orig="liue" auto="true">live</normalised> for <normalised orig="euer" auto="true">ever</normalised>: 23 Therefore the LORD God sent him <normalised orig="foorth" auto="true">forth</normalised>
+from the garden of Eden, to till the ground, from whence he was taken.
+AUTHOLD-E2-H,3,20G.264
+
+24 AUTHOLD-E2-H,3,20G.265
+
+So he <normalised orig="droue" auto="true">drove</normalised> out the man: AUTHOLD-E2-H,3,20G.266
+
+and he placed at the East of the garden of Eden, <normalised orig="Cherubims" auto="true">Chirruping</normalised>, and a flaming
+sword, which turned <normalised orig="euery" auto="true">every</normalised> way, to <normalised orig="keepe" auto="true">keep</normalised> the way of the tree of life.
+AUTHOLD-E2-H,3,20G.267
+
+<P_6,1G>
+
+<heading>
+
+CHAP. VI.  AUTHOLD-E2-H,6,1G.270
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And it came to <normalised orig="passe" auto="true">pass</normalised>, when men began to multiply on the face of the
+earth, and daughters were borne <normalised orig="vnto" auto="true">unto</normalised> them: 2 That the <normalised orig="sonnes" auto="true">sons</normalised> of God saw
+the daughters of men, that they were <normalised orig="faire" auto="true">fair</normalised>, AUTHOLD-E2-H,6,1G.273
+
+and they took them <normalised orig="wiues" auto="true">wives</normalised>, of all which they chose.  AUTHOLD-E2-H,6,1G.274
+
+3 AUTHOLD-E2-H,6,1G.275
+
+And the LORD said, My Spirit shall not <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="striue" auto="true">strive</normalised> with man; for that
+<normalised orig="hee" auto="true">hoe</normalised> also <font> is <$$font> flesh: AUTHOLD-E2-H,6,1G.276
+
+yet his <normalised orig="dayes" auto="true">days</normalised> $shall $be {TEXT:shalbe} an hundred and twenty <normalised orig="yeeres" auto="true">years</normalised>.
+AUTHOLD-E2-H,6,1G.277
+
+4 AUTHOLD-E2-H,6,1G.278
+
+There were Giants in the earth in those <normalised orig="daies" auto="true">days</normalised>: AUTHOLD-E2-H,6,1G.279
+
+and also after that, when the <normalised orig="sonnes" auto="true">sons</normalised> of God came in <normalised orig="vnto" auto="true">unto</normalised> the daughters
+of men, & they bare <font> children <$$font> to them; the same became
+<normalised orig="mightie" auto="true">mighty</normalised> men, which <font> were <$$font> of old, men of <normalised orig="renowme" auto="true">renown</normalised>.
+AUTHOLD-E2-H,6,1G.280
+
+5 AUTHOLD-E2-H,6,1G.281
+
+And God saw, that the <normalised orig="wickednes" auto="true">wickedness</normalised> of man was great in the earth, and <font>
+that <$$font> <normalised orig="euery" auto="true">every</normalised> imagination of the thoughts of his heart was <normalised orig="onely" auto="true">only</normalised>
+<normalised orig="euill" auto="true">evil</normalised> continually.  AUTHOLD-E2-H,6,1G.282
+
+6 AUTHOLD-E2-H,6,1G.283
+
+And it repented the LORD that he had made man on the earth,
+AUTHOLD-E2-H,6,1G.284
+
+and it <normalised orig="grieued" auto="true">grieved</normalised> him at his heart.  AUTHOLD-E2-H,6,1G.285
+
+7 AUTHOLD-E2-H,6,1G.286
+
+And the LORD said, I will destroy man, whom I <normalised orig="haue" auto="true">have</normalised> created, from the
+face of the earth: both man and beast, and the creeping thing, and the
+<normalised orig="foules" auto="true">fowls</normalised> of the <normalised orig="aire" auto="true">air</normalised>: AUTHOLD-E2-H,6,1G.287
+
+for it <normalised orig="repenteth" auto="true">repented</normalised> me that I <normalised orig="haue" auto="true">have</normalised> made them.  AUTHOLD-E2-H,6,1G.288
+
+8 AUTHOLD-E2-H,6,1G.289
+
+But Noah found grace in the eyes of the LORD.  AUTHOLD-E2-H,6,1G.290
+
+9 AUTHOLD-E2-H,6,1G.291
+
+These <font> are <$$font> the generations of Noah: AUTHOLD-E2-H,6,1G.292
+
+Noah was a <normalised orig="iust" auto="true">just</normalised> man, <font> and <$$font> perfect in his generations,
+AUTHOLD-E2-H,6,1G.293
+
+<font> and <$$font> Noah walked with God.  AUTHOLD-E2-H,6,1G.294
+
+10 AUTHOLD-E2-H,6,1G.295
+
+And Noah <normalised orig="begate" auto="true">begat</normalised> three <normalised orig="sonnes" auto="true">sons</normalised>: <normalised orig="Sem" auto="true">Seam</normalised>, Ham, and <normalised orig="Japheth" auto="true">Japed</normalised>.
+AUTHOLD-E2-H,6,1G.296
+
+11 AUTHOLD-E2-H,6,1G.297
+
+The earth also was corrupt before God; AUTHOLD-E2-H,6,1G.298
+
+and the earth was filled with violence.  AUTHOLD-E2-H,6,1G.299
+
+12 AUTHOLD-E2-H,6,1G.300
+
+And God looked <normalised orig="vpon" auto="true">upon</normalised> the earth, AUTHOLD-E2-H,6,1G.301
+
+and behold, it was corrupt: AUTHOLD-E2-H,6,1G.302
+
+for all flesh had corrupted his way <normalised orig="vpon" auto="true">upon</normalised> the earth.  AUTHOLD-E2-H,6,1G.303
+
+13 AUTHOLD-E2-H,6,1G.304
+
+And God said <normalised orig="vnto" auto="true">unto</normalised> Noah, The end of all flesh is come before <normalised orig="mee" auto="true">me</normalised>;
+AUTHOLD-E2-H,6,1G.305
+
+for the earth is filled with violence through them; AUTHOLD-E2-H,6,1G.306
+
+and behold, I will destroy them with the earth.  AUTHOLD-E2-H,6,1G.307
+
+14 AUTHOLD-E2-H,6,1G.308
+
+Make thee an <normalised orig="Arke" auto="true">Arc</normalised> of Gopher-wood: AUTHOLD-E2-H,6,1G.309
+
+<normalised orig="roomes" auto="true">rooms</normalised> shalt thou make in the <normalised orig="arke" auto="true">arc</normalised>, AUTHOLD-E2-H,6,1G.310
+
+and shalt pitch it within and without with pitch.  AUTHOLD-E2-H,6,1G.311
+
+15 AUTHOLD-E2-H,6,1G.312
+
+And this is the <font> fashion <$$font>, which thou shalt make it of:
+AUTHOLD-E2-H,6,1G.313
+
+the length of the <normalised orig="arke" auto="true">arc</normalised> <font> $shall $be {TEXT:shalbe} <$$font> three
+hundred cubits, the breadth of it fifty cubits, and the height of it
+<normalised orig="thirtie" auto="true">thirty</normalised> cubits.  AUTHOLD-E2-H,6,1G.314
+
+16 AUTHOLD-E2-H,6,1G.315
+
+A window shalt thou make to the <normalised orig="arke" auto="true">arc</normalised>, AUTHOLD-E2-H,6,1G.316
+
+and in a <normalised orig="cubite" auto="true">cubit</normalised> shalt thou finish it <normalised orig="aboue" auto="true">above</normalised>; AUTHOLD-E2-H,6,1G.317
+
+and the <normalised orig="doore" auto="true">door</normalised> of the <normalised orig="arke" auto="true">arc</normalised> shalt thou set in the side thereof:
+AUTHOLD-E2-H,6,1G.318
+
+With lower, second, and third stories shalt thou make it.
+AUTHOLD-E2-H,6,1G.319
+
+17 AUTHOLD-E2-H,6,1G.320
+
+And behold, I, <normalised orig="euen" auto="true">even</normalised> I doe bring a flood of waters <normalised orig="vpon" auto="true">upon</normalised> the earth, to
+destroy all flesh, wherein is the breath of life from <normalised orig="vnder" auto="true">under</normalised> <normalised orig="heauen" auto="true">heaven</normalised>,
+AUTHOLD-E2-H,6,1G.321
+
+<font> and <$$font> <normalised orig="euery" auto="true">every</normalised> thing that is in the earth shall die.
+AUTHOLD-E2-H,6,1G.322
+
+18 AUTHOLD-E2-H,6,1G.323
+
+But with thee <normalised orig="wil" auto="true">will</normalised> I establish my <normalised orig="Couenant" auto="true">Covenant</normalised>: AUTHOLD-E2-H,6,1G.324
+
+and thou shalt come into the <normalised orig="Arke" auto="true">Arc</normalised>, thou, and thy <normalised orig="sonnes" auto="true">sons</normalised>, and thy wife,
+and thy <normalised orig="sonnes" auto="true">sons</normalised> <normalised orig="wiues" auto="true">wives</normalised> with thee.  AUTHOLD-E2-H,6,1G.325
+
+19 AUTHOLD-E2-H,6,1G.326
+
+And of <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> thing of all flesh, two of <normalised orig="euery" auto="true">every</normalised> <font> sort <$$font>
+shalt thou bring into the <normalised orig="Arke" auto="true">Arc</normalised>, to <normalised orig="keepe" auto="true">keep</normalised> <font> them <$$font> <normalised orig="aliue" auto="true">alive</normalised> with
+thee: AUTHOLD-E2-H,6,1G.327
+
+they shall be male and female.  AUTHOLD-E2-H,6,1G.328
+
+<P_6,20G>
+
+20 AUTHOLD-E2-H,6,20G.330
+
+Of <normalised orig="fowles" auto="true">fowls</normalised> after their <normalised orig="kinde" auto="true">kind</normalised>, and of <normalised orig="cattel" auto="true">cattle</normalised> after their <normalised orig="kinde" auto="true">kind</normalised>: of <normalised orig="euery" auto="true">every</normalised>
+creeping thing of the earth after his <normalised orig="kinde" auto="true">kind</normalised>, two of <normalised orig="euery" auto="true">every</normalised> <font> sort
+<$$font> shall come <normalised orig="vnto" auto="true">unto</normalised> thee, to <normalised orig="keepe" auto="true">keep</normalised> <font> them <$$font> <normalised orig="aliue" auto="true">alive</normalised>.
+AUTHOLD-E2-H,6,20G.331
+
+21 AUTHOLD-E2-H,6,20G.332
+
+And take thou <normalised orig="vnto" auto="true">unto</normalised> thee of all food that is eaten, AUTHOLD-E2-H,6,20G.333
+
+and thou shalt gather <font> it <$$font> to thee; AUTHOLD-E2-H,6,20G.334
+
+and it shall be for food, for thee, and for them.  AUTHOLD-E2-H,6,20G.335
+
+22 AUTHOLD-E2-H,6,20G.336
+
+Thus did Noah; AUTHOLD-E2-H,6,20G.337
+
+according to all that God commanded him, so did he.
+AUTHOLD-E2-H,6,20G.338
+
+<P_7,1G>
+
+<heading>
+
+CHAP. VII.  AUTHOLD-E2-H,7,1G.341
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And the LORD <normalised orig="saide" auto="true">said</normalised> <normalised orig="vnto" auto="true">unto</normalised> Noah, Come thou and all thy house into the <normalised orig="Arke" auto="true">Arc</normalised>
+: AUTHOLD-E2-H,7,1G.344
+
+for thee <normalised orig="haue" auto="true">have</normalised> I <normalised orig="seene" auto="true">seen</normalised> righteous before me, in this generation.
+AUTHOLD-E2-H,7,1G.345
+
+2 AUTHOLD-E2-H,7,1G.346
+
+Of <normalised orig="euery" auto="true">every</normalised> <normalised orig="cleane" auto="true">clean</normalised> beast thou shalt take to thee by <normalised orig="seuens" auto="true">sevens</normalised>, the male and
+his female: and of <normalised orig="beastes" auto="true">beasts</normalised> that are not <normalised orig="cleane" auto="true">clean</normalised>, by two, the male and his
+female.  3 Of <normalised orig="fowles" auto="true">fowls</normalised> also of the <normalised orig="aire" auto="true">air</normalised>, by <normalised orig="seuens" auto="true">sevens</normalised>, the male & the female;
+to <normalised orig="keepe" auto="true">keep</normalised> seed <normalised orig="aliue" auto="true">alive</normalised> <normalised orig="vpon" auto="true">upon</normalised> the face of all the earth.  AUTHOLD-E2-H,7,1G.347
+
+4 AUTHOLD-E2-H,7,1G.348
+
+For yet <normalised orig="seuen" auto="true">seven</normalised> <normalised orig="dayes" auto="true">days</normalised>, AUTHOLD-E2-H,7,1G.349
+
+and I will cause it to <normalised orig="raine" auto="true">rain</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised>, and forty
+nights; AUTHOLD-E2-H,7,1G.350
+
+and <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> substance that I <normalised orig="haue" auto="true">have</normalised> made, will I destroy, fro off
+the face of the earth.  AUTHOLD-E2-H,7,1G.351
+
+5 AUTHOLD-E2-H,7,1G.352
+
+And Noah did according <normalised orig="vnto" auto="true">unto</normalised> all that the LORD commanded him.
+AUTHOLD-E2-H,7,1G.353
+
+6 AUTHOLD-E2-H,7,1G.354
+
+And Noah was <normalised orig="sixe" auto="true">six</normalised> hundred <normalised orig="yeeres" auto="true">years</normalised> old, when the flood of waters was <normalised orig="vpon" auto="true">upon</normalised>
+the earth.  AUTHOLD-E2-H,7,1G.355
+
+7 AUTHOLD-E2-H,7,1G.356
+
+And Noah went in, and his <normalised orig="sonnes" auto="true">sons</normalised>, and his wife, and his <normalised orig="sonnes" auto="true">sons</normalised>
+<normalised orig="wiues" auto="true">wives</normalised> with him, into the <normalised orig="Arke" auto="true">Arc</normalised>, because of the waters of the Flood.
+AUTHOLD-E2-H,7,1G.357
+
+8 AUTHOLD-E2-H,7,1G.358
+
+Of <normalised orig="cleane" auto="true">clean</normalised> beasts, & of beasts that are not <normalised orig="cleane" auto="true">clean</normalised>, & of <normalised orig="fowles" auto="true">fowls</normalised>, and of
+<normalised orig="euery" auto="true">every</normalised> thing that <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, 9 There went in two and two
+<normalised orig="vnto" auto="true">unto</normalised> Noah into the <normalised orig="Arke" auto="true">Arc</normalised>, the male & the female, as God had commanded Noah.
+AUTHOLD-E2-H,7,1G.359
+
+10 AUTHOLD-E2-H,7,1G.360
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> after <normalised orig="seuen" auto="true">seven</normalised> <normalised orig="dayes" auto="true">days</normalised>, that the waters of the Flood
+were <normalised orig="vpon" auto="true">upon</normalised> the earth.  AUTHOLD-E2-H,7,1G.361
+
+11 AUTHOLD-E2-H,7,1G.362
+
+In the <normalised orig="sixe" auto="true">six</normalised> hundredth <normalised orig="yeere" auto="true">year</normalised> of <normalised orig="Noahs" auto="true">Noways</normalised> life, in the second <normalised orig="moneth" auto="true">month</normalised>, the
+<normalised orig="seuenteenth" auto="true">seventeenth</normalised> day of the <normalised orig="moneth" auto="true">month</normalised>, the same day, were al the <normalised orig="fountaines" auto="true">fountains</normalised> of
+the great <normalised orig="deepe" auto="true">deep</normalised> broken <normalised orig="vp" auto="true">up</normalised>, AUTHOLD-E2-H,7,1G.363
+
+and the <normalised orig="windowes" auto="true">windows</normalised> of <normalised orig="heauen" auto="true">heaven</normalised> were opened.  AUTHOLD-E2-H,7,1G.364
+
+12 AUTHOLD-E2-H,7,1G.365
+
+And the <normalised orig="raine" auto="true">rain</normalised> was <normalised orig="vpon" auto="true">upon</normalised> the earth, <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised>, and <normalised orig="fortie" auto="true">forty</normalised> nights.
+AUTHOLD-E2-H,7,1G.366
+
+13 AUTHOLD-E2-H,7,1G.367
+
+In the <normalised orig="selfe" auto="true">self</normalised> same day <normalised orig="entred" auto="true">entered</normalised> Noah, and <normalised orig="Sem" auto="true">Seam</normalised>, and Ham, and <normalised orig="Japheth" auto="true">Japed</normalised>, the
+<normalised orig="sonnes" auto="true">sons</normalised> of Noah, and <normalised orig="Noahs" auto="true">Noways</normalised> wife, and the three <normalised orig="wiues" auto="true">wives</normalised> of his <normalised orig="sonnes" auto="true">sons</normalised> with
+them, into the <normalised orig="Arke" auto="true">Arc</normalised>, 14 They, and <normalised orig="euery" auto="true">every</normalised> beast after his <normalised orig="kinde" auto="true">kind</normalised>, & all
+the <normalised orig="cattell" auto="true">cattle</normalised> after their <normalised orig="kinde" auto="true">kind</normalised>: and <normalised orig="euery" auto="true">every</normalised> creeping thing that <normalised orig="creepeth" auto="true">creeps</normalised>
+<normalised orig="vpon" auto="true">upon</normalised> the earth after his <normalised orig="kinde" auto="true">kind</normalised>, and <normalised orig="euery" auto="true">every</normalised> <normalised orig="foule" auto="true">foul</normalised> after his <normalised orig="kinde" auto="true">kind</normalised>, <normalised orig="euery" auto="true">every</normalised>
+<normalised orig="birde" auto="true">bird</normalised> of <normalised orig="euery" auto="true">every</normalised> sort.  AUTHOLD-E2-H,7,1G.368
+
+15 AUTHOLD-E2-H,7,1G.369
+
+And they went in <normalised orig="vnto" auto="true">unto</normalised> Noah into the <normalised orig="Arke" auto="true">Arc</normalised>, two and two of all flesh,
+wherein is the breath of life.  AUTHOLD-E2-H,7,1G.370
+
+16 AUTHOLD-E2-H,7,1G.371
+
+And they that went in, went in male and female of all flesh, as God had
+<normalised orig="commaunded" auto="true">commanded</normalised> him: AUTHOLD-E2-H,7,1G.372
+
+and the LORD shut him in.  AUTHOLD-E2-H,7,1G.373
+
+17 AUTHOLD-E2-H,7,1G.374
+
+And the Flood was <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, AUTHOLD-E2-H,7,1G.375
+
+and the waters increased, AUTHOLD-E2-H,7,1G.376
+
+and bare <normalised orig="vp" auto="true">up</normalised> the <normalised orig="Arke" auto="true">Arc</normalised>, AUTHOLD-E2-H,7,1G.377
+
+and it was lift <normalised orig="vp" auto="true">up</normalised> <normalised orig="aboue" auto="true">above</normalised> the earth.  AUTHOLD-E2-H,7,1G.378
+
+18 AUTHOLD-E2-H,7,1G.379
+
+And the waters <normalised orig="preuailed" auto="true">prevailed</normalised>, AUTHOLD-E2-H,7,1G.380
+
+and were <normalised orig="encreased" auto="true">increased</normalised> greatly <normalised orig="vpon" auto="true">upon</normalised> the earth: AUTHOLD-E2-H,7,1G.381
+
+and the <normalised orig="Arke" auto="true">Arc</normalised> went <normalised orig="vpon" auto="true">upon</normalised> the face of the waters.  AUTHOLD-E2-H,7,1G.382
+
+19 AUTHOLD-E2-H,7,1G.383
+
+And the waters <normalised orig="preuailed" auto="true">prevailed</normalised> exceedingly <normalised orig="vpon" auto="true">upon</normalised> the earth, AUTHOLD-E2-H,7,1G.384
+
+and all the high <normalised orig="hils" auto="true">hills</normalised>, that <font> were <$$font> <normalised orig="vnder" auto="true">under</normalised> the whole <normalised orig="heauen" auto="true">heaven</normalised>,
+were <normalised orig="couered" auto="true">covered</normalised>.  AUTHOLD-E2-H,7,1G.385
+
+<P_7,20G>
+
+20 AUTHOLD-E2-H,7,20G.387
+
+<normalised orig="Fifteene" auto="true">Fifteen</normalised> cubits <normalised orig="vpward" auto="true">upward</normalised>, did the waters <normalised orig="preuaile" auto="true">prevail</normalised>; AUTHOLD-E2-H,7,20G.388
+
+and the <normalised orig="mountaines" auto="true">mountains</normalised> were <normalised orig="couered" auto="true">covered</normalised>.  AUTHOLD-E2-H,7,20G.389
+
+21 AUTHOLD-E2-H,7,20G.390
+
+And all flesh died, that <normalised orig="mooued" auto="true">moved</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, both of <normalised orig="fowle" auto="true">foul</normalised>, & of
+<normalised orig="cattell" auto="true">cattle</normalised>, and of beast, and of <normalised orig="euery" auto="true">every</normalised> creeping thing that <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised>
+the earth, and <normalised orig="euery" auto="true">every</normalised> man.  AUTHOLD-E2-H,7,20G.391
+
+22 AUTHOLD-E2-H,7,20G.392
+
+All in whose <normalised orig="nosethrils" auto="true">nostrils</normalised> was the breath of life, of all that was in the
+dry land, died.  AUTHOLD-E2-H,7,20G.393
+
+23 AUTHOLD-E2-H,7,20G.394
+
+And <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> substance was destroyed, which was <normalised orig="vpon" auto="true">upon</normalised> the face of the
+ground, both man and <normalised orig="cattell" auto="true">cattle</normalised>, and the creeping things, and the <normalised orig="foule" auto="true">foul</normalised> of
+the <normalised orig="heauen" auto="true">heaven</normalised>; AUTHOLD-E2-H,7,20G.395
+
+and they were destroyed from the earth: AUTHOLD-E2-H,7,20G.396
+
+and Noah <normalised orig="onely" auto="true">only</normalised> remained <normalised orig="aliue" auto="true">alive</normalised>, and they that <font> were <$$font> with
+him in the <normalised orig="Arke" auto="true">Arc</normalised>.  AUTHOLD-E2-H,7,20G.397
+
+24 AUTHOLD-E2-H,7,20G.398
+
+And the waters <normalised orig="preuailed" auto="true">prevailed</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, an hundred and fifty <normalised orig="dayes" auto="true">days</normalised>.
+AUTHOLD-E2-H,7,20G.399
+
+<P_8,1G>
+
+<heading>
+
+CHAP. VIII.  AUTHOLD-E2-H,8,1G.402
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And God <normalised orig="remembred" auto="true">remembered</normalised> Noah, and <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> thing, and all the <normalised orig="cattell" auto="true">cattle</normalised> that
+<font> was <$$font> with him in the <normalised orig="Arke" auto="true">Arc</normalised>: AUTHOLD-E2-H,8,1G.405
+
+and God made a <normalised orig="winde" auto="true">wind</normalised> to <normalised orig="passe" auto="true">pass</normalised> <normalised orig="ouer" auto="true">over</normalised> the earth, AUTHOLD-E2-H,8,1G.406
+
+and the waters <normalised orig="asswaged" auto="true">assuaged</normalised>.  AUTHOLD-E2-H,8,1G.407
+
+2 AUTHOLD-E2-H,8,1G.408
+
+The <normalised orig="fountaines" auto="true">fountains</normalised> also of the <normalised orig="deepe" auto="true">deep</normalised>, and the <normalised orig="windowes" auto="true">windows</normalised> of <normalised orig="heauen" auto="true">heaven</normalised> were stopped,
+AUTHOLD-E2-H,8,1G.409
+
+and the <normalised orig="raine" auto="true">rain</normalised> from <normalised orig="heauen" auto="true">heaven</normalised> was restrained.  AUTHOLD-E2-H,8,1G.410
+
+3 AUTHOLD-E2-H,8,1G.411
+
+And the waters returned from off the earth, continually:
+AUTHOLD-E2-H,8,1G.412
+
+and after the end of the hundred and <normalised orig="fiftie" auto="true">fifty</normalised> <normalised orig="dayes" auto="true">days</normalised>, the waters were abated.
+AUTHOLD-E2-H,8,1G.413
+
+4 AUTHOLD-E2-H,8,1G.414
+
+And the <normalised orig="Arke" auto="true">Arc</normalised> rested in the <normalised orig="seuenth" auto="true">seventh</normalised> <normalised orig="moneth" auto="true">month</normalised>, on the <normalised orig="seuenteenth" auto="true">seventeenth</normalised> day of
+the <normalised orig="moneth" auto="true">month</normalised>, <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="mountaines" auto="true">mountains</normalised> of <normalised orig="Ararat" auto="true">Arrowroot</normalised>.  AUTHOLD-E2-H,8,1G.415
+
+5 AUTHOLD-E2-H,8,1G.416
+
+And the waters decreased continually <normalised orig="vntill" auto="true">until</normalised> the tenth <normalised orig="moneth" auto="true">month</normalised>:
+AUTHOLD-E2-H,8,1G.417
+
+in the tenth <normalised orig="moneth" auto="true">month</normalised>, on the first <font> day <$$font> of the <normalised orig="moneth" auto="true">month</normalised>,
+were the tops of the <normalised orig="mountaines" auto="true">mountains</normalised> <normalised orig="seene" auto="true">seen</normalised>.  AUTHOLD-E2-H,8,1G.418
+
+6 AUTHOLD-E2-H,8,1G.419
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> at the end of forty <normalised orig="dayes" auto="true">days</normalised>, that Noah opened the
+window of the <normalised orig="Arke" auto="true">Arc</normalised> which he had made.  AUTHOLD-E2-H,8,1G.420
+
+7 AUTHOLD-E2-H,8,1G.421
+
+And he sent forth a <normalised orig="Rauen" auto="true">Raven</normalised>, which went <normalised orig="foorth" auto="true">forth</normalised> to and fro, <normalised orig="vntill" auto="true">until</normalised> the
+waters were dried <normalised orig="vp" auto="true">up</normalised> from off the earth.  AUTHOLD-E2-H,8,1G.422
+
+8 AUTHOLD-E2-H,8,1G.423
+
+Also <normalised orig="hee" auto="true">hoe</normalised> sent <normalised orig="foorth" auto="true">forth</normalised> a <normalised orig="doue" auto="true">dove</normalised> from him, to see if the waters were abated
+from off the face of the ground.  AUTHOLD-E2-H,8,1G.424
+
+9 AUTHOLD-E2-H,8,1G.425
+
+But the <normalised orig="doue" auto="true">dove</normalised> found no rest for the sole of her <normalised orig="foote" auto="true">foot</normalised>,
+AUTHOLD-E2-H,8,1G.426
+
+and she returned <normalised orig="vnto" auto="true">unto</normalised> him into the <normalised orig="Arke" auto="true">Arc</normalised>: AUTHOLD-E2-H,8,1G.427
+
+for the waters <font> were <$$font> on the face of the whole earth.
+AUTHOLD-E2-H,8,1G.428
+
+Then he put <normalised orig="foorth" auto="true">forth</normalised> his hand, AUTHOLD-E2-H,8,1G.429
+
+and <normalised orig="tooke" auto="true">took</normalised> her, AUTHOLD-E2-H,8,1G.430
+
+and pulled her in <normalised orig="vnto" auto="true">unto</normalised> him, into the <normalised orig="Arke" auto="true">Arc</normalised>.  AUTHOLD-E2-H,8,1G.431
+
+10 AUTHOLD-E2-H,8,1G.432
+
+And <normalised orig="hee" auto="true">hoe</normalised> stayed yet other <normalised orig="seuen" auto="true">seven</normalised> <normalised orig="dayes" auto="true">days</normalised>; AUTHOLD-E2-H,8,1G.433
+
+and <normalised orig="againe" auto="true">again</normalised> <normalised orig="hee" auto="true">hoe</normalised> sent <normalised orig="foorth" auto="true">forth</normalised> the <normalised orig="doue" auto="true">dove</normalised> out of the <normalised orig="Arke" auto="true">Arc</normalised>.
+AUTHOLD-E2-H,8,1G.434
+
+11 AUTHOLD-E2-H,8,1G.435
+
+And the <normalised orig="doue" auto="true">dove</normalised> came in to him in the <normalised orig="euening" auto="true">evening</normalised>, AUTHOLD-E2-H,8,1G.436
+
+and <normalised orig="loe" auto="true">lo</normalised>, in her mouth <font> was <$$font> an <normalised orig="Oliue" auto="true">Olive</normalised> <normalised orig="leafe" auto="true">leaf</normalised> <normalised orig="pluckt" auto="true">plucked</normalised> off:
+AUTHOLD-E2-H,8,1G.437
+
+So Noah knew that the waters were abated from off the earth.
+AUTHOLD-E2-H,8,1G.438
+
+12 AUTHOLD-E2-H,8,1G.439
+
+And <normalised orig="hee" auto="true">hoe</normalised> stayed yet other <normalised orig="seuen" auto="true">seven</normalised> <normalised orig="dayes" auto="true">days</normalised>, AUTHOLD-E2-H,8,1G.440
+
+and sent forth the <normalised orig="doue" auto="true">dove</normalised>, which returned not <normalised orig="againe" auto="true">again</normalised> <normalised orig="vnto" auto="true">unto</normalised> him any more.
+AUTHOLD-E2-H,8,1G.441
+
+13 AUTHOLD-E2-H,8,1G.442
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> in the <normalised orig="sixe" auto="true">six</normalised> hundredth and one <normalised orig="yeere" auto="true">year</normalised>, in the
+first <font> <normalised orig="moneth" auto="true">month</normalised> <$$font>, the first <font> day <$$font> of the
+<normalised orig="moneth" auto="true">month</normalised>, the waters were <normalised orig="dryed" auto="true">dried</normalised> <normalised orig="vp" auto="true">up</normalised> from <font> off <$$font> the earth:
+AUTHOLD-E2-H,8,1G.443
+
+and Noah <normalised orig="remooued" auto="true">removed</normalised> the <normalised orig="couering" auto="true">covering</normalised> of the <normalised orig="Arke" auto="true">Arc</normalised>, AUTHOLD-E2-H,8,1G.444
+
+and looked, AUTHOLD-E2-H,8,1G.445
+
+and behold, the face of the ground was <normalised orig="drie" auto="true">dry</normalised>.  AUTHOLD-E2-H,8,1G.446
+
+14 AUTHOLD-E2-H,8,1G.447
+
+And in the second <normalised orig="moneth" auto="true">month</normalised>, on the <normalised orig="seuen" auto="true">seven</normalised> and twentieth day of the <normalised orig="moneth" auto="true">month</normalised>,
+was the earth dried.  AUTHOLD-E2-H,8,1G.448
+
+15 AUTHOLD-E2-H,8,1G.449
+
+And God spake <normalised orig="vnto" auto="true">unto</normalised> Noah, saying, 16 <normalised orig="Goe" auto="true">Go</normalised> <normalised orig="foorth" auto="true">forth</normalised> of the <normalised orig="Arke" auto="true">Arc</normalised>, thou
+, and thy wife, and thy <normalised orig="sonnes" auto="true">sons</normalised>, and thy <normalised orig="sonnes" auto="true">sons</normalised> <normalised orig="wiues" auto="true">wives</normalised> with thee:
+AUTHOLD-E2-H,8,1G.450
+
+17 AUTHOLD-E2-H,8,1G.451
+
+Bring <normalised orig="foorth" auto="true">forth</normalised> with thee <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> thing that is with thee, of all flesh,
+<font> both <$$font> of <normalised orig="fowle" auto="true">foul</normalised>, and of <normalised orig="cattell" auto="true">cattle</normalised>, and of <normalised orig="euery" auto="true">every</normalised> creeping thing
+that <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, that they may breed abundantly in the earth,
+and be <normalised orig="fruitfull" auto="true">fruitful</normalised>, and multiply <normalised orig="vpon" auto="true">upon</normalised> the earth.  AUTHOLD-E2-H,8,1G.452
+
+18 AUTHOLD-E2-H,8,1G.453
+
+And Noah went <normalised orig="foorth" auto="true">forth</normalised>, and his <normalised orig="sonnes" auto="true">sons</normalised>, and his wife, and his <normalised orig="sonnes" auto="true">sons</normalised> <normalised orig="wiues" auto="true">wives</normalised>
+with him: AUTHOLD-E2-H,8,1G.454
+
+19 AUTHOLD-E2-H,8,1G.455
+
+<normalised orig="Euery" auto="true">Every</normalised> beast, <normalised orig="euery" auto="true">every</normalised> creeping thing, and <normalised orig="euery" auto="true">every</normalised> <normalised orig="fowle" auto="true">foul</normalised>, <font> and <$$font>
+<normalised orig="whatsoeuer" auto="true">whatsoever</normalised> <normalised orig="creepeth" auto="true">creeps</normalised> <normalised orig="vpon" auto="true">upon</normalised> the earth, after their kinds, went <normalised orig="foorth" auto="true">forth</normalised> out
+of the <normalised orig="Arke" auto="true">Arc</normalised>.  AUTHOLD-E2-H,8,1G.456
+
+<P_8,20G>
+
+20 AUTHOLD-E2-H,8,20G.458
+
+And Noah <normalised orig="builded" auto="true">balded</normalised> an Altar <normalised orig="vnto" auto="true">unto</normalised> the LORD, AUTHOLD-E2-H,8,20G.459
+
+and <normalised orig="tooke" auto="true">took</normalised> of <normalised orig="euery" auto="true">every</normalised> <normalised orig="cleane" auto="true">clean</normalised> beast, and of <normalised orig="euery" auto="true">every</normalised> <normalised orig="cleane" auto="true">clean</normalised> <normalised orig="fowle" auto="true">foul</normalised>,
+AUTHOLD-E2-H,8,20G.460
+
+and <normalised orig="offred" auto="true">offered</normalised> burnt <normalised orig="offrings" auto="true">offerings</normalised> on the Altar.  AUTHOLD-E2-H,8,20G.461
+
+21 AUTHOLD-E2-H,8,20G.462
+
+And the LORD smelled a <normalised orig="sweete" auto="true">sweet</normalised> <normalised orig="sauour" auto="true">savour</normalised>, AUTHOLD-E2-H,8,20G.463
+
+and the LORD said in his heart, I will not <normalised orig="againe" auto="true">again</normalised> curse the ground any
+more for mans sake; AUTHOLD-E2-H,8,20G.464
+
+for the imagination of mans heart <font> is <$$font> <normalised orig="euil" auto="true">evil</normalised> from his youth
+: AUTHOLD-E2-H,8,20G.465
+
+neither will I <normalised orig="againe" auto="true">again</normalised> smite any more <normalised orig="euery" auto="true">every</normalised> thing <normalised orig="liuing" auto="true">living</normalised>, as I <normalised orig="haue" auto="true">have</normalised> done.
+AUTHOLD-E2-H,8,20G.466
+
+22 AUTHOLD-E2-H,8,20G.467
+
+While the earth <normalised orig="remaineth" auto="true">remains</normalised>, <normalised orig="seedtime" auto="true">seed-time</normalised> and <normalised orig="haruest" auto="true">harvest</normalised>, and cold, and
+heat, and Summer, and Winter, and day and night, shall not cease.
+AUTHOLD-E2-H,8,20G.468
+
+<P_9,1G>
+
+<heading>
+
+CHAP. IX.  AUTHOLD-E2-H,9,1G.471
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And God blessed Noah, and his <normalised orig="sonnes" auto="true">sons</normalised>, AUTHOLD-E2-H,9,1G.474
+
+and said <normalised orig="vnto" auto="true">unto</normalised> them, Bee <normalised orig="fruitfull" auto="true">fruitful</normalised> AUTHOLD-E2-H,9,1G.475
+
+and multiply, AUTHOLD-E2-H,9,1G.476
+
+and replenish the earth.  AUTHOLD-E2-H,9,1G.477
+
+2 AUTHOLD-E2-H,9,1G.478
+
+And the <normalised orig="feare" auto="true">fear</normalised> of you, & the dread of you shall be <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="euery" auto="true">every</normalised> beast of
+the earth, and <normalised orig="vpon" auto="true">upon</normalised> <normalised orig="euery" auto="true">every</normalised> <normalised orig="fowle" auto="true">foul</normalised> of the <normalised orig="aire" auto="true">air</normalised>, <normalised orig="vpon" auto="true">upon</normalised> all that <normalised orig="mooueth" auto="true">moves</normalised>
+<font> <normalised orig="vpon" auto="true">upon</normalised> <$$font> the earth, and <normalised orig="vpon" auto="true">upon</normalised> all the fishes of the sea;
+AUTHOLD-E2-H,9,1G.479
+
+into your hand are they <normalised orig="deliuered" auto="true">delivered</normalised>.  AUTHOLD-E2-H,9,1G.480
+
+3 AUTHOLD-E2-H,9,1G.481
+
+<normalised orig="Euery" auto="true">Every</normalised> <normalised orig="mouing" auto="true">moving</normalised> thing that <normalised orig="liueth" auto="true">lives</normalised>, $shall $be {TEXT:shalbe} meat for you;
+AUTHOLD-E2-H,9,1G.482
+
+<normalised orig="euen" auto="true">even</normalised> as the greene <normalised orig="herbe" auto="true">herb</normalised> <normalised orig="haue" auto="true">have</normalised> I <normalised orig="giuen" auto="true">given</normalised> you all things.
+AUTHOLD-E2-H,9,1G.483
+
+4 AUTHOLD-E2-H,9,1G.484
+
+But flesh with the life thereof, <font> which <$$font> is the blood
+thereof, shall you not <normalised orig="eate" auto="true">eat</normalised>.  AUTHOLD-E2-H,9,1G.485
+
+5 AUTHOLD-E2-H,9,1G.486
+
+And surely your blood of your <normalised orig="liues" auto="true">lives</normalised> will I require: AUTHOLD-E2-H,9,1G.487
+
+at the hand of <normalised orig="euery" auto="true">every</normalised> beast will I require it, AUTHOLD-E2-H,9,1G.488
+
+& at the hand of man, at the hand of <normalised orig="euery" auto="true">every</normalised> mans brother will I require
+the life of man.  AUTHOLD-E2-H,9,1G.489
+
+6 AUTHOLD-E2-H,9,1G.490
+
+Who so <normalised orig="sheddeth" auto="true">shed</normalised> mans blood, by man shall his blood be shed:
+AUTHOLD-E2-H,9,1G.491
+
+for in the image of God made he man.  AUTHOLD-E2-H,9,1G.492
+
+7 AUTHOLD-E2-H,9,1G.493
+
+And you, be ye <normalised orig="fruitfull" auto="true">fruitful</normalised>, AUTHOLD-E2-H,9,1G.494
+
+and multiply, AUTHOLD-E2-H,9,1G.495
+
+bring <normalised orig="foorth" auto="true">forth</normalised> <normalised orig="aboundantly" auto="true">abundantly</normalised> in the earth, AUTHOLD-E2-H,9,1G.496
+
+and multiply therein.  AUTHOLD-E2-H,9,1G.497
+
+8 AUTHOLD-E2-H,9,1G.498
+
+And God spake <normalised orig="vnto" auto="true">unto</normalised> Noah, and to his <normalised orig="sonnes" auto="true">sons</normalised> with him, saying; 9 And I,
+behold, I establish my <normalised orig="couenant" auto="true">covenant</normalised> with you, and with your <normalised orig="seede" auto="true">seed</normalised> after you
+: 10 And with <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> creature that <font> is <$$font> with you,
+of the <normalised orig="fowle" auto="true">foul</normalised>, of the <normalised orig="cattell" auto="true">cattle</normalised>, and of <normalised orig="euery" auto="true">every</normalised> beast of the earth with
+you, from all that <normalised orig="goe" auto="true">go</normalised> out of the <normalised orig="Arke" auto="true">Arc</normalised>, to <normalised orig="euery" auto="true">every</normalised> beast of the earth.
+AUTHOLD-E2-H,9,1G.499
+
+11 AUTHOLD-E2-H,9,1G.500
+
+And I <normalised orig="wil" auto="true">will</normalised> establish my <normalised orig="couenant" auto="true">covenant</normalised> with you, AUTHOLD-E2-H,9,1G.501
+
+neither <normalised orig="shal" auto="true">shall</normalised> all flesh be cut off any more, by the waters of a flood,
+AUTHOLD-E2-H,9,1G.502
+
+neither shall there any more be a flood to destroy the earth.
+AUTHOLD-E2-H,9,1G.503
+
+12 AUTHOLD-E2-H,9,1G.504
+
+And God said, This is the token of the <normalised orig="Couenant" auto="true">Covenant</normalised> which I make <normalised orig="betweene" auto="true">between</normalised>
+<normalised orig="mee" auto="true">me</normalised> and you, and <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> creature that is with you, for <normalised orig="perpetuall" auto="true">perpetual</normalised>
+generations.  AUTHOLD-E2-H,9,1G.505
+
+13 AUTHOLD-E2-H,9,1G.506
+
+I doe set my bow in the cloud, AUTHOLD-E2-H,9,1G.507
+
+and it shall be for a token of a <normalised orig="couenant" auto="true">covenant</normalised>, <normalised orig="betweene" auto="true">between</normalised> me and the earth.
+AUTHOLD-E2-H,9,1G.508
+
+14 AUTHOLD-E2-H,9,1G.509
+
+And it shall come to <normalised orig="passe" auto="true">pass</normalised>, when I bring a cloud <normalised orig="ouer" auto="true">over</normalised> the earth, that
+the bow shall be <normalised orig="seene" auto="true">seen</normalised> in the cloud.  AUTHOLD-E2-H,9,1G.510
+
+15 AUTHOLD-E2-H,9,1G.511
+
+And I will remember my <normalised orig="couenant" auto="true">covenant</normalised>, which is <normalised orig="betweene" auto="true">between</normalised> <normalised orig="mee" auto="true">me</normalised> and you, and
+<normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> creature of all flesh: AUTHOLD-E2-H,9,1G.512
+
+and the waters shall no more become a flood to destroy all flesh.
+AUTHOLD-E2-H,9,1G.513
+
+16 AUTHOLD-E2-H,9,1G.514
+
+And the bow $shall $be {TEXT:shalbe} in the cloud; AUTHOLD-E2-H,9,1G.515
+
+and I will <normalised orig="looke" auto="true">look</normalised> <normalised orig="vpon" auto="true">upon</normalised> it, that I may remember the <normalised orig="euerlasting" auto="true">everlasting</normalised> <normalised orig="couenant" auto="true">covenant</normalised>
+<normalised orig="betweene" auto="true">between</normalised> God and <normalised orig="euery" auto="true">every</normalised> <normalised orig="liuing" auto="true">living</normalised> creature, of all flesh that <font> is
+<$$font> <normalised orig="vpon" auto="true">upon</normalised> the earth.  AUTHOLD-E2-H,9,1G.516
+
+17 AUTHOLD-E2-H,9,1G.517
+
+And God said <normalised orig="vnto" auto="true">unto</normalised> Noah, This <font> is <$$font> the token of the <normalised orig="couenant" auto="true">covenant</normalised>
+, which I <normalised orig="haue" auto="true">have</normalised> established <normalised orig="betweene" auto="true">between</normalised> <normalised orig="mee" auto="true">me</normalised> and all flesh, that <font>
+is <$$font> <normalised orig="vpon" auto="true">upon</normalised> the earth.  AUTHOLD-E2-H,9,1G.518
+
+18 AUTHOLD-E2-H,9,1G.519
+
+And the <normalised orig="sonnes" auto="true">sons</normalised> of Noah that went forth of the <normalised orig="Arke" auto="true">Arc</normalised>, were <normalised orig="Shem" auto="true">Sham</normalised>, and Ham,
+and <normalised orig="Iaphet" auto="true">Aphid</normalised>: AUTHOLD-E2-H,9,1G.520
+
+and Ham is the father of <normalised orig="Canaan" auto="true">Cannon</normalised>.  AUTHOLD-E2-H,9,1G.521
+
+19 AUTHOLD-E2-H,9,1G.522
+
+These <font> are <$$font> the three <normalised orig="sonnes" auto="true">sons</normalised> of Noah: AUTHOLD-E2-H,9,1G.523
+
+and of them was the whole earth <normalised orig="ouerspread" auto="true">overspread</normalised>.  AUTHOLD-E2-H,9,1G.524
+
+<P_9,20G>
+
+20 AUTHOLD-E2-H,9,20G.526
+
+And Noah began <font> to bee <$$font> an <normalised orig="husbandman" auto="true">husbandman's</normalised>,
+AUTHOLD-E2-H,9,20G.527
+
+and he planted a vineyard.  AUTHOLD-E2-H,9,20G.528
+
+21 AUTHOLD-E2-H,9,20G.529
+
+And he <normalised orig="dranke" auto="true">drank</normalised> of the wine, AUTHOLD-E2-H,9,20G.530
+
+and was drunken, AUTHOLD-E2-H,9,20G.531
+
+and <normalised orig="hee" auto="true">hoe</normalised> was <normalised orig="vncouered" auto="true">uncovered</normalised> within his tent.  AUTHOLD-E2-H,9,20G.532
+
+22 AUTHOLD-E2-H,9,20G.533
+
+And Ham, the father of <normalised orig="Canaan" auto="true">Cannon</normalised>, saw the <normalised orig="nakednesse" auto="true">nakedness</normalised> of his father,
+AUTHOLD-E2-H,9,20G.534
+
+and told his two brethren without.  AUTHOLD-E2-H,9,20G.535
+
+23 AUTHOLD-E2-H,9,20G.536
+
+And <normalised orig="Shem" auto="true">Sham</normalised> and <normalised orig="Iaphet" auto="true">Aphid</normalised> <normalised orig="tooke" auto="true">took</normalised> a garment, AUTHOLD-E2-H,9,20G.537
+
+and <normalised orig="layed" auto="true">laid</normalised> <font> it <$$font> <normalised orig="vpon" auto="true">upon</normalised> both their shoulders,
+AUTHOLD-E2-H,9,20G.538
+
+and went backward, AUTHOLD-E2-H,9,20G.539
+
+and <normalised orig="couered" auto="true">covered</normalised> the <normalised orig="nakednesse" auto="true">nakedness</normalised> of their father, AUTHOLD-E2-H,9,20G.540
+
+and their faces <font> were <$$font> backward, AUTHOLD-E2-H,9,20G.541
+
+and they saw not their fathers <normalised orig="nakednesse" auto="true">nakedness</normalised>.  AUTHOLD-E2-H,9,20G.542
+
+24 AUTHOLD-E2-H,9,20G.543
+
+And Noah awoke from his wine, AUTHOLD-E2-H,9,20G.544
+
+and knew what his <normalised orig="yonger" auto="true">younger</normalised> <normalised orig="sonne" auto="true">son</normalised> had done <normalised orig="vnto" auto="true">unto</normalised> him.  AUTHOLD-E2-H,9,20G.545
+
+25 AUTHOLD-E2-H,9,20G.546
+
+And he said, Cursed <font> bee <$$font> <normalised orig="Canaan" auto="true">Cannon</normalised>: AUTHOLD-E2-H,9,20G.547
+
+a <normalised orig="seruant" auto="true">servant</normalised> of <normalised orig="seruants" auto="true">servants</normalised> shall <normalised orig="hee" auto="true">hoe</normalised> be <normalised orig="vnto" auto="true">unto</normalised> his brethren.
+AUTHOLD-E2-H,9,20G.548
+
+26 AUTHOLD-E2-H,9,20G.549
+
+And <normalised orig="hee" auto="true">hoe</normalised> <normalised orig="saide" auto="true">said</normalised>, Blessed <font> bee <$$font> the LORD God of <normalised orig="Shem" auto="true">Sham</normalised>,
+AUTHOLD-E2-H,9,20G.550
+
+and <normalised orig="Canaan" auto="true">Cannon</normalised> $shall $be {TEXT:shalbe} his <normalised orig="seruant" auto="true">servant</normalised>.  AUTHOLD-E2-H,9,20G.551
+
+27 AUTHOLD-E2-H,9,20G.552
+
+God shall enlarge <normalised orig="Iaphet" auto="true">Aphid</normalised>, AUTHOLD-E2-H,9,20G.553
+
+and he <normalised orig="shal" auto="true">shall</normalised> <normalised orig="dwel" auto="true">dwell</normalised> in the tents of <normalised orig="Shem" auto="true">Sham</normalised>, AUTHOLD-E2-H,9,20G.554
+
+and <normalised orig="Canaan" auto="true">Cannon</normalised> $shall $be {TEXT:shalbe} his <normalised orig="seruant" auto="true">servant</normalised>.  AUTHOLD-E2-H,9,20G.555
+
+28 AUTHOLD-E2-H,9,20G.556
+
+And Noah <normalised orig="liued" auto="true">lived</normalised> after the flood, three hundred and fifty <normalised orig="yeeres" auto="true">years</normalised>.
+AUTHOLD-E2-H,9,20G.557
+
+29 AUTHOLD-E2-H,9,20G.558
+
+And all the <normalised orig="dayes" auto="true">days</normalised> of Noah were nine hundred & fifty <normalised orig="yeeres" auto="true">years</normalised>,
+AUTHOLD-E2-H,9,20G.559
+
+and he died.  AUTHOLD-E2-H,9,20G.560
+
+<P_12,1G>
+
+<heading>
+
+CHAP. XII.  AUTHOLD-E2-H,12,1G.563
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+Now the LORD had said <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Abram" auto="true">Abraham</normalised>, Get thee out of thy <normalised orig="countrey" auto="true">country</normalised>, and from
+thy <normalised orig="kinred" auto="true">kindred</normalised>, and from thy fathers house, <normalised orig="vnto" auto="true">unto</normalised> a land that I will <normalised orig="shew" auto="true">show</normalised> thee.
+2 And I will make of thee a great nation, AUTHOLD-E2-H,12,1G.566
+
+and I <normalised orig="wil" auto="true">will</normalised> <normalised orig="blesse" auto="true">bless</normalised> thee, and make thy name great; AUTHOLD-E2-H,12,1G.567
+
+and thou shalt bee a blessing.  AUTHOLD-E2-H,12,1G.568
+
+3 AUTHOLD-E2-H,12,1G.569
+
+And I will <normalised orig="blesse" auto="true">bless</normalised> them that <normalised orig="blesse" auto="true">bless</normalised> thee, and curse him, that <normalised orig="curseth" auto="true">curses</normalised>
+thee: AUTHOLD-E2-H,12,1G.570
+
+and in thee <normalised orig="shal" auto="true">shall</normalised> all families of the earth be blessed.
+AUTHOLD-E2-H,12,1G.571
+
+4 AUTHOLD-E2-H,12,1G.572
+
+So <normalised orig="Abram" auto="true">Abraham</normalised> departed, as the LORD had spoken <normalised orig="vnto" auto="true">unto</normalised> him, AUTHOLD-E2-H,12,1G.573
+
+and Lot went with him: AUTHOLD-E2-H,12,1G.574
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> was <normalised orig="seuentie" auto="true">seventy</normalised> and <normalised orig="fiue" auto="true">five</normalised> <normalised orig="yeeres" auto="true">years</normalised> old when he departed out of <normalised orig="Haran" auto="true">Harem</normalised>.
+AUTHOLD-E2-H,12,1G.575
+
+5 AUTHOLD-E2-H,12,1G.576
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> <normalised orig="tooke" auto="true">took</normalised> <normalised orig="Sarai" auto="true">Sarah</normalised> his wife, and Lot his brothers <normalised orig="sonne" auto="true">son</normalised>, and all
+their substance that they had gathered, and the <normalised orig="soules" auto="true">souls</normalised> that they had
+gotten in <normalised orig="Haran" auto="true">Harem</normalised>, AUTHOLD-E2-H,12,1G.577
+
+and they went <normalised orig="foorth" auto="true">forth</normalised> to <normalised orig="goe" auto="true">go</normalised> into the land of <normalised orig="Canaan" auto="true">Cannon</normalised>:
+AUTHOLD-E2-H,12,1G.578
+
+and into the land of <normalised orig="Canaan" auto="true">Cannon</normalised> they came.  AUTHOLD-E2-H,12,1G.579
+
+6 AUTHOLD-E2-H,12,1G.580
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> passed through the land, <normalised orig="vnto" auto="true">unto</normalised> the place of <normalised orig="Sichem" auto="true">Sachem</normalised>, <normalised orig="vnto" auto="true">unto</normalised> the
+<normalised orig="plaine" auto="true">plain</normalised> of <normalised orig="Moreh" auto="true">More</normalised>.  AUTHOLD-E2-H,12,1G.581
+
+And the <normalised orig="Canaanite" auto="true">Cannonade</normalised> <font> was <$$font> then in the land.
+AUTHOLD-E2-H,12,1G.582
+
+7 AUTHOLD-E2-H,12,1G.583
+
+And the LORD appeared <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Abram" auto="true">Abraham</normalised>, AUTHOLD-E2-H,12,1G.584
+
+and said, <normalised orig="Vnto" auto="true">Unto</normalised> thy seed <normalised orig="wil" auto="true">will</normalised> I <normalised orig="giue" auto="true">give</normalised> this land: AUTHOLD-E2-H,12,1G.585
+
+and there <normalised orig="builded" auto="true">balded</normalised> <normalised orig="hee" auto="true">hoe</normalised> an altar <normalised orig="vnto" auto="true">unto</normalised> the LORD, who appeared <normalised orig="vnto" auto="true">unto</normalised> him.
+AUTHOLD-E2-H,12,1G.586
+
+8 AUTHOLD-E2-H,12,1G.587
+
+And he <normalised orig="remoued" auto="true">removed</normalised> from thence <normalised orig="vnto" auto="true">unto</normalised> a <normalised orig="mountaine" auto="true">mountain</normalised>, on the East of Beth-el,
+AUTHOLD-E2-H,12,1G.588
+
+and pitched his tent <font> <normalised orig="hauing" auto="true">having</normalised> <$$font> Beth-el on the West, and
+<normalised orig="Hai" auto="true">Hoe</normalised> on the East: AUTHOLD-E2-H,12,1G.589
+
+and there <normalised orig="hee" auto="true">hoe</normalised> <normalised orig="builded" auto="true">balded</normalised> an altar <normalised orig="vnto" auto="true">unto</normalised> the LORD, AUTHOLD-E2-H,12,1G.590
+
+and called <normalised orig="vpon" auto="true">upon</normalised> the Name of the LORD.  AUTHOLD-E2-H,12,1G.591
+
+9 AUTHOLD-E2-H,12,1G.592
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> <normalised orig="iourneyed" auto="true">journeyed</normalised>, going on still toward the South.
+AUTHOLD-E2-H,12,1G.593
+
+10 AUTHOLD-E2-H,12,1G.594
+
+And there was a famine in the land, AUTHOLD-E2-H,12,1G.595
+
+and <normalised orig="Abram" auto="true">Abraham</normalised> went <normalised orig="downe" auto="true">down</normalised> into Egypt, to <normalised orig="soiourne" auto="true">sojourn</normalised> there: AUTHOLD-E2-H,12,1G.596
+
+for the famine was <normalised orig="grieuous" auto="true">grievous</normalised> in the land.  AUTHOLD-E2-H,12,1G.597
+
+11 AUTHOLD-E2-H,12,1G.598
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> when he was come <normalised orig="neere" auto="true">near</normalised> to enter into Egypt, that
+he said <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Sarai" auto="true">Sarah</normalised> his wife, Behold now, I know that thou art a <normalised orig="faire" auto="true">fair</normalised>
+woman to <normalised orig="looke" auto="true">look</normalised> <normalised orig="vpon" auto="true">upon</normalised>.  AUTHOLD-E2-H,12,1G.599
+
+12 AUTHOLD-E2-H,12,1G.600
+
+Therefore it shall come to <normalised orig="passe" auto="true">pass</normalised>, when the Egyptians shall see thee,
+that they shall say, This is his wife: AUTHOLD-E2-H,12,1G.601
+
+and they will kill me, AUTHOLD-E2-H,12,1G.602
+
+but they will <normalised orig="saue" auto="true">save</normalised> thee <normalised orig="aliue" auto="true">alive</normalised>.  AUTHOLD-E2-H,12,1G.603
+
+13 AUTHOLD-E2-H,12,1G.604
+
+Say, I pray thee, thou art my sister, that it may be <normalised orig="wel" auto="true">well</normalised> with me, for
+thy sake; AUTHOLD-E2-H,12,1G.605
+
+and my <normalised orig="soule" auto="true">soul</normalised> shall <normalised orig="liue" auto="true">live</normalised>, because of thee.  AUTHOLD-E2-H,12,1G.606
+
+14 AUTHOLD-E2-H,12,1G.607
+
+And it came to <normalised orig="passe" auto="true">pass</normalised>, that when <normalised orig="Abram" auto="true">Abraham</normalised> was come into Egypt, the Egyptians
+beheld the woman, that <normalised orig="shee" auto="true">she</normalised> was very <normalised orig="faire" auto="true">fair</normalised>.  AUTHOLD-E2-H,12,1G.608
+
+15 AUTHOLD-E2-H,12,1G.609
+
+The Princes also of Pharaoh saw her, AUTHOLD-E2-H,12,1G.610
+
+and commended her before Pharaoh: AUTHOLD-E2-H,12,1G.611
+
+and the woman was taken into Pharaohs house.  AUTHOLD-E2-H,12,1G.612
+
+16 AUTHOLD-E2-H,12,1G.613
+
+And he entreated <normalised orig="Abram" auto="true">Abraham</normalised> well for her sake: AUTHOLD-E2-H,12,1G.614
+
+and he had <normalised orig="sheepe" auto="true">sheep</normalised>, and oxen, and <normalised orig="hee" auto="true">hoe</normalised> asses, and men <normalised orig="seruants" auto="true">servants</normalised>, and maid
+<normalised orig="seruants" auto="true">servants</normalised>, and <normalised orig="shee" auto="true">she</normalised> asses, and camels.  AUTHOLD-E2-H,12,1G.615
+
+17 AUTHOLD-E2-H,12,1G.616
+
+And the LORD plagued Pharaoh & his house with great plagues, because of
+<normalised orig="Sarai" auto="true">Sarah</normalised> <normalised orig="Abrams" auto="true">Aprons</normalised> wife.  AUTHOLD-E2-H,12,1G.617
+
+18 AUTHOLD-E2-H,12,1G.618
+
+And Pharaoh called <normalised orig="Abram" auto="true">Abraham</normalised>, AUTHOLD-E2-H,12,1G.619
+
+and said, What is this that thou <normalised orig="hast" auto="true">haste</normalised> done <normalised orig="vnto" auto="true">unto</normalised> me?
+AUTHOLD-E2-H,12,1G.620
+
+Why <normalised orig="diddest" auto="true">did</normalised> thou not tell me, that she was thy wife?
+AUTHOLD-E2-H,12,1G.621
+
+19 AUTHOLD-E2-H,12,1G.622
+
+Why <normalised orig="saidest" auto="true">saddest</normalised> thou, <normalised orig="Shee" auto="true">She</normalised> is my sister?  so I might <normalised orig="haue" auto="true">have</normalised> taken her to <normalised orig="mee" auto="true">me</normalised>
+to wife: AUTHOLD-E2-H,12,1G.623
+
+now <normalised orig="therfore" auto="true">therefore</normalised> behold, thy wife, AUTHOLD-E2-H,12,1G.624
+
+take <font> her <$$font> AUTHOLD-E2-H,12,1G.625
+
+and <normalised orig="goe" auto="true">go</normalised> thy way.  AUTHOLD-E2-H,12,1G.626
+
+<P_12,20G>
+
+20 AUTHOLD-E2-H,12,20G.628
+
+And Pharaoh <normalised orig="comanded" auto="true">commanded</normalised> <font> his <$$font> men concerning him:
+AUTHOLD-E2-H,12,20G.629
+
+and they sent him away, and his wife, and all that he had.
+AUTHOLD-E2-H,12,20G.630
+
+<P_13,1G>
+
+<heading>
+
+CHAP. XIII.  AUTHOLD-E2-H,13,1G.633
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> went <normalised orig="vp" auto="true">up</normalised> out of Egypt, he and his wife, and all that he had,
+and Lot with him, into the South.  AUTHOLD-E2-H,13,1G.636
+
+2 AUTHOLD-E2-H,13,1G.637
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> was very rich in <normalised orig="cattell" auto="true">cattle</normalised>, in <normalised orig="siluer" auto="true">silver</normalised>, and in gold.
+AUTHOLD-E2-H,13,1G.638
+
+3 AUTHOLD-E2-H,13,1G.639
+
+And <normalised orig="hee" auto="true">hoe</normalised> went on his <normalised orig="iourneyes" auto="true">journeys</normalised> from the South, <normalised orig="euen" auto="true">even</normalised> to Beth-el, <normalised orig="vnto" auto="true">unto</normalised> the
+place where his tent had <normalised orig="bene" auto="true">been</normalised> at the beginning, <normalised orig="betweene" auto="true">between</normalised> Beth-el and <normalised orig="Hai" auto="true">Hoe</normalised>:
+4 <normalised orig="Vnto" auto="true">Unto</normalised> the place of the altar, which he had made there at the first:
+AUTHOLD-E2-H,13,1G.640
+
+and there <normalised orig="Abram" auto="true">Abraham</normalised> called on the Name of the LORD.  AUTHOLD-E2-H,13,1G.641
+
+5 AUTHOLD-E2-H,13,1G.642
+
+And Lot also which went with <normalised orig="Abram" auto="true">Abraham</normalised>, had flocks and <normalised orig="heards" auto="true">herds</normalised>, & tents.
+AUTHOLD-E2-H,13,1G.643
+
+6 AUTHOLD-E2-H,13,1G.644
+
+And the land was not able to <normalised orig="beare" auto="true">bear</normalised> them, that they might dwell together
+: AUTHOLD-E2-H,13,1G.645
+
+for their substance was great, so that they could not dwell together.
+AUTHOLD-E2-H,13,1G.646
+
+7 AUTHOLD-E2-H,13,1G.647
+
+And there was a strife <normalised orig="betweene" auto="true">between</normalised> the <normalised orig="heardmen" auto="true">herdsman</normalised> of <normalised orig="Abrams" auto="true">Aprons</normalised> <normalised orig="cattell" auto="true">cattle</normalised>, and the
+<normalised orig="heardmen" auto="true">herdsman</normalised> of Lots <normalised orig="cattell" auto="true">cattle</normalised>: AUTHOLD-E2-H,13,1G.648
+
+And the <normalised orig="Canaanite" auto="true">Cannonade</normalised>, and the <normalised orig="Perizzite" auto="true">Parasite</normalised> <normalised orig="dwelled" auto="true">duelled</normalised> then in the land.
+AUTHOLD-E2-H,13,1G.649
+
+8 AUTHOLD-E2-H,13,1G.650
+
+And <normalised orig="Abram" auto="true">Abraham</normalised> said <normalised orig="vnto" auto="true">unto</normalised> Lot, Let there be no strife, I pray thee,
+<normalised orig="betweene" auto="true">between</normalised> <normalised orig="mee" auto="true">me</normalised> and thee, and <normalised orig="betweene" auto="true">between</normalised> my <normalised orig="heardmen" auto="true">herdsman</normalised> and thy <normalised orig="heardmen" auto="true">herdsman</normalised>:
+AUTHOLD-E2-H,13,1G.651
+
+for wee bee brethren.  AUTHOLD-E2-H,13,1G.652
+
+9 AUTHOLD-E2-H,13,1G.653
+
+Is not the whole land before thee?  AUTHOLD-E2-H,13,1G.654
+
+Separate thy <normalised orig="selfe" auto="true">self</normalised>, I pray thee, from <normalised orig="mee" auto="true">me</normalised>: AUTHOLD-E2-H,13,1G.655
+
+if thou <font> wilt take <$$font> the left hand, then I will <normalised orig="goe" auto="true">go</normalised> to the
+right: AUTHOLD-E2-H,13,1G.656
+
+or if thou <font> depart <$$font> to the right hand, then I will <normalised orig="goe" auto="true">go</normalised> to
+the left.  AUTHOLD-E2-H,13,1G.657
+
+10 AUTHOLD-E2-H,13,1G.658
+
+And Lot lifted <normalised orig="vp" auto="true">up</normalised> his eyes, AUTHOLD-E2-H,13,1G.659
+
+and beheld all the <normalised orig="plaine" auto="true">plain</normalised> of <normalised orig="Iordane" auto="true">Ordain</normalised>, that it was well watered <normalised orig="euery" auto="true">every</normalised> where
+before the Lord destroyed <normalised orig="Sodome" auto="true">Sodomy</normalised> and <normalised orig="Gomorah" auto="true">Gonorrhoea</normalised>, <font> <normalised orig="euen" auto="true">even</normalised> <$$font> as the
+garden of the LORD, like the land of Egypt, as thou <normalised orig="commest" auto="true">comes</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Zoar" auto="true">Soar</normalised>.
+AUTHOLD-E2-H,13,1G.660
+
+11 AUTHOLD-E2-H,13,1G.661
+
+Then Lot chose him all the <normalised orig="plaine" auto="true">plain</normalised> of <normalised orig="Iordane" auto="true">Ordain</normalised>: AUTHOLD-E2-H,13,1G.662
+
+and Lot <normalised orig="iourneyed" auto="true">journeyed</normalised> East; AUTHOLD-E2-H,13,1G.663
+
+and they separated <normalised orig="themselues" auto="true">themselves</normalised> the one from the other.
+AUTHOLD-E2-H,13,1G.664
+
+12 AUTHOLD-E2-H,13,1G.665
+
+<normalised orig="Abram" auto="true">Abraham</normalised> <normalised orig="dwelled" auto="true">duelled</normalised> in the land of <normalised orig="Canaan" auto="true">Cannon</normalised>, AUTHOLD-E2-H,13,1G.666
+
+and Lot <normalised orig="dwelled" auto="true">duelled</normalised> in the cities of the <normalised orig="plaine" auto="true">plain</normalised>, AUTHOLD-E2-H,13,1G.667
+
+and pitched his tent toward <normalised orig="Sodome" auto="true">Sodomy</normalised>.  AUTHOLD-E2-H,13,1G.668
+
+13 AUTHOLD-E2-H,13,1G.669
+
+But the men of <normalised orig="Sodome" auto="true">Sodomy</normalised> were wicked, and sinners before the LORD
+exceedingly.  AUTHOLD-E2-H,13,1G.670
+
+14 AUTHOLD-E2-H,13,1G.671
+
+And the LORD said <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Abram" auto="true">Abraham</normalised>, after that Lot was separated from him,
+Lift <normalised orig="vp" auto="true">up</normalised> now thine eyes, AUTHOLD-E2-H,13,1G.672
+
+and <normalised orig="looke" auto="true">look</normalised> from the place where thou art, Northward, and Southward,
+and Eastward, and Westward.  AUTHOLD-E2-H,13,1G.673
+
+15 AUTHOLD-E2-H,13,1G.674
+
+For all the land which thou <normalised orig="seest" auto="true">see</normalised>, to thee will I <normalised orig="giue" auto="true">give</normalised> it, and to thy
+<normalised orig="seede" auto="true">seed</normalised> for <normalised orig="euer" auto="true">ever</normalised>.  AUTHOLD-E2-H,13,1G.675
+
+16 AUTHOLD-E2-H,13,1G.676
+
+And I will make thy <normalised orig="seede" auto="true">seed</normalised> as the dust of the earth: so that if a man
+can number the dust of the earth, then shall thy seed also be <normalised orig="numbred" auto="true">numbered</normalised>.
+AUTHOLD-E2-H,13,1G.677
+
+17 AUTHOLD-E2-H,13,1G.678
+
+Arise, AUTHOLD-E2-H,13,1G.679
+
+<normalised orig="walke" auto="true">walk</normalised> through the land, in the length of it, and in the breadth of it :
+AUTHOLD-E2-H,13,1G.680
+
+for I will <normalised orig="giue" auto="true">give</normalised> it <normalised orig="vnto" auto="true">unto</normalised> thee.  AUTHOLD-E2-H,13,1G.681
+
+18 AUTHOLD-E2-H,13,1G.682
+
+Then <normalised orig="Abram" auto="true">Abraham</normalised> <normalised orig="remoued" auto="true">removed</normalised> his tent, AUTHOLD-E2-H,13,1G.683
+
+and came AUTHOLD-E2-H,13,1G.684
+
+and dwelt in the <normalised orig="plaine" auto="true">plain</normalised> of <normalised orig="Mamre" auto="true">Manure</normalised>, which is in <normalised orig="Hebron" auto="true">Apron</normalised>,
+AUTHOLD-E2-H,13,1G.685
+
+and built there an altar <normalised orig="vnto" auto="true">unto</normalised> the LORD.  AUTHOLD-E2-H,13,1G.686
+
+<P_14,1G>
+
+<heading>
+
+CHAP. <normalised orig="XIIII" auto="true">XIII</normalised>.  AUTHOLD-E2-H,14,1G.689
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> in the <normalised orig="dayes" auto="true">days</normalised> of <normalised orig="Amraphel" auto="true">Unravel</normalised> King of <normalised orig="Shinar" auto="true">Shiner</normalised>, <normalised orig="Arioch" auto="true">Arch</normalised>
+King of <normalised orig="Ellasar" auto="true">Illusory</normalised>, Chedorlaomer King of <normalised orig="Elam" auto="true">Elm</normalised>, and Tidal King of nations:
+2 That <font> these <$$font> made <normalised orig="warre" auto="true">war</normalised> with <normalised orig="Bera" auto="true">Bore</normalised> King of <normalised orig="Sodome" auto="true">Sodomy</normalised>, and
+with <normalised orig="Birsha" auto="true">Birch</normalised> King of <normalised orig="Gomorrah" auto="true">Gonorrhoea</normalised>, <normalised orig="Shinab" auto="true">Snap</normalised> King of <normalised orig="Admah" auto="true">Adam</normalised>, and <normalised orig="Shemeber" auto="true">Swampier</normalised> King
+of Zeboiim, and the King of <normalised orig="Bela" auto="true">Bola</normalised>, which is <normalised orig="Zoar" auto="true">Soar</normalised>.  AUTHOLD-E2-H,14,1G.692
+
+3 AUTHOLD-E2-H,14,1G.693
+
+All these were <normalised orig="ioyned" auto="true">joined</normalised> together in the vale of <normalised orig="Siddim" auto="true">Saddam</normalised>; which is the
+salt Sea.  AUTHOLD-E2-H,14,1G.694
+
+4 AUTHOLD-E2-H,14,1G.695
+
+<normalised orig="Twelue" auto="true">Twelve</normalised> <normalised orig="yeeres" auto="true">years</normalised> they <normalised orig="serued" auto="true">served</normalised> Chedorlaomer, AUTHOLD-E2-H,14,1G.696
+
+and in the thirteenth <normalised orig="yeere" auto="true">year</normalised> they rebelled.  AUTHOLD-E2-H,14,1G.697
+
+5 AUTHOLD-E2-H,14,1G.698
+
+And in the fourteenth <normalised orig="yeere" auto="true">year</normalised> came Chedorlaomer, and the Kings that were
+with him, AUTHOLD-E2-H,14,1G.699
+
+and smote the <normalised orig="Rephaims" auto="true">Repaying</normalised>, in <normalised orig="Ashteroth" auto="true">Asteroid</normalised> Karnaim, & the <normalised orig="Zuzims" auto="true">Zucchinis</normalised> in Ham, and
+the <normalised orig="Emims" auto="true">Imams</normalised> in <normalised orig="Shaueh" auto="true">Shave</normalised> <normalised orig="Kiriathaim" auto="true">Keratin</normalised>; 6 And the <normalised orig="Horites" auto="true">Hordes</normalised> in their mount <normalised orig="Seir" auto="true">Seer</normalised>,
+<normalised orig="vnto" auto="true">unto</normalised> <normalised orig="El-Paran" auto="true">elbowroom</normalised>, which is by the <normalised orig="wildernesse" auto="true">wilderness</normalised>.  AUTHOLD-E2-H,14,1G.700
+
+7 AUTHOLD-E2-H,14,1G.701
+
+And they returned, AUTHOLD-E2-H,14,1G.702
+
+and came to <normalised orig="En-mishpat" auto="true">Unzipped</normalised>, which is <normalised orig="Kadesh" auto="true">Kid's</normalised>, AUTHOLD-E2-H,14,1G.703
+
+& smote all the <normalised orig="countrey" auto="true">country</normalised> of the <normalised orig="Amalekites" auto="true">Analyst's</normalised>, and also the <normalised orig="Amorites" auto="true">Amorettas</normalised>,
+that dwelt in <normalised orig="Hazezon-tamar" auto="true">Assassinations</normalised>.  AUTHOLD-E2-H,14,1G.704
+
+8 AUTHOLD-E2-H,14,1G.705
+
+And there went out the King of <normalised orig="Sodome" auto="true">Sodomy</normalised>, and the King of <normalised orig="Gomorrah" auto="true">Gonorrhoea</normalised>, and the
+King of <normalised orig="Admah" auto="true">Adam</normalised>, and the King of Zeboiim, and the King of <normalised orig="Bela" auto="true">Bola</normalised>, <paren>
+the same is <normalised orig="Zoar" auto="true">Soar</normalised> <$$paren> AUTHOLD-E2-H,14,1G.706
+
+and they <normalised orig="ioyned" auto="true">joined</normalised> <normalised orig="battell" auto="true">battle</normalised> with them, in the vale of <normalised orig="Siddim" auto="true">Saddam</normalised>, 9 With
+Chedorlaomer the King of <normalised orig="Elam" auto="true">Elm</normalised>, and with Tidal King of nations, and
+<normalised orig="Amraphel" auto="true">Unravel</normalised> King of <normalised orig="Shinar" auto="true">Shiner</normalised>, and <normalised orig="Arioch" auto="true">Arch</normalised> King of <normalised orig="Ellasar" auto="true">Illusory</normalised>; <normalised orig="foure" auto="true">four</normalised> Kings with
+<normalised orig="fiue" auto="true">five</normalised>.  AUTHOLD-E2-H,14,1G.707
+
+10 AUTHOLD-E2-H,14,1G.708
+
+And the vale of <normalised orig="Siddim" auto="true">Saddam</normalised> was full of slime-pits: AUTHOLD-E2-H,14,1G.709
+
+and the Kings of <normalised orig="Sodome" auto="true">Sodomy</normalised> & <normalised orig="Gomorrah" auto="true">Gonorrhoea</normalised> fled, AUTHOLD-E2-H,14,1G.710
+
+and fell there: AUTHOLD-E2-H,14,1G.711
+
+and they that remained, fled to the <normalised orig="mountaine" auto="true">mountain</normalised>.  AUTHOLD-E2-H,14,1G.712
+
+11 AUTHOLD-E2-H,14,1G.713
+
+And they <normalised orig="tooke" auto="true">took</normalised> all the goods of <normalised orig="Sodome" auto="true">Sodomy</normalised> and <normalised orig="Gomorrah" auto="true">Gonorrhoea</normalised>, and all their
+victuals, AUTHOLD-E2-H,14,1G.714
+
+and went their way.  AUTHOLD-E2-H,14,1G.715
+
+12 AUTHOLD-E2-H,14,1G.716
+
+And they <normalised orig="tooke" auto="true">took</normalised> Lot, <normalised orig="Abrams" auto="true">Aprons</normalised> brothers <normalised orig="sonne" auto="true">son</normalised>, <paren> who dwelt in <normalised orig="Sodome" auto="true">Sodomy</normalised>
+<$$paren> and his goods, AUTHOLD-E2-H,14,1G.717
+
+and departed.  AUTHOLD-E2-H,14,1G.718
+
+13 AUTHOLD-E2-H,14,1G.719
+
+And there came one that had escaped, AUTHOLD-E2-H,14,1G.720
+
+and told <normalised orig="Abram" auto="true">Abraham</normalised> the Hebrew, AUTHOLD-E2-H,14,1G.721
+
+for <normalised orig="hee" auto="true">hoe</normalised> dwelt in the <normalised orig="plaine" auto="true">plain</normalised> of <normalised orig="Mamre" auto="true">Manure</normalised> the <normalised orig="Amorite" auto="true">Emirate</normalised>, brother of <normalised orig="Eschol" auto="true">Excel</normalised>,
+and brother of <normalised orig="Aner" auto="true">Inner</normalised>: AUTHOLD-E2-H,14,1G.722
+
+and these were confederate with <normalised orig="Abram" auto="true">Abraham</normalised>.  AUTHOLD-E2-H,14,1G.723
+
+14 AUTHOLD-E2-H,14,1G.724
+
+And when <normalised orig="Abram" auto="true">Abraham</normalised> heard that his brother was taken <normalised orig="captiue" auto="true">captive</normalised>, he armed his
+trained <font> <normalised orig="seruants" auto="true">servants</normalised> <$$font> borne in his <normalised orig="owne" auto="true">own</normalised> house, three hundred
+and <normalised orig="eighteene" auto="true">eighteen</normalised>, AUTHOLD-E2-H,14,1G.725
+
+and pursued <font> them <$$font> <normalised orig="vnto" auto="true">unto</normalised> Dan.  AUTHOLD-E2-H,14,1G.726
+
+15 AUTHOLD-E2-H,14,1G.727
+
+And <normalised orig="hee" auto="true">hoe</normalised> <normalised orig="diuided" auto="true">divided</normalised> <normalised orig="himselfe" auto="true">himself</normalised> against them, he and his <normalised orig="seruants" auto="true">servants</normalised> by night,
+AUTHOLD-E2-H,14,1G.728
+
+and smote them, AUTHOLD-E2-H,14,1G.729
+
+and pursued them <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Hoba" auto="true">Hobo</normalised>, which is on the left hand of Damascus:
+AUTHOLD-E2-H,14,1G.730
+
+16 AUTHOLD-E2-H,14,1G.731
+
+And <normalised orig="hee" auto="true">hoe</normalised> brought <normalised orig="backe" auto="true">back</normalised> all the goods, AUTHOLD-E2-H,14,1G.732
+
+and also brought <normalised orig="againe" auto="true">again</normalised> his brother Lot, and his goods, and the women
+also, and the people.  AUTHOLD-E2-H,14,1G.733
+
+17 AUTHOLD-E2-H,14,1G.734
+
+And the king of <normalised orig="Sodome" auto="true">Sodomy</normalised> went out to <normalised orig="meete" auto="true">meet</normalised> him, <paren> after his
+<normalised orig="returne" auto="true">return</normalised> from the slaughter of Chedorlaomer, and of the Kings that were
+with him <$$paren> at the valley of <normalised orig="Saueh" auto="true">Sough</normalised>, which is the Kings dale.
+AUTHOLD-E2-H,14,1G.735
+
+18 AUTHOLD-E2-H,14,1G.736
+
+And Melchizedek King of <normalised orig="Salem" auto="true">Solemn</normalised> brought <normalised orig="foorth" auto="true">forth</normalised> bread and wine:
+AUTHOLD-E2-H,14,1G.737
+
+and he was the Priest of the most high God.  AUTHOLD-E2-H,14,1G.738
+
+19 AUTHOLD-E2-H,14,1G.739
+
+And <normalised orig="hee" auto="true">hoe</normalised> blessed him, AUTHOLD-E2-H,14,1G.740
+
+and <normalised orig="saide" auto="true">said</normalised>; AUTHOLD-E2-H,14,1G.741
+
+Blessed bee <normalised orig="Abram" auto="true">Abraham</normalised> of the most high God, <normalised orig="possessour" auto="true">possessor</normalised> of <normalised orig="heauen" auto="true">heaven</normalised> and earth ,
+AUTHOLD-E2-H,14,1G.742
+
+<P_14,20G>
+
+20 AUTHOLD-E2-H,14,20G.744
+
+And blessed bee the most high God, which hath <normalised orig="deliuered" auto="true">delivered</normalised> thine enemies
+into thy hand: AUTHOLD-E2-H,14,20G.745
+
+and <normalised orig="hee" auto="true">hoe</normalised> <normalised orig="gaue" auto="true">gave</normalised> him tithes of all.  AUTHOLD-E2-H,14,20G.746
+
+<P_22,1G>
+
+<heading>
+
+CHAP. XXII.  AUTHOLD-E2-H,22,1G.749
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> after these things, that God did tempt Abraham,
+and said <normalised orig="vnto" auto="true">unto</normalised> him, Abraham.  AUTHOLD-E2-H,22,1G.752
+
+And <normalised orig="hee" auto="true">hoe</normalised> said, <normalised orig="Beholde" auto="true">Behold</normalised>, <normalised orig="heere" auto="true">here</normalised> I am.  AUTHOLD-E2-H,22,1G.753
+
+2 AUTHOLD-E2-H,22,1G.754
+
+And he said, Take now thy <normalised orig="sonne" auto="true">son</normalised>, thine <normalised orig="onely" auto="true">only</normalised> <font> <normalised orig="sonne" auto="true">son</normalised> <$$font> Isaac,
+whom thou <normalised orig="louest" auto="true">love</normalised>, AUTHOLD-E2-H,22,1G.755
+
+and get thee into the land of <normalised orig="Moriah" auto="true">Maria</normalised>: AUTHOLD-E2-H,22,1G.756
+
+and offer him there for a burnt offering <normalised orig="vpon" auto="true">upon</normalised> one of the <normalised orig="Mountaines" auto="true">Mountains</normalised>
+which I will tell thee of.  AUTHOLD-E2-H,22,1G.757
+
+3 AUTHOLD-E2-H,22,1G.758
+
+And Abraham rose <normalised orig="vp" auto="true">up</normalised> <normalised orig="earely" auto="true">early</normalised> in the morning, AUTHOLD-E2-H,22,1G.759
+
+and <normalised orig="sadled" auto="true">saddled</normalised> his <normalised orig="asse" auto="true">ass</normalised>, AUTHOLD-E2-H,22,1G.760
+
+and <normalised orig="tooke" auto="true">took</normalised> two of his <normalised orig="yong" auto="true">young</normalised> men with him, and Isaac his <normalised orig="sonne" auto="true">son</normalised>,
+AUTHOLD-E2-H,22,1G.761
+
+and <normalised orig="claue" auto="true">clave</normalised> the wood for the burnt offering, AUTHOLD-E2-H,22,1G.762
+
+and rose <normalised orig="vp" auto="true">up</normalised>, AUTHOLD-E2-H,22,1G.763
+
+and went <normalised orig="vnto" auto="true">unto</normalised> the place of which God had told him.  AUTHOLD-E2-H,22,1G.764
+
+4 AUTHOLD-E2-H,22,1G.765
+
+Then on the third day Abraham lift <normalised orig="vp" auto="true">up</normalised> his eyes, AUTHOLD-E2-H,22,1G.766
+
+and saw the place <normalised orig="afarre" auto="true">afar</normalised> off AUTHOLD-E2-H,22,1G.767
+
+5 AUTHOLD-E2-H,22,1G.768
+
+And Abraham said <normalised orig="vnto" auto="true">unto</normalised> his <normalised orig="yong" auto="true">young</normalised> men, Abide you here with the <normalised orig="asse" auto="true">ass</normalised>,
+AUTHOLD-E2-H,22,1G.769
+
+and I and the lad will <normalised orig="goe" auto="true">go</normalised> yonder and worship, and come <normalised orig="againe" auto="true">again</normalised> to you.
+AUTHOLD-E2-H,22,1G.770
+
+6 AUTHOLD-E2-H,22,1G.771
+
+And Abraham <normalised orig="tooke" auto="true">took</normalised> the wood of the burnt offering, AUTHOLD-E2-H,22,1G.772
+
+and <normalised orig="layd" auto="true">laid</normalised> it <normalised orig="vpon" auto="true">upon</normalised> Isaac his <normalised orig="sonne" auto="true">son</normalised>: AUTHOLD-E2-H,22,1G.773
+
+and he <normalised orig="tooke" auto="true">took</normalised> the fire in his hand, and a knife: AUTHOLD-E2-H,22,1G.774
+
+and they went both of them together.  AUTHOLD-E2-H,22,1G.775
+
+7 AUTHOLD-E2-H,22,1G.776
+
+And Isaac spake <normalised orig="vnto" auto="true">unto</normalised> Abraham his father, AUTHOLD-E2-H,22,1G.777
+
+and said, My father: AUTHOLD-E2-H,22,1G.778
+
+and he said, Here am I, my <normalised orig="sonne" auto="true">son</normalised>.  AUTHOLD-E2-H,22,1G.779
+
+And <normalised orig="hee" auto="true">hoe</normalised> said, Behold the fire and wood: AUTHOLD-E2-H,22,1G.780
+
+but where is the <normalised orig="lambe" auto="true">lamb</normalised> for a burnt <normalised orig="offring" auto="true">offering</normalised>?  AUTHOLD-E2-H,22,1G.781
+
+8 AUTHOLD-E2-H,22,1G.782
+
+And Abraham said, My <normalised orig="sonne" auto="true">son</normalised>, God will <normalised orig="prouide" auto="true">provide</normalised> <normalised orig="himselfe" auto="true">himself</normalised> a <normalised orig="lambe" auto="true">lamb</normalised> for a
+burnt offering: AUTHOLD-E2-H,22,1G.783
+
+so they went both of them together.  AUTHOLD-E2-H,22,1G.784
+
+9 AUTHOLD-E2-H,22,1G.785
+
+And they came to the place which God had <normalised orig="tolde" auto="true">told</normalised> him of,
+AUTHOLD-E2-H,22,1G.786
+
+and Abraham built an Altar there, AUTHOLD-E2-H,22,1G.787
+
+and <normalised orig="layd" auto="true">laid</normalised> the wood in order, AUTHOLD-E2-H,22,1G.788
+
+and bound Isaac his <normalised orig="sonne" auto="true">son</normalised>, AUTHOLD-E2-H,22,1G.789
+
+and <normalised orig="layde" auto="true">laid</normalised> him on the Altar <normalised orig="vpon" auto="true">upon</normalised> the wood.  AUTHOLD-E2-H,22,1G.790
+
+10 AUTHOLD-E2-H,22,1G.791
+
+And Abraham stretched <normalised orig="foorth" auto="true">forth</normalised> his hand, AUTHOLD-E2-H,22,1G.792
+
+and <normalised orig="tooke" auto="true">took</normalised> the knife to slay his <normalised orig="sonne" auto="true">son</normalised>.  AUTHOLD-E2-H,22,1G.793
+
+11 AUTHOLD-E2-H,22,1G.794
+
+And the Angel of the LORD called <normalised orig="vnto" auto="true">unto</normalised> him out of <normalised orig="heauen" auto="true">heaven</normalised>,
+AUTHOLD-E2-H,22,1G.795
+
+and said, Abraham, Abraham.  AUTHOLD-E2-H,22,1G.796
+
+And he said, Here am I.  AUTHOLD-E2-H,22,1G.797
+
+12 AUTHOLD-E2-H,22,1G.798
+
+And he said, Lay not thine hand <normalised orig="vpon" auto="true">upon</normalised> the lad, AUTHOLD-E2-H,22,1G.799
+
+neither do thou any thing <normalised orig="vnto" auto="true">unto</normalised> him: AUTHOLD-E2-H,22,1G.800
+
+for now I know that thou <normalised orig="fearest" auto="true">fairest</normalised> God, seeing thou <normalised orig="hast" auto="true">haste</normalised> not <normalised orig="withhelde" auto="true">withheld</normalised>
+thy <normalised orig="sonne" auto="true">son</normalised>, thine <normalised orig="onely" auto="true">only</normalised> <normalised orig="sonne" auto="true">son</normalised> from <normalised orig="mee" auto="true">me</normalised>.  AUTHOLD-E2-H,22,1G.801
+
+13 AUTHOLD-E2-H,22,1G.802
+
+And Abraham lifted <normalised orig="vp" auto="true">up</normalised> his eyes, AUTHOLD-E2-H,22,1G.803
+
+and looked, AUTHOLD-E2-H,22,1G.804
+
+and <normalised orig="beholde" auto="true">behold</normalised>, <normalised orig="behinde" auto="true">behind</normalised> <font> him <$$font> a <normalised orig="Ramme" auto="true">Ram</normalised> caught in a thicket by
+his <normalised orig="hornes" auto="true">horns</normalised>: AUTHOLD-E2-H,22,1G.805
+
+And Abraham went AUTHOLD-E2-H,22,1G.806
+
+and <normalised orig="tooke" auto="true">took</normalised> the <normalised orig="Ramme" auto="true">Ram</normalised>, AUTHOLD-E2-H,22,1G.807
+
+and offered him <normalised orig="vp" auto="true">up</normalised> for a burnt offering, in the stead of his <normalised orig="sonne" auto="true">son</normalised>.
+AUTHOLD-E2-H,22,1G.808
+
+14 AUTHOLD-E2-H,22,1G.809
+
+And Abraham called the name of that place <normalised orig="Iehouah-ijreh" auto="true">Esquire</normalised>, as it is said
+to this day, In the Mount of the LORD it $shall $be {TEXT:shalbe} <normalised orig="seene" auto="true">seen</normalised>.
+AUTHOLD-E2-H,22,1G.810
+
+15 AUTHOLD-E2-H,22,1G.811
+
+And the Angel of the LORD called <normalised orig="vnto" auto="true">unto</normalised> Abraham out of <normalised orig="heauen" auto="true">heaven</normalised> the second
+time, AUTHOLD-E2-H,22,1G.812
+
+16 AUTHOLD-E2-H,22,1G.813
+
+And said, By my <normalised orig="selfe" auto="true">self</normalised> <normalised orig="haue" auto="true">have</normalised> I <normalised orig="sworne" auto="true">sworn</normalised>, saith the LORD, for because thou
+<normalised orig="hast" auto="true">haste</normalised> done this thing, and <normalised orig="hast" auto="true">haste</normalised> not withheld thy <normalised orig="sonne" auto="true">son</normalised>, thine <normalised orig="onely" auto="true">only</normalised>
+<normalised orig="sonne" auto="true">son</normalised>, 17 That in blessing I will <normalised orig="blesse" auto="true">bless</normalised> thee, and in multiplying,
+I will multiply thy seed as the <normalised orig="starres" auto="true">stars</normalised> of the <normalised orig="heauen" auto="true">heaven</normalised>, and as the sand
+which is <normalised orig="vpon" auto="true">upon</normalised> the sea shore, AUTHOLD-E2-H,22,1G.814
+
+and thy seed shall <normalised orig="possesse" auto="true">possess</normalised> the gate of his enemies.
+AUTHOLD-E2-H,22,1G.815
+
+18 AUTHOLD-E2-H,22,1G.816
+
+And in thy seed shall all the nations of the earth be blessed, because
+thou <normalised orig="hast" auto="true">haste</normalised> obeyed my voice.  AUTHOLD-E2-H,22,1G.817
+
+19 AUTHOLD-E2-H,22,1G.818
+
+So Abraham returned <normalised orig="vnto" auto="true">unto</normalised> his <normalised orig="yong" auto="true">young</normalised> men, AUTHOLD-E2-H,22,1G.819
+
+and they rose <normalised orig="vp" auto="true">up</normalised>, AUTHOLD-E2-H,22,1G.820
+
+and went together to <normalised orig="Beer-sheba" auto="true">Break-up</normalised>, AUTHOLD-E2-H,22,1G.821
+
+and Abraham dwelt at <normalised orig="Beer-sheba" auto="true">Break-up</normalised>.  AUTHOLD-E2-H,22,1G.822
+
+<P_13,1N>
+
+<heading>
+
+CHAP XIII.  AUTHOLD-E2-H,13,1N.825
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, saying, 2 Send thou men, that they may
+search the <normalised orig="lande" auto="true">land</normalised> of <normalised orig="Canaan" auto="true">Cannon</normalised>, which I <normalised orig="giue" auto="true">give</normalised> <normalised orig="vnto" auto="true">unto</normalised> the children of Israel:
+AUTHOLD-E2-H,13,1N.828
+
+of <normalised orig="euery" auto="true">every</normalised> tribe of their fathers <normalised orig="shal" auto="true">shall</normalised> ye send a man, <normalised orig="euery" auto="true">every</normalised> one a ruler
+among them.  AUTHOLD-E2-H,13,1N.829
+
+3 AUTHOLD-E2-H,13,1N.830
+
+And Moses by the <normalised orig="commaundement" auto="true">commandment</normalised> of the LORD, sent them from the <normalised orig="wildernes" auto="true">wilderness</normalised>
+of <normalised orig="Paran" auto="true">Prawn</normalised>: AUTHOLD-E2-H,13,1N.831
+
+all those men were heads of the children of Israel.
+AUTHOLD-E2-H,13,1N.832
+
+4 AUTHOLD-E2-H,13,1N.833
+
+And these <font> were <$$font> their names.  AUTHOLD-E2-H,13,1N.834
+
+Of the tribe of <normalised orig="Reuben" auto="true">Reopen</normalised>, <normalised orig="Shammua" auto="true">Shimmy</normalised> the <normalised orig="sonne" auto="true">son</normalised> of Zaccur.
+AUTHOLD-E2-H,13,1N.835
+
+5 AUTHOLD-E2-H,13,1N.836
+
+Of the tribe of <normalised orig="Simeon" auto="true">Simon</normalised>, <normalised orig="Shaphat" auto="true">Shaped</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Hori" auto="true">Whore</normalised>.  AUTHOLD-E2-H,13,1N.837
+
+6 AUTHOLD-E2-H,13,1N.838
+
+Of the tribe of <normalised orig="Iudah" auto="true">Howdah</normalised>, <normalised orig="Caleb" auto="true">Calve</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Iephunneh" auto="true">Euphony</normalised>.
+AUTHOLD-E2-H,13,1N.839
+
+7 AUTHOLD-E2-H,13,1N.840
+
+Of the tribe of <normalised orig="Issachar" auto="true">Assessor</normalised>, <normalised orig="Igal" auto="true">Equal</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Ioseph" auto="true">Housewife</normalised>.
+AUTHOLD-E2-H,13,1N.841
+
+8 AUTHOLD-E2-H,13,1N.842
+
+Of the tribe of <normalised orig="Ephraim" auto="true">Abraham</normalised>, <normalised orig="Oshea" auto="true">Hosea</normalised> the <normalised orig="sonne" auto="true">son</normalised> of Nun.  AUTHOLD-E2-H,13,1N.843
+
+9 AUTHOLD-E2-H,13,1N.844
+
+Of the tribe of Beniamin, <normalised orig="Palti" auto="true">Palate</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Raphu" auto="true">Rape</normalised>.
+AUTHOLD-E2-H,13,1N.845
+
+10 AUTHOLD-E2-H,13,1N.846
+
+Of the tribe of <normalised orig="Zebulun" auto="true">Zeppelin</normalised>, <normalised orig="Gaddiel" auto="true">Gaudily</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Sodi" auto="true">Code</normalised>.
+AUTHOLD-E2-H,13,1N.847
+
+11 AUTHOLD-E2-H,13,1N.848
+
+Of the tribe of <normalised orig="Ioseph" auto="true">Housewife</normalised>, <font> namely <$$font> of the tribe of <normalised orig="Manasseh" auto="true">Mannish</normalised>,
+<normalised orig="Gaddi" auto="true">Gad</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Susi" auto="true">Suss</normalised>.  AUTHOLD-E2-H,13,1N.849
+
+12 AUTHOLD-E2-H,13,1N.850
+
+Of the tribe of Dan, <normalised orig="Ammiel" auto="true">Amble</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Gemalli" auto="true">Genially</normalised>.  AUTHOLD-E2-H,13,1N.851
+
+13 AUTHOLD-E2-H,13,1N.852
+
+Of the tribe of <normalised orig="Asher" auto="true">Ashore</normalised>, <normalised orig="Sethur" auto="true">Setter</normalised> the <normalised orig="sonne" auto="true">son</normalised> of Michael.
+AUTHOLD-E2-H,13,1N.853
+
+14 AUTHOLD-E2-H,13,1N.854
+
+Of the tribe of <normalised orig="Naphtali" auto="true">Nuptial</normalised>, <normalised orig="Nahbi" auto="true">Nab</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Vophsi" auto="true">Vips</normalised>.
+AUTHOLD-E2-H,13,1N.855
+
+15 AUTHOLD-E2-H,13,1N.856
+
+Of the tribe of Gad, <normalised orig="Geuel" auto="true">Gavel</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Machi" auto="true">Much</normalised>.  AUTHOLD-E2-H,13,1N.857
+
+16 AUTHOLD-E2-H,13,1N.858
+
+These are the names of the men which Moses sent to <normalised orig="spie" auto="true">spy</normalised> out the land:
+AUTHOLD-E2-H,13,1N.859
+
+and Moses called <normalised orig="Oshea" auto="true">Hosea</normalised> the <normalised orig="sonne" auto="true">son</normalised> of Nun, <normalised orig="Iehoshua" auto="true">Hosea</normalised>.  AUTHOLD-E2-H,13,1N.860
+
+17 AUTHOLD-E2-H,13,1N.861
+
+And Moses sent them to <normalised orig="spie" auto="true">spy</normalised> out the land of <normalised orig="Canaan" auto="true">Cannon</normalised>, AUTHOLD-E2-H,13,1N.862
+
+and said <normalised orig="vnto" auto="true">unto</normalised> them, Get you <normalised orig="vp" auto="true">up</normalised> this <font> way <$$font> Southward,
+AUTHOLD-E2-H,13,1N.863
+
+and <normalised orig="goe" auto="true">go</normalised> <normalised orig="vp" auto="true">up</normalised> into the <normalised orig="mountaine" auto="true">mountain</normalised>: AUTHOLD-E2-H,13,1N.864
+
+18 AUTHOLD-E2-H,13,1N.865
+
+And see the <normalised orig="lande" auto="true">land</normalised> what it is, and the people that <normalised orig="dwelleth" auto="true">dwells</normalised> therein,
+whether they bee strong or <normalised orig="weake" auto="true">weak</normalised>, <normalised orig="fewe" auto="true">few</normalised> or many: 19 And what the <normalised orig="lande" auto="true">land</normalised> is
+that they dwell in, whether it be good or bad, and what cities they bee
+that they dwell in, whether {they_dwell} in tents, or in strong holds:
+<P_13,20N> 20 And what the land <font> is <$$font>, whether it be fat
+or <normalised orig="leane" auto="true">lean</normalised>, whether there be wood <normalised orig="therin" auto="true">therein</normalised>, or not.  AUTHOLD-E2-H,13,20N.866
+
+And be ye of good courage, AUTHOLD-E2-H,13,20N.867
+
+and bring of the fruit of the land: AUTHOLD-E2-H,13,20N.868
+
+<paren> Now the time <font> was <$$font> the time of the first ripe
+grapes <$$paren> AUTHOLD-E2-H,13,20N.869
+
+21 AUTHOLD-E2-H,13,20N.870
+
+So they went <normalised orig="vp" auto="true">up</normalised>, AUTHOLD-E2-H,13,20N.871
+
+and searched the land, from the <normalised orig="wildernesse" auto="true">wilderness</normalised> of <normalised orig="Zin" auto="true">Sin</normalised>, <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Rehob" auto="true">Rehab</normalised>, as men
+come to <normalised orig="Hamath" auto="true">Hammed</normalised>.  AUTHOLD-E2-H,13,20N.872
+
+22 AUTHOLD-E2-H,13,20N.873
+
+And they ascended by the South, AUTHOLD-E2-H,13,20N.874
+
+and came <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Hebron" auto="true">Apron</normalised>: where <normalised orig="Ahiman" auto="true">Human</normalised>, <normalised orig="Sheshai" auto="true">Seesaw</normalised>, and <normalised orig="Talmai" auto="true">Thalami</normalised>, the children
+of <normalised orig="Anak" auto="true">Amok</normalised> were: AUTHOLD-E2-H,13,20N.875
+
+Now <normalised orig="Hebron" auto="true">Apron</normalised> was built <normalised orig="seuen" auto="true">seven</normalised> <normalised orig="yeeres" auto="true">years</normalised> before <normalised orig="Zoan" auto="true">Soon</normalised> in Egypt.
+AUTHOLD-E2-H,13,20N.876
+
+23 AUTHOLD-E2-H,13,20N.877
+
+And they came <normalised orig="vnto" auto="true">unto</normalised> the brooke of <normalised orig="Eshcol" auto="true">Asocial</normalised>, AUTHOLD-E2-H,13,20N.878
+
+and cut <normalised orig="downe" auto="true">down</normalised> from thence a branch with one cluster of grapes,
+AUTHOLD-E2-H,13,20N.879
+
+and they bare it <normalised orig="betweene" auto="true">between</normalised> two <normalised orig="vpon" auto="true">upon</normalised> a <normalised orig="staffe" auto="true">staff</normalised>, AUTHOLD-E2-H,13,20N.880
+
+and they brought of the pomegranates and of the figs.
+AUTHOLD-E2-H,13,20N.881
+
+24 AUTHOLD-E2-H,13,20N.882
+
+The place was called the brooke <normalised orig="Eshcol" auto="true">Asocial</normalised>, because of the cluster
+of grapes which the children of Israel cut <normalised orig="downe" auto="true">down</normalised> from thence.
+AUTHOLD-E2-H,13,20N.883
+
+25 AUTHOLD-E2-H,13,20N.884
+
+And they returned from searching of the land after <normalised orig="fourty" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised>.
+AUTHOLD-E2-H,13,20N.885
+
+26 AUTHOLD-E2-H,13,20N.886
+
+And they went and came to Moses, and to Aaron, and to all the Congregation
+of the children of Israel <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="wildernesse" auto="true">wilderness</normalised> of <normalised orig="Paran" auto="true">Prawn</normalised>, to <normalised orig="Kadesh" auto="true">Kid's</normalised>,
+AUTHOLD-E2-H,13,20N.887
+
+and brought <normalised orig="backe" auto="true">back</normalised> word <normalised orig="vnto" auto="true">unto</normalised> them, and <normalised orig="vnto" auto="true">unto</normalised> all the Congregation,
+AUTHOLD-E2-H,13,20N.888
+
+and <normalised orig="shewed" auto="true">showed</normalised> them the fruit of the land.  AUTHOLD-E2-H,13,20N.889
+
+27 AUTHOLD-E2-H,13,20N.890
+
+And they told him, AUTHOLD-E2-H,13,20N.891
+
+and said, We came <normalised orig="vnto" auto="true">unto</normalised> the land whither thou <normalised orig="sentest" auto="true">sent</normalised> vs,
+AUTHOLD-E2-H,13,20N.892
+
+& surely it <normalised orig="floweth" auto="true">flows</normalised> with <normalised orig="milke" auto="true">milk</normalised> and <normalised orig="honie" auto="true">honey</normalised>; AUTHOLD-E2-H,13,20N.893
+
+and this <font> is <$$font> the fruit of it.  AUTHOLD-E2-H,13,20N.894
+
+28 AUTHOLD-E2-H,13,20N.895
+
+<normalised orig="Neuerthelesse" auto="true">Nevertheless</normalised>, the people bee strong that dwell in the land,
+AUTHOLD-E2-H,13,20N.896
+
+and the cities are walled and very great: AUTHOLD-E2-H,13,20N.897
+
+and <normalised orig="moreouer" auto="true">moreover</normalised>, we saw the children of <normalised orig="Anak" auto="true">Amok</normalised> there.  AUTHOLD-E2-H,13,20N.898
+
+29 AUTHOLD-E2-H,13,20N.899
+
+The <normalised orig="Amalekites" auto="true">Analyst's</normalised> dwell in the land of the South: and the <normalised orig="Hittites" auto="true">Outwits</normalised>, and
+the <normalised orig="Iebusites" auto="true">Opposites</normalised>, AUTHOLD-E2-H,13,20N.900
+
+and the <normalised orig="Amorites" auto="true">Amorettas</normalised> dwell in the <normalised orig="mountaines" auto="true">mountains</normalised>: AUTHOLD-E2-H,13,20N.901
+
+and the <normalised orig="Canaanites" auto="true">Cannonades</normalised> dwell by the sea, and by the coast of <normalised orig="Iordane" auto="true">Ordain</normalised>.
+AUTHOLD-E2-H,13,20N.902
+
+30 AUTHOLD-E2-H,13,20N.903
+
+And <normalised orig="Caleb" auto="true">Calve</normalised> stilled the people before Moses, AUTHOLD-E2-H,13,20N.904
+
+and said, Let vs <normalised orig="goe" auto="true">go</normalised> <normalised orig="vp" auto="true">up</normalised> at once, and <normalised orig="possesse" auto="true">possess</normalised> it, AUTHOLD-E2-H,13,20N.905
+
+for we are well able to <normalised orig="ouercome" auto="true">overcome</normalised> it.  AUTHOLD-E2-H,13,20N.906
+
+31 AUTHOLD-E2-H,13,20N.907
+
+But the men that went <normalised orig="vp" auto="true">up</normalised> with him, said, Wee be not able to <normalised orig="goe" auto="true">go</normalised> <normalised orig="vp" auto="true">up</normalised>
+against the people, AUTHOLD-E2-H,13,20N.908
+
+for they are stronger then we.  AUTHOLD-E2-H,13,20N.909
+
+32 AUTHOLD-E2-H,13,20N.910
+
+And they brought <normalised orig="vp" auto="true">up</normalised> an <normalised orig="euill" auto="true">evil</normalised> report of the land which they had searched,
+<normalised orig="vnto" auto="true">unto</normalised> the children of Israel, saying, The land through which we <normalised orig="haue" auto="true">have</normalised> gone,
+to search it, <font> is <$$font> a land that <normalised orig="eateth" auto="true">eats</normalised> <normalised orig="vp" auto="true">up</normalised> the inhabitants
+thereof, AUTHOLD-E2-H,13,20N.911
+
+and all the people that we saw in it, <font> are <$$font> men of a
+great stature.  AUTHOLD-E2-H,13,20N.912
+
+33 AUTHOLD-E2-H,13,20N.913
+
+And there we saw the giants, the <normalised orig="sonnes" auto="true">sons</normalised> of <normalised orig="Anak" auto="true">Amok</normalised>, <font> which come
+<$$font> of the giants: AUTHOLD-E2-H,13,20N.914
+
+and wee were in our <normalised orig="owne" auto="true">own</normalised> sight as <normalised orig="grashoppers" auto="true">grasshoppers</normalised>, AUTHOLD-E2-H,13,20N.915
+
+and so wee were in their sight.  AUTHOLD-E2-H,13,20N.916
+
+<P_14,1N>
+
+<heading>
+
+CHAP. <normalised orig="XIIII" auto="true">XIII</normalised>.  AUTHOLD-E2-H,14,1N.919
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And all the Congregation lifted <normalised orig="vp" auto="true">up</normalised> their <normalised orig="voyce" auto="true">voice</normalised> AUTHOLD-E2-H,14,1N.922
+
+and cried; AUTHOLD-E2-H,14,1N.923
+
+and the people wept that night.  AUTHOLD-E2-H,14,1N.924
+
+2 AUTHOLD-E2-H,14,1N.925
+
+And all the children of Israel murmured against Moses, and against Aaron:
+AUTHOLD-E2-H,14,1N.926
+
+and the whole Congregation said <normalised orig="vnto" auto="true">unto</normalised> them, Would God that we had died
+in the land of Egypt, AUTHOLD-E2-H,14,1N.927
+
+or would God we had died in this <normalised orig="wildernesse" auto="true">wilderness</normalised>.  AUTHOLD-E2-H,14,1N.928
+
+3 AUTHOLD-E2-H,14,1N.929
+
+And wherefore hath the LORD brought vs <normalised orig="vnto" auto="true">unto</normalised> this land, to fall
+by the sword, that our <normalised orig="wiues" auto="true">wives</normalised>, and our children should be a pray?
+AUTHOLD-E2-H,14,1N.930
+
+were it not better for vs to <normalised orig="returne" auto="true">return</normalised> into Egypt?  AUTHOLD-E2-H,14,1N.931
+
+4 AUTHOLD-E2-H,14,1N.932
+
+And they <normalised orig="saide" auto="true">said</normalised> one to another, Let vs make a <normalised orig="captaine" auto="true">captain</normalised>,
+AUTHOLD-E2-H,14,1N.933
+
+and let vs <normalised orig="returne" auto="true">return</normalised> into Egypt.  AUTHOLD-E2-H,14,1N.934
+
+5 AUTHOLD-E2-H,14,1N.935
+
+Then Moses and Aaron fell on their faces before all the assembly of the
+Congregation of the children of Israel.  AUTHOLD-E2-H,14,1N.936
+
+6 AUTHOLD-E2-H,14,1N.937
+
+And <normalised orig="Ioshua" auto="true">Issue</normalised> the <normalised orig="sonne" auto="true">son</normalised> of Nun, and <normalised orig="Caleb" auto="true">Calve</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Iephunneh" auto="true">Euphony</normalised>,
+which were of them that searched the land, rent their clothes.
+AUTHOLD-E2-H,14,1N.938
+
+7 AUTHOLD-E2-H,14,1N.939
+
+And they spake <normalised orig="vnto" auto="true">unto</normalised> all the company of the children of Israel, saying ,
+The land which wee passed <normalised orig="thorow" auto="true">thorough</normalised> to search it, <font> is <$$font> an
+exceeding good land.  AUTHOLD-E2-H,14,1N.940
+
+8 AUTHOLD-E2-H,14,1N.941
+
+If the LORD delight in vs, then he will bring vs into this land , and <normalised orig="giue" auto="true">give</normalised>
+it vs, a land which <normalised orig="floweth" auto="true">flows</normalised> with <normalised orig="milke" auto="true">milk</normalised> and <normalised orig="hony" auto="true">honey</normalised>.  AUTHOLD-E2-H,14,1N.942
+
+9 AUTHOLD-E2-H,14,1N.943
+
+<normalised orig="Onely" auto="true">Only</normalised> <normalised orig="rebell" auto="true">rebel</normalised> not <normalised orig="yee" auto="true">ye</normalised> against the LORD, AUTHOLD-E2-H,14,1N.944
+
+neither <normalised orig="feare" auto="true">fear</normalised> <normalised orig="yee" auto="true">ye</normalised> the people of the land, AUTHOLD-E2-H,14,1N.945
+
+for they are bread for vs: AUTHOLD-E2-H,14,1N.946
+
+their defence is departed from them, AUTHOLD-E2-H,14,1N.947
+
+and the LORD <font> is <$$font> with vs: AUTHOLD-E2-H,14,1N.948
+
+<normalised orig="feare" auto="true">fear</normalised> them not.  AUTHOLD-E2-H,14,1N.949
+
+10 AUTHOLD-E2-H,14,1N.950
+
+But all the Congregation bade stone them with stones:
+AUTHOLD-E2-H,14,1N.951
+
+and the glory of the LORD appeared in the Tabernacle of the Congregation,
+before all the children of Israel.  AUTHOLD-E2-H,14,1N.952
+
+11 AUTHOLD-E2-H,14,1N.953
+
+And the LORD said <normalised orig="vnto" auto="true">unto</normalised> Moses, How long will this people <normalised orig="prouoke" auto="true">provoke</normalised> me?
+AUTHOLD-E2-H,14,1N.954
+
+and how long will it bee, yer they <normalised orig="beleeue" auto="true">believe</normalised> me, for all the <normalised orig="signes" auto="true">signs</normalised> which
+I <normalised orig="haue" auto="true">have</normalised> <normalised orig="shewed" auto="true">showed</normalised> among them?  AUTHOLD-E2-H,14,1N.955
+
+12 AUTHOLD-E2-H,14,1N.956
+
+I will smite them with the pestilence, and <normalised orig="disinherite" auto="true">disinherit</normalised> them,
+AUTHOLD-E2-H,14,1N.957
+
+and will make of thee a greater nation, and mightier then they.
+AUTHOLD-E2-H,14,1N.958
+
+13 AUTHOLD-E2-H,14,1N.959
+
+And Moses said <normalised orig="vnto" auto="true">unto</normalised> the LORD, Then the Egyptians shall <normalised orig="heare" auto="true">hear</normalised> <font>
+it <$$font>, AUTHOLD-E2-H,14,1N.960
+
+<paren> for thou <normalised orig="broughtest" auto="true">brought</normalised> <normalised orig="vp" auto="true">up</normalised> this people in thy might from among them:
+<$$paren> AUTHOLD-E2-H,14,1N.961
+
+14 AUTHOLD-E2-H,14,1N.962
+
+And they will tell it to the inhabitants of this land:
+AUTHOLD-E2-H,14,1N.963
+
+<font> for <$$font> they <normalised orig="haue" auto="true">have</normalised> heard that thou LORD <font> art <$$font>
+among this people, that thou LORD art <normalised orig="seene" auto="true">seen</normalised> face to face, and that
+thy cloud <normalised orig="standeth" auto="true">stands</normalised> <normalised orig="ouer" auto="true">over</normalised> them, and that thou <normalised orig="goest" auto="true">goosed</normalised> before them, by
+day time in a pillar of a cloud, and in a pillar of fire by night.
+AUTHOLD-E2-H,14,1N.964
+
+15 AUTHOLD-E2-H,14,1N.965
+
+Now if thou shalt kill all this people, as one man, then the nations which
+<normalised orig="haue" auto="true">have</normalised> heard the fame of thee, will <normalised orig="speake" auto="true">speak</normalised>, saying, 16 Because the LORD was
+not able to bring this people into the <normalised orig="lande" auto="true">land</normalised> which he <normalised orig="sware" auto="true">swear</normalised> <normalised orig="vnto" auto="true">unto</normalised> them,
+therefore he hath <normalised orig="slaine" auto="true">slain</normalised> them in the <normalised orig="wildernesse" auto="true">wilderness</normalised>.  AUTHOLD-E2-H,14,1N.966
+
+17 AUTHOLD-E2-H,14,1N.967
+
+And now, I beseech thee, let the power of my LORD be great, according
+as thou <normalised orig="hast" auto="true">haste</normalised> spoken, saying, 18 The LORD is long suffering, and of great
+<normalised orig="mercie" auto="true">mercy</normalised>, <normalised orig="forgiuing" auto="true">forgiving</normalised> <normalised orig="iniquitie" auto="true">iniquity</normalised> and transgression, and by no <normalised orig="meanes" auto="true">means</normalised> clearing
+<font> the <normalised orig="guiltie" auto="true">guilty</normalised> <$$font>, visiting the iniquity of the fathers <normalised orig="vpon" auto="true">upon</normalised> the
+children, <normalised orig="vnto" auto="true">unto</normalised> the third and fourth generation.  AUTHOLD-E2-H,14,1N.968
+
+19 AUTHOLD-E2-H,14,1N.969
+
+Pardon, I beseech thee, the <normalised orig="iniquitie" auto="true">iniquity</normalised> of this people, according <normalised orig="vnto" auto="true">unto</normalised>
+the <normalised orig="greatnesse" auto="true">greatness</normalised> of thy <normalised orig="mercie" auto="true">mercy</normalised>, and as thou <normalised orig="hast" auto="true">haste</normalised> <normalised orig="forgiuen" auto="true">forgiven</normalised> this people,
+from Egypt, <normalised orig="euen" auto="true">even</normalised> <normalised orig="vntill" auto="true">until</normalised> now.  AUTHOLD-E2-H,14,1N.970
+
+<P_14,20N>
+
+20 AUTHOLD-E2-H,14,20N.972
+
+And the LORD said, I <normalised orig="haue" auto="true">have</normalised> pardoned, according to thy word.
+AUTHOLD-E2-H,14,20N.973
+
+21 AUTHOLD-E2-H,14,20N.974
+
+But as <normalised orig="truely" auto="true">truly</normalised> as I <normalised orig="liue" auto="true">live</normalised>, all the earth $shall $be {TEXT:shalbe} filled
+with the glory of the LORD.  AUTHOLD-E2-H,14,20N.975
+
+22 AUTHOLD-E2-H,14,20N.976
+
+Because all those men which <normalised orig="haue" auto="true">have</normalised> <normalised orig="seene" auto="true">seen</normalised> my glory, and my miracles which
+I did in Egypt, and in the <normalised orig="wildernesse" auto="true">wilderness</normalised>, and <normalised orig="haue" auto="true">have</normalised> tempted <normalised orig="mee" auto="true">me</normalised> now these
+ten times, and <normalised orig="haue" auto="true">have</normalised> not hearkened to my voice, 23 Surely they shall not
+see the land which I <normalised orig="sware" auto="true">swear</normalised> <normalised orig="vnto" auto="true">unto</normalised> their fathers, AUTHOLD-E2-H,14,20N.977
+
+neither shall any of them that <normalised orig="prouoked" auto="true">provoked</normalised> me, see it.
+AUTHOLD-E2-H,14,20N.978
+
+24 AUTHOLD-E2-H,14,20N.979
+
+But my <normalised orig="seruant" auto="true">servant</normalised> <normalised orig="Caleb" auto="true">Calve</normalised>, because <normalised orig="hee" auto="true">hoe</normalised> had another spirit with him, <paren>
+and hath followed <normalised orig="mee" auto="true">me</normalised> fully <$$paren> him will I bring into the land,
+<normalised orig="whereinto" auto="true">whereunto</normalised> he went, AUTHOLD-E2-H,14,20N.980
+
+and his seed shall <normalised orig="possesse" auto="true">possess</normalised> it.  AUTHOLD-E2-H,14,20N.981
+
+25 AUTHOLD-E2-H,14,20N.982
+
+<paren> Now the <normalised orig="Amalekites" auto="true">Analyst's</normalised>, and the <normalised orig="Canaanites" auto="true">Cannonades</normalised> dwelt in the valley
+<$$paren> AUTHOLD-E2-H,14,20N.983
+
+to morrow <normalised orig="turne" auto="true">turn</normalised> you AUTHOLD-E2-H,14,20N.984
+
+and get you into the <normalised orig="wildernesse" auto="true">wilderness</normalised>, by the way of the Red sea.
+AUTHOLD-E2-H,14,20N.985
+
+26 AUTHOLD-E2-H,14,20N.986
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, and <normalised orig="vnto" auto="true">unto</normalised> Aaron, saying, 27 How long
+<font> shall I <normalised orig="beare" auto="true">bear</normalised> with <$$font> this <normalised orig="euil" auto="true">evil</normalised> congregation which <normalised orig="murmure" auto="true">murmur</normalised>
+against <normalised orig="mee" auto="true">me</normalised>?  AUTHOLD-E2-H,14,20N.987
+
+I <normalised orig="haue" auto="true">have</normalised> heard the <normalised orig="murmurings" auto="true">murmuring</normalised> of the children of Israel, which they <normalised orig="murmure" auto="true">murmur</normalised>
+against <normalised orig="mee" auto="true">me</normalised>.  AUTHOLD-E2-H,14,20N.988
+
+28 AUTHOLD-E2-H,14,20N.989
+
+Say <normalised orig="vnto" auto="true">unto</normalised> them, As <normalised orig="truely" auto="true">truly</normalised> as I <normalised orig="liue" auto="true">live</normalised>, saith the LORD, as ye <normalised orig="haue" auto="true">have</normalised> spoken
+in mime <normalised orig="eares" auto="true">ears</normalised>, so will I doe to you: AUTHOLD-E2-H,14,20N.990
+
+29 AUTHOLD-E2-H,14,20N.991
+
+Your <normalised orig="carcases" auto="true">carcasses</normalised> shall fall in this <normalised orig="wildernesse" auto="true">wilderness</normalised>, AUTHOLD-E2-H,14,20N.992
+
+and all that were <normalised orig="numbred" auto="true">numbered</normalised> of you, according to your whole number from
+<normalised orig="twentie" auto="true">twenty</normalised> <normalised orig="yeeres" auto="true">years</normalised> old and <normalised orig="vpward" auto="true">upward</normalised>, which <normalised orig="haue" auto="true">have</normalised> murmured against <normalised orig="mee" auto="true">me</normalised>, 30
+<normalised orig="Doubtlesse" auto="true">Doubtless</normalised> ye shall not come into the land concerning which I <normalised orig="sware" auto="true">swear</normalised> to
+make you dwell therein, <normalised orig="saue" auto="true">save</normalised> <normalised orig="Caleb" auto="true">Calve</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Iephunneh" auto="true">Euphony</normalised>, and <normalised orig="Ioshua" auto="true">Issue</normalised>
+the <normalised orig="sonne" auto="true">son</normalised> of Nun.  AUTHOLD-E2-H,14,20N.993
+
+31 AUTHOLD-E2-H,14,20N.994
+
+But your little ones, which <normalised orig="yee" auto="true">ye</normalised> said should be a pray, them will I bring
+in, AUTHOLD-E2-H,14,20N.995
+
+and they shall know the land which ye <normalised orig="haue" auto="true">have</normalised> despised.
+AUTHOLD-E2-H,14,20N.996
+
+32 AUTHOLD-E2-H,14,20N.997
+
+But as for you, your <normalised orig="carkases" auto="true">carcasses</normalised>, they shall fall in this <normalised orig="wildernesse" auto="true">wilderness</normalised>.
+AUTHOLD-E2-H,14,20N.998
+
+33 AUTHOLD-E2-H,14,20N.999
+
+And your children shall wander in the <normalised orig="wildernes" auto="true">wilderness</normalised> forty <normalised orig="yeres" auto="true">years</normalised>, and <normalised orig="beare" auto="true">bear</normalised>
+your <normalised orig="whoredomes" auto="true">whoredoms</normalised>, <normalised orig="vntill" auto="true">until</normalised> your <normalised orig="carkases" auto="true">carcasses</normalised> be wasted in the <normalised orig="wildernesse" auto="true">wilderness</normalised>.
+AUTHOLD-E2-H,14,20N.1000
+
+34 AUTHOLD-E2-H,14,20N.1001
+
+After the number of the <normalised orig="dayes" auto="true">days</normalised> in which ye searched the land, <font>
+<normalised orig="euen" auto="true">even</normalised> <$$font> <normalised orig="fortie" auto="true">forty</normalised> <normalised orig="dayes" auto="true">days</normalised> <paren> each day for a <normalised orig="yeere" auto="true">year</normalised> <$$paren>
+shall <normalised orig="yee" auto="true">ye</normalised> <normalised orig="beare" auto="true">bear</normalised> your iniquities, <font> <normalised orig="euen" auto="true">even</normalised> <$$font> forty <normalised orig="yeeres" auto="true">years</normalised>,
+AUTHOLD-E2-H,14,20N.1002
+
+and <normalised orig="yee" auto="true">ye</normalised> shall know my breach of promise.  AUTHOLD-E2-H,14,20N.1003
+
+35 AUTHOLD-E2-H,14,20N.1004
+
+I the LORD <normalised orig="haue" auto="true">have</normalised> said, I will surely doe it <normalised orig="vnto" auto="true">unto</normalised> all this
+<normalised orig="euill" auto="true">evil</normalised> Congregation, that are gathered together against <normalised orig="mee" auto="true">me</normalised>:
+AUTHOLD-E2-H,14,20N.1005
+
+in this <normalised orig="wildernesse" auto="true">wilderness</normalised> they $shall $be {TEXT:shalbe} consumed,
+AUTHOLD-E2-H,14,20N.1006
+
+& there they shall die.  AUTHOLD-E2-H,14,20N.1007
+
+36 AUTHOLD-E2-H,14,20N.1008
+
+And the men which Moses sent to search the land, who returned, and made
+all the Congregation to <normalised orig="murmure" auto="true">murmur</normalised> against him, by bringing <normalised orig="vp" auto="true">up</normalised> a slander
+<normalised orig="vpon" auto="true">upon</normalised> the land, 37 <normalised orig="Euen" auto="true">Even</normalised> those men that did bring <normalised orig="vp" auto="true">up</normalised> the <normalised orig="euill" auto="true">evil</normalised> report <normalised orig="vpon" auto="true">upon</normalised>
+the land, died by the plague, before the LORD.  AUTHOLD-E2-H,14,20N.1009
+
+38 AUTHOLD-E2-H,14,20N.1010
+
+But <normalised orig="Ioshua" auto="true">Issue</normalised> the <normalised orig="sonne" auto="true">son</normalised> of Nun, and <normalised orig="Caleb" auto="true">Calve</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Iephunneh" auto="true">Euphony</normalised>, <font>
+which were <$$font> of the men that went to search the land, <normalised orig="liued" auto="true">lived</normalised> <font>
+still <$$font>.  AUTHOLD-E2-H,14,20N.1011
+
+39 AUTHOLD-E2-H,14,20N.1012
+
+And Moses told these sayings <normalised orig="vnto" auto="true">unto</normalised> all the children of Israel,
+AUTHOLD-E2-H,14,20N.1013
+
+and the people mourned greatly.  AUTHOLD-E2-H,14,20N.1014
+
+<P_14,40N>
+
+40 AUTHOLD-E2-H,14,40N.1016
+
+And they rose <normalised orig="vp" auto="true">up</normalised> early in the morning, AUTHOLD-E2-H,14,40N.1017
+
+and gate them <normalised orig="vp" auto="true">up</normalised> into the top of the <normalised orig="mountaine" auto="true">mountain</normalised>, saying, <normalised orig="Loe" auto="true">Lo</normalised>, we be here,
+AUTHOLD-E2-H,14,40N.1018
+
+and will <normalised orig="goe" auto="true">go</normalised> <normalised orig="vp" auto="true">up</normalised> <normalised orig="vnto" auto="true">unto</normalised> the place which the LORD hath promised:
+AUTHOLD-E2-H,14,40N.1019
+
+for we <normalised orig="haue" auto="true">have</normalised> sinned.  AUTHOLD-E2-H,14,40N.1020
+
+41 AUTHOLD-E2-H,14,40N.1021
+
+And Moses said, Wherefore now doe you <normalised orig="transgresse" auto="true">transgress</normalised> the <normalised orig="commaundement" auto="true">commandment</normalised> of
+the LORD?  AUTHOLD-E2-H,14,40N.1022
+
+but it shall not prosper.  AUTHOLD-E2-H,14,40N.1023
+
+42 AUTHOLD-E2-H,14,40N.1024
+
+<normalised orig="Goe" auto="true">Go</normalised> not <normalised orig="vp" auto="true">up</normalised>, AUTHOLD-E2-H,14,40N.1025
+
+for the LORD is not among you, that ye be not smitten before your enemies.
+AUTHOLD-E2-H,14,40N.1026
+
+43 AUTHOLD-E2-H,14,40N.1027
+
+For the <normalised orig="Amalekites" auto="true">Analyst's</normalised>, and the <normalised orig="Canaanites" auto="true">Cannonades</normalised> <font> are <$$font> there before
+you, AUTHOLD-E2-H,14,40N.1028
+
+and <normalised orig="yee" auto="true">ye</normalised> shall fall by the sword, because <normalised orig="yee" auto="true">ye</normalised> are turned away from the
+LORD; AUTHOLD-E2-H,14,40N.1029
+
+therefore the LORD will not bee with you.  AUTHOLD-E2-H,14,40N.1030
+
+44 AUTHOLD-E2-H,14,40N.1031
+
+But they presumed to go <normalised orig="vp" auto="true">up</normalised> <normalised orig="vnto" auto="true">unto</normalised> the hill top: AUTHOLD-E2-H,14,40N.1032
+
+<normalised orig="neuertheles" auto="true">nevertheless</normalised> the <normalised orig="Arke" auto="true">Arc</normalised> of the <normalised orig="Couenant" auto="true">Covenant</normalised> of the LORD, and Moses departed
+not out of the <normalised orig="campe" auto="true">camp</normalised>.  AUTHOLD-E2-H,14,40N.1033
+
+45 AUTHOLD-E2-H,14,40N.1034
+
+Then the <normalised orig="Amalekites" auto="true">Analyst's</normalised> came <normalised orig="downe" auto="true">down</normalised>, and the <normalised orig="Canaanites" auto="true">Cannonades</normalised> which dwelt in that
+hill, AUTHOLD-E2-H,14,40N.1035
+
+and smote them, AUTHOLD-E2-H,14,40N.1036
+
+and discomfited them, <normalised orig="euen" auto="true">even</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Hormah" auto="true">Horny</normalised>.  AUTHOLD-E2-H,14,40N.1037
+
+<P_16,1N>
+
+<heading>
+
+CHAP. XVI.  AUTHOLD-E2-H,16,1N.1040
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+Now <normalised orig="Korah" auto="true">Korea</normalised> the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Izhar" auto="true">Icier</normalised>, the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Kohath" auto="true">Keith</normalised>, the <normalised orig="sonne" auto="true">son</normalised> of <normalised orig="Leui" auto="true">Levi</normalised>,
+and <normalised orig="Dathan" auto="true">Detain</normalised>, and <normalised orig="Abiram" auto="true">Abraham</normalised> the <normalised orig="sonnes" auto="true">sons</normalised> {typo?} of <normalised orig="Eliab" auto="true">Alive</normalised>, and On the <normalised orig="sonne" auto="true">son</normalised>
+of <normalised orig="Peleth" auto="true">Pealed</normalised>, <normalised orig="sonnes" auto="true">sons</normalised> {typo?} of <normalised orig="Reuben" auto="true">Reopen</normalised>, <normalised orig="tooke" auto="true">took</normalised> <font> men <$$font>.
+AUTHOLD-E2-H,16,1N.1043
+
+2 AUTHOLD-E2-H,16,1N.1044
+
+And they rose <normalised orig="vp" auto="true">up</normalised> before Moses, with <normalised orig="certaine" auto="true">certain</normalised> of the children of
+Israel, two hundred and <normalised orig="fiftie" auto="true">fifty</normalised> Princes of the assembly, famous in the
+Congregation, men of <normalised orig="renowne" auto="true">renown</normalised>.  AUTHOLD-E2-H,16,1N.1045
+
+3 AUTHOLD-E2-H,16,1N.1046
+
+And they gathered <normalised orig="themselues" auto="true">themselves</normalised> together against Moses, and against Aaron ,
+AUTHOLD-E2-H,16,1N.1047
+
+and said <normalised orig="vnto" auto="true">unto</normalised> them, Ye take too much <normalised orig="vpon" auto="true">upon</normalised> you, seeing all the
+Congregation are holy <normalised orig="euery" auto="true">every</normalised> one of them, and the LORD is among them:
+AUTHOLD-E2-H,16,1N.1048
+
+<normalised orig="wherfore" auto="true">wherefore</normalised> then lift you <normalised orig="vp" auto="true">up</normalised> your <normalised orig="selues" auto="true">selves</normalised> <normalised orig="aboue" auto="true">above</normalised> the Congregation of the LORD?
+AUTHOLD-E2-H,16,1N.1049
+
+4 AUTHOLD-E2-H,16,1N.1050
+
+And when Moses heard it, he fell <normalised orig="vpon" auto="true">upon</normalised> his face.  AUTHOLD-E2-H,16,1N.1051
+
+5 AUTHOLD-E2-H,16,1N.1052
+
+And <normalised orig="hee" auto="true">hoe</normalised> spake <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Korah" auto="true">Korea</normalised>, and <normalised orig="vnto" auto="true">unto</normalised> all his company, saying, <normalised orig="Euen" auto="true">Even</normalised> to
+morrow the LORD will <normalised orig="shew" auto="true">show</normalised> who <font> are <$$font> his, and who <font>
+is <$$font> holy, AUTHOLD-E2-H,16,1N.1053
+
+and will cause <font> him <$$font> to come <normalised orig="neere" auto="true">near</normalised> <normalised orig="vnto" auto="true">unto</normalised> him:
+AUTHOLD-E2-H,16,1N.1054
+
+<normalised orig="euen" auto="true">even</normalised> <font> him <$$font> whom he hath chosen, will he cause to come
+<normalised orig="neere" auto="true">near</normalised> <normalised orig="vnto" auto="true">unto</normalised> him.  AUTHOLD-E2-H,16,1N.1055
+
+6 AUTHOLD-E2-H,16,1N.1056
+
+This doe: AUTHOLD-E2-H,16,1N.1057
+
+take you censers, <normalised orig="Korah" auto="true">Korea</normalised>, and all his company: AUTHOLD-E2-H,16,1N.1058
+
+7 AUTHOLD-E2-H,16,1N.1059
+
+And put fire therein, AUTHOLD-E2-H,16,1N.1060
+
+and put incense in them, before the LORD to morrow;
+AUTHOLD-E2-H,16,1N.1061
+
+And it shall be, <font> that <$$font> the man whom the LORD <normalised orig="doeth" auto="true">doth</normalised> choose ,
+<normalised orig="hee" auto="true">hoe</normalised> shall be holy: AUTHOLD-E2-H,16,1N.1062
+
+<normalised orig="yee" auto="true">ye</normalised> take too much <normalised orig="vpon" auto="true">upon</normalised> you, ye <normalised orig="sonnes" auto="true">sons</normalised> of <normalised orig="Leui" auto="true">Levi</normalised>.  AUTHOLD-E2-H,16,1N.1063
+
+8 AUTHOLD-E2-H,16,1N.1064
+
+And Moses <normalised orig="saide" auto="true">said</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Korah" auto="true">Korea</normalised>, <normalised orig="Heare" auto="true">Hear</normalised>, I pray you, ye <normalised orig="sonnes" auto="true">sons</normalised> of <normalised orig="Leui" auto="true">Levi</normalised>.
+AUTHOLD-E2-H,16,1N.1065
+
+9 AUTHOLD-E2-H,16,1N.1066
+
+<normalised orig="Seemeth" auto="true">Seems</normalised> it but a small thing <normalised orig="vnto" auto="true">unto</normalised> you, that the God of Israel hath
+separated you from the Congregation of Israel, to bring you <normalised orig="neere" auto="true">near</normalised> to
+<normalised orig="himselfe" auto="true">himself</normalised>, to doe the <normalised orig="seruice" auto="true">service</normalised> of the Tabernacle of the LORD, and to stand
+before the Congregation to minister <normalised orig="vnto" auto="true">unto</normalised> them?  AUTHOLD-E2-H,16,1N.1067
+
+10 AUTHOLD-E2-H,16,1N.1068
+
+And he hath brought thee <normalised orig="neere" auto="true">near</normalised> <font> to him <$$font>, and all thy
+brethren the <normalised orig="sonnes" auto="true">sons</normalised> of <normalised orig="Leui" auto="true">Levi</normalised> with thee: AUTHOLD-E2-H,16,1N.1069
+
+and <normalised orig="seeke" auto="true">seek</normalised> ye the Priesthood also?  AUTHOLD-E2-H,16,1N.1070
+
+11 AUTHOLD-E2-H,16,1N.1071
+
+For which cause both thou, and all thy company are gathered together
+against the LORD: AUTHOLD-E2-H,16,1N.1072
+
+and what is Aaron, that ye <normalised orig="murmure" auto="true">murmur</normalised> against him?  AUTHOLD-E2-H,16,1N.1073
+
+12 AUTHOLD-E2-H,16,1N.1074
+
+And Moses sent to call <normalised orig="Dathan" auto="true">Detain</normalised> and <normalised orig="Abiram" auto="true">Abraham</normalised> the <normalised orig="sonnes" auto="true">sons</normalised> of <normalised orig="Eliab" auto="true">Alive</normalised>: which said,
+We will not come <normalised orig="vp" auto="true">up</normalised>.  AUTHOLD-E2-H,16,1N.1075
+
+13 AUTHOLD-E2-H,16,1N.1076
+
+Is it a small thing that thou <normalised orig="hast" auto="true">haste</normalised> brought vs <normalised orig="vp" auto="true">up</normalised> out of a land that
+<normalised orig="floweth" auto="true">flows</normalised> with <normalised orig="milke" auto="true">milk</normalised> and <normalised orig="hony" auto="true">honey</normalised>, to kill vs in the <normalised orig="wildernesse" auto="true">wilderness</normalised>, except thou
+make thy <normalised orig="selfe" auto="true">self</normalised> altogether a prince <normalised orig="ouer" auto="true">over</normalised> vs?  AUTHOLD-E2-H,16,1N.1077
+
+14 AUTHOLD-E2-H,16,1N.1078
+
+<normalised orig="Moreouer" auto="true">Moreover</normalised>, thou <normalised orig="hast" auto="true">haste</normalised> not brought vs into a land that <normalised orig="floweth" auto="true">flows</normalised> with
+<normalised orig="milke" auto="true">milk</normalised> and <normalised orig="hony" auto="true">honey</normalised>, or <normalised orig="giuen" auto="true">given</normalised> vs inheritance of fields and vineyards:
+AUTHOLD-E2-H,16,1N.1079
+
+wilt thou put out the eyes of these men?  AUTHOLD-E2-H,16,1N.1080
+
+we will not come <normalised orig="vp" auto="true">up</normalised>.  AUTHOLD-E2-H,16,1N.1081
+
+15 AUTHOLD-E2-H,16,1N.1082
+
+And Moses was very wroth, AUTHOLD-E2-H,16,1N.1083
+
+and said <normalised orig="vnto" auto="true">unto</normalised> the LORD, Respect not thou their offering:
+AUTHOLD-E2-H,16,1N.1084
+
+I <normalised orig="haue" auto="true">have</normalised> not taken one <normalised orig="asse" auto="true">ass</normalised> from them, AUTHOLD-E2-H,16,1N.1085
+
+neither <normalised orig="haue" auto="true">have</normalised> I hurt one of them.  AUTHOLD-E2-H,16,1N.1086
+
+16 AUTHOLD-E2-H,16,1N.1087
+
+And Moses said <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Korah" auto="true">Korea</normalised>, Be thou and all thy company before the LORD,
+thou, and they, and Aaron to morrow.  AUTHOLD-E2-H,16,1N.1088
+
+17 AUTHOLD-E2-H,16,1N.1089
+
+And take <normalised orig="euery" auto="true">every</normalised> man his censer, AUTHOLD-E2-H,16,1N.1090
+
+and put incense in them, AUTHOLD-E2-H,16,1N.1091
+
+and bring <normalised orig="yee" auto="true">ye</normalised> before the LORD <normalised orig="euery" auto="true">every</normalised> man his censer, two hundred and <normalised orig="fiftie" auto="true">fifty</normalised>
+censers, thou also and Aaron, each <font> of you <$$font> his censer.
+AUTHOLD-E2-H,16,1N.1092
+
+18 AUTHOLD-E2-H,16,1N.1093
+
+And they <normalised orig="tooke" auto="true">took</normalised> <normalised orig="euery" auto="true">every</normalised> man his censer, AUTHOLD-E2-H,16,1N.1094
+
+and put fire in them, AUTHOLD-E2-H,16,1N.1095
+
+and <normalised orig="laide" auto="true">laid</normalised> incense thereon, AUTHOLD-E2-H,16,1N.1096
+
+and stood in the <normalised orig="doore" auto="true">door</normalised> of the Tabernacle of the Congregation with Moses
+and Aaron.  AUTHOLD-E2-H,16,1N.1097
+
+19 AUTHOLD-E2-H,16,1N.1098
+
+And <normalised orig="Korah" auto="true">Korea</normalised> gathered all the Congregation against them, <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="doore" auto="true">door</normalised> of
+the Tabernacle of the Congregation: AUTHOLD-E2-H,16,1N.1099
+
+and the glory of the LORD appeared <normalised orig="vnto" auto="true">unto</normalised> all the Congregation.
+AUTHOLD-E2-H,16,1N.1100
+
+<P_16,20N>
+
+20 AUTHOLD-E2-H,16,20N.1102
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, and <normalised orig="vnto" auto="true">unto</normalised> Aaron, saying, 21 Separate your
+<normalised orig="selues" auto="true">selves</normalised> from among this Congregation, that I may consume them in a moment.
+AUTHOLD-E2-H,16,20N.1103
+
+22 AUTHOLD-E2-H,16,20N.1104
+
+And they fell <normalised orig="vpon" auto="true">upon</normalised> their faces, AUTHOLD-E2-H,16,20N.1105
+
+and said, O God, the God of the spirits of all flesh, <normalised orig="shal" auto="true">shall</normalised> one man <normalised orig="sinne" auto="true">sin</normalised>,
+AUTHOLD-E2-H,16,20N.1106
+
+and wilt thou be wroth with all the Congregation?
+AUTHOLD-E2-H,16,20N.1107
+
+23 AUTHOLD-E2-H,16,20N.1108
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, saying, 24 <normalised orig="Speake" auto="true">Speak</normalised> <normalised orig="vnto" auto="true">unto</normalised> the Congregation ,
+saying, Get you <normalised orig="vp" auto="true">up</normalised> from about the tabernacle of <normalised orig="Korah" auto="true">Korea</normalised>, <normalised orig="Dathan" auto="true">Detain</normalised>, and <normalised orig="Abiram" auto="true">Abraham</normalised>.
+AUTHOLD-E2-H,16,20N.1109
+
+25 AUTHOLD-E2-H,16,20N.1110
+
+And Moses rose <normalised orig="vp" auto="true">up</normalised>, AUTHOLD-E2-H,16,20N.1111
+
+and went <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Dathan" auto="true">Detain</normalised> and <normalised orig="Abiram" auto="true">Abraham</normalised>: AUTHOLD-E2-H,16,20N.1112
+
+and the Elders of Israel followed him.  AUTHOLD-E2-H,16,20N.1113
+
+26 AUTHOLD-E2-H,16,20N.1114
+
+And <normalised orig="hee" auto="true">hoe</normalised> spake <normalised orig="vnto" auto="true">unto</normalised> the Congregation, saying, Depart, I pray you, from
+the tents of these wicked men, AUTHOLD-E2-H,16,20N.1115
+
+and touch nothing of theirs, lest ye be consumed in all their <normalised orig="sinnes" auto="true">sins</normalised>.
+AUTHOLD-E2-H,16,20N.1116
+
+27 AUTHOLD-E2-H,16,20N.1117
+
+So they gate <normalised orig="vp" auto="true">up</normalised> from the tabernacle of <normalised orig="Korah" auto="true">Korea</normalised>, <normalised orig="Dathan" auto="true">Detain</normalised>, and <normalised orig="Abiram" auto="true">Abraham</normalised>, on
+<normalised orig="euery" auto="true">every</normalised> side: AUTHOLD-E2-H,16,20N.1118
+
+and <normalised orig="Dathan" auto="true">Detain</normalised> and <normalised orig="Abiram" auto="true">Abraham</normalised> came out, AUTHOLD-E2-H,16,20N.1119
+
+and stood in the <normalised orig="doore" auto="true">door</normalised> of their tents, and their <normalised orig="wiues" auto="true">wives</normalised>, & their <normalised orig="sonnes" auto="true">sons</normalised>,
+and their little children.  AUTHOLD-E2-H,16,20N.1120
+
+28 AUTHOLD-E2-H,16,20N.1121
+
+And Moses said, Hereby ye shall know that the LORD hath sent me to doe
+all these <normalised orig="workes" auto="true">works</normalised>: AUTHOLD-E2-H,16,20N.1122
+
+for <font> I <normalised orig="haue" auto="true">have</normalised> <$$font> not <font> done them <$$font> of mine <normalised orig="owne" auto="true">own</normalised>
+mind.  AUTHOLD-E2-H,16,20N.1123
+
+29 AUTHOLD-E2-H,16,20N.1124
+
+If these men die the common death of all men, or if they be visited
+after the visitation of all men, then the LORD hath not sent me:
+AUTHOLD-E2-H,16,20N.1125
+
+30 AUTHOLD-E2-H,16,20N.1126
+
+But if the LORD make a new thing, and the earth open her mouth, and
+swallow them <normalised orig="vp" auto="true">up</normalised>, with all that <normalised orig="appertaine" auto="true">appertain</normalised> <normalised orig="vnto" auto="true">unto</normalised> them, and they go <normalised orig="downe" auto="true">down</normalised>
+<normalised orig="quicke" auto="true">quick</normalised> into the pit: then ye shall <normalised orig="vnderstand" auto="true">understand</normalised> that these men <normalised orig="haue" auto="true">have</normalised> <normalised orig="prouoked" auto="true">provoked</normalised>
+the LORD.  AUTHOLD-E2-H,16,20N.1127
+
+31 AUTHOLD-E2-H,16,20N.1128
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> as he had made an <normalised orig="ende" auto="true">end</normalised> of speaking all
+these words, that the ground <normalised orig="claue" auto="true">clave</normalised> asunder that was <normalised orig="vnder" auto="true">under</normalised> them:
+AUTHOLD-E2-H,16,20N.1129
+
+32 AUTHOLD-E2-H,16,20N.1130
+
+And the earth opened her mouth, AUTHOLD-E2-H,16,20N.1131
+
+and swallowed them <normalised orig="vp" auto="true">up</normalised>, and their houses, and all the men that appertained
+<normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Korah" auto="true">Korea</normalised>, and all their goods.  AUTHOLD-E2-H,16,20N.1132
+
+33 AUTHOLD-E2-H,16,20N.1133
+
+They, and all that appertained to them, went <normalised orig="downe" auto="true">down</normalised> <normalised orig="aliue" auto="true">alive</normalised> into the pit ,
+AUTHOLD-E2-H,16,20N.1134
+
+and the earth closed <normalised orig="vpon" auto="true">upon</normalised> them: AUTHOLD-E2-H,16,20N.1135
+
+and they perished from among the Congregation.  AUTHOLD-E2-H,16,20N.1136
+
+34 AUTHOLD-E2-H,16,20N.1137
+
+And all Israel that were round about them, fled at the <normalised orig="crie" auto="true">cry</normalised> of them:
+AUTHOLD-E2-H,16,20N.1138
+
+for they said, Lest the earth swallow vs <normalised orig="vp" auto="true">up</normalised> <font> also <$$font>.
+AUTHOLD-E2-H,16,20N.1139
+
+35 AUTHOLD-E2-H,16,20N.1140
+
+And there came out a fire from the LORD, AUTHOLD-E2-H,16,20N.1141
+
+and consumed the two hundred and <normalised orig="fiftie" auto="true">fifty</normalised> men that offered incense.
+AUTHOLD-E2-H,16,20N.1142
+
+36 AUTHOLD-E2-H,16,20N.1143
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, saying, 37 <normalised orig="Speake" auto="true">Speak</normalised> <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="Eleazar" auto="true">Elixir</normalised> the <normalised orig="sonne" auto="true">son</normalised>
+of Aaron the Priest, that he take <normalised orig="vp" auto="true">up</normalised> the censers out of the burning,
+AUTHOLD-E2-H,16,20N.1144
+
+and scatter thou the fire yonder, AUTHOLD-E2-H,16,20N.1145
+
+for they are hallowed.  AUTHOLD-E2-H,16,20N.1146
+
+38 AUTHOLD-E2-H,16,20N.1147
+
+The censers of these sinners against their <normalised orig="owne" auto="true">own</normalised> <normalised orig="soules" auto="true">souls</normalised>, let them make
+them broad plates for a <normalised orig="couering" auto="true">covering</normalised> of the Altar: AUTHOLD-E2-H,16,20N.1148
+
+for they offered them before the LORD, AUTHOLD-E2-H,16,20N.1149
+
+therefore they are hallowed, AUTHOLD-E2-H,16,20N.1150
+
+and they shall be a <normalised orig="signe" auto="true">sign</normalised> <normalised orig="vnto" auto="true">unto</normalised> the children of Israel.
+AUTHOLD-E2-H,16,20N.1151
+
+39 AUTHOLD-E2-H,16,20N.1152
+
+And <normalised orig="Eleazar" auto="true">Elixir</normalised> the Priest <normalised orig="tooke" auto="true">took</normalised> the <normalised orig="brasen" auto="true">brazen</normalised> censers, <normalised orig="wherewith" auto="true">whereat</normalised> they that
+were burnt had offered, AUTHOLD-E2-H,16,20N.1153
+
+and they were made broad <font> plates <$$font> for a <normalised orig="couering" auto="true">covering</normalised> of
+the Altar: <P_16,40N> 40 <font> To bee <$$font> a <normalised orig="memoriall" auto="true">memorial</normalised> <normalised orig="vnto" auto="true">unto</normalised> the
+children of Israel, that no stranger, which is not of the seed of Aaron
+, come <normalised orig="neere" auto="true">near</normalised> to offer incense before the LORD, that he be not as <normalised orig="Korah" auto="true">Korea</normalised>
+, and as his company, as the LORD said to him by the hand of Moses.
+AUTHOLD-E2-H,16,40N.1154
+
+41 AUTHOLD-E2-H,16,40N.1155
+
+But on the morrow, all the Congregation of the children of Israel murmured
+against Moses and against Aaron, saying, Ye <normalised orig="haue" auto="true">have</normalised> killed the people of
+the LORD.  AUTHOLD-E2-H,16,40N.1156
+
+42 AUTHOLD-E2-H,16,40N.1157
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> when the Congregation was gathered against Moses and
+against Aaron, that they looked toward the Tabernacle of the Congregation
+: AUTHOLD-E2-H,16,40N.1158
+
+and behold, the cloud <normalised orig="couered" auto="true">covered</normalised> it, AUTHOLD-E2-H,16,40N.1159
+
+and the glory of the LORD appeared.  AUTHOLD-E2-H,16,40N.1160
+
+43 AUTHOLD-E2-H,16,40N.1161
+
+And Moses and Aaron came before the Tabernacle of the Congregation.
+AUTHOLD-E2-H,16,40N.1162
+
+44 AUTHOLD-E2-H,16,40N.1163
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, saying, 45 Get you <normalised orig="vp" auto="true">up</normalised> from among
+this Congregation, that I may consume them, as in a moment:
+AUTHOLD-E2-H,16,40N.1164
+
+and they fell <normalised orig="vpon" auto="true">upon</normalised> their faces.  AUTHOLD-E2-H,16,40N.1165
+
+46 AUTHOLD-E2-H,16,40N.1166
+
+And Moses said <normalised orig="vnto" auto="true">unto</normalised> Aaron, Take a censer, AUTHOLD-E2-H,16,40N.1167
+
+and put fire therein from off the Altar, AUTHOLD-E2-H,16,40N.1168
+
+and put on incense, AUTHOLD-E2-H,16,40N.1169
+
+and <normalised orig="goe" auto="true">go</normalised> quickly <normalised orig="vnto" auto="true">unto</normalised> the Congregation, AUTHOLD-E2-H,16,40N.1170
+
+and make an atonement for them: AUTHOLD-E2-H,16,40N.1171
+
+for there is wrath gone out from the LORD; AUTHOLD-E2-H,16,40N.1172
+
+the plague is begun.  AUTHOLD-E2-H,16,40N.1173
+
+47 AUTHOLD-E2-H,16,40N.1174
+
+And Aaron <normalised orig="tooke" auto="true">took</normalised> as Moses commanded, AUTHOLD-E2-H,16,40N.1175
+
+and <normalised orig="ranne" auto="true">ran</normalised> into the midst of the Congregation: AUTHOLD-E2-H,16,40N.1176
+
+and behold, the plague was begun among the people,
+AUTHOLD-E2-H,16,40N.1177
+
+and he put on incense, AUTHOLD-E2-H,16,40N.1178
+
+and made an atonement for the people.  AUTHOLD-E2-H,16,40N.1179
+
+48 AUTHOLD-E2-H,16,40N.1180
+
+And he stood <normalised orig="betweene" auto="true">between</normalised> the dead and the <normalised orig="liuing" auto="true">living</normalised>, AUTHOLD-E2-H,16,40N.1181
+
+and the plague was stayed.  AUTHOLD-E2-H,16,40N.1182
+
+49 AUTHOLD-E2-H,16,40N.1183
+
+Now they that died in the plague, were <normalised orig="foureteene" auto="true">fourteen</normalised> thousand and
+<normalised orig="seuen" auto="true">seven</normalised> hundred, beside them that died about the matter of <normalised orig="Korah" auto="true">Korea</normalised>.
+AUTHOLD-E2-H,16,40N.1184
+
+50 AUTHOLD-E2-H,16,40N.1185
+
+And Aaron returned <normalised orig="vnto" auto="true">unto</normalised> Moses, <normalised orig="vnto" auto="true">unto</normalised> the <normalised orig="doore" auto="true">door</normalised> of the Tabernacle of the
+Congregation; AUTHOLD-E2-H,16,40N.1186
+
+and the plague was stayed.  AUTHOLD-E2-H,16,40N.1187
+
+<P_17,1N>
+
+<heading>
+
+CHAP. XVII.  AUTHOLD-E2-H,17,1N.1190
+
+<$$heading>
+
+{COM:introduction_omitted}
+
+And the LORD spake <normalised orig="vnto" auto="true">unto</normalised> Moses, saying, 2 <normalised orig="Speake" auto="true">Speak</normalised> <normalised orig="vnto" auto="true">unto</normalised> the children of
+Israel, AUTHOLD-E2-H,17,1N.1193
+
+and take of <normalised orig="euery" auto="true">every</normalised> one of them a rod, according to the house of their
+fathers, of all their princes, according to the house of their fathers,
+<normalised orig="twelue" auto="true">twelve</normalised> rods: AUTHOLD-E2-H,17,1N.1194
+
+write thou <normalised orig="euery" auto="true">every</normalised> mans name <normalised orig="vpon" auto="true">upon</normalised> his <normalised orig="rodde" auto="true">rod</normalised>.  AUTHOLD-E2-H,17,1N.1195
+
+3 AUTHOLD-E2-H,17,1N.1196
+
+And thou shalt write <normalised orig="Aarons" auto="true">Herons</normalised> name <normalised orig="vpon" auto="true">upon</normalised> the rod of <normalised orig="Leui" auto="true">Levi</normalised>:
+AUTHOLD-E2-H,17,1N.1197
+
+for one rod shall be for the head of the house of their fathers.
+AUTHOLD-E2-H,17,1N.1198
+
+4 AUTHOLD-E2-H,17,1N.1199
+
+And thou shalt lay them <normalised orig="vp" auto="true">up</normalised> in the Tabernacle of the Congregation, before
+the Testimony, where I will meet with you.  AUTHOLD-E2-H,17,1N.1200
+
+5 AUTHOLD-E2-H,17,1N.1201
+
+And it shall come to <normalised orig="passe" auto="true">pass</normalised>, that the mans rod whom I shall choose,
+shall <normalised orig="blossome" auto="true">blossom</normalised>: AUTHOLD-E2-H,17,1N.1202
+
+and I will make to cease from <normalised orig="mee" auto="true">me</normalised> the <normalised orig="murmurings" auto="true">murmuring</normalised> of the children of
+Israel, whereby they <normalised orig="murmure" auto="true">murmur</normalised> against you.  AUTHOLD-E2-H,17,1N.1203
+
+6 AUTHOLD-E2-H,17,1N.1204
+
+And Moses spake <normalised orig="vnto" auto="true">unto</normalised> the children of Israel, AUTHOLD-E2-H,17,1N.1205
+
+and <normalised orig="euery" auto="true">every</normalised> one of their Princes <normalised orig="gaue" auto="true">gave</normalised> him a rod a piece, for each Prince
+one, according to their fathers houses, <font> <normalised orig="euen" auto="true">even</normalised> <$$font> <normalised orig="twelue" auto="true">twelve</normalised> rods:
+AUTHOLD-E2-H,17,1N.1206
+
+and the rod of Aaron was among their rods.  AUTHOLD-E2-H,17,1N.1207
+
+7 AUTHOLD-E2-H,17,1N.1208
+
+And Moses <normalised orig="layd" auto="true">laid</normalised> <normalised orig="vp" auto="true">up</normalised> the rods before the LORD, in the Tabernacle of <normalised orig="Witnesse" auto="true">Witness</normalised>.
+AUTHOLD-E2-H,17,1N.1209
+
+8 AUTHOLD-E2-H,17,1N.1210
+
+And it came to <normalised orig="passe" auto="true">pass</normalised> that on the morrow Moses went into the Tabernacle
+of <normalised orig="Witnesse" auto="true">Witness</normalised>, AUTHOLD-E2-H,17,1N.1211
+
+and behold, the rod of Aaron for the house of <normalised orig="Leui" auto="true">Levi</normalised> was budded,
+AUTHOLD-E2-H,17,1N.1212
+
+and brought forth buds, AUTHOLD-E2-H,17,1N.1213
+
+and bloomed <normalised orig="blossomes" auto="true">blossoms</normalised>, AUTHOLD-E2-H,17,1N.1214
+
+and <normalised orig="yeelded" auto="true">yielded</normalised> almonds.  AUTHOLD-E2-H,17,1N.1215
+
+9 AUTHOLD-E2-H,17,1N.1216
+
+And Moses brought out all the rods from before the LORD, <normalised orig="vnto" auto="true">unto</normalised> all the
+children of Israel: AUTHOLD-E2-H,17,1N.1217
+
+and they looked, AUTHOLD-E2-H,17,1N.1218
+
+and <normalised orig="tooke" auto="true">took</normalised> <normalised orig="euery" auto="true">every</normalised> man his rod.  AUTHOLD-E2-H,17,1N.1219
+
+10 AUTHOLD-E2-H,17,1N.1220
+
+And the LORD said <normalised orig="vnto" auto="true">unto</normalised> Moses, Bring <normalised orig="Aarons" auto="true">Herons</normalised> rod <normalised orig="againe" auto="true">again</normalised> before
+the Testimony, to be kept for a token against the rebels,
+AUTHOLD-E2-H,17,1N.1221
+
+and thou shalt quite take away their <normalised orig="murmurings" auto="true">murmuring</normalised> from me, that they
+die not.  AUTHOLD-E2-H,17,1N.1222
+
+11 AUTHOLD-E2-H,17,1N.1223
+
+And Moses did so: AUTHOLD-E2-H,17,1N.1224
+
+as the LORD commanded him, so did he.  AUTHOLD-E2-H,17,1N.1225
+
+12 AUTHOLD-E2-H,17,1N.1226
+
+And the children of Israel spake <normalised orig="vnto" auto="true">unto</normalised> Moses, saying, Behold, wee die ,
+AUTHOLD-E2-H,17,1N.1227
+
+we perish, AUTHOLD-E2-H,17,1N.1228
+
+we all perish.  AUTHOLD-E2-H,17,1N.1229
+
+13 AUTHOLD-E2-H,17,1N.1230
+
+<normalised orig="Whosoeuer" auto="true">Whosoever</normalised> <normalised orig="commeth" auto="true">comes</normalised> any thing <normalised orig="neere" auto="true">near</normalised> <normalised orig="vnto" auto="true">unto</normalised> the Tabernacle of the LORD,
+shall die: AUTHOLD-E2-H,17,1N.1231
+
+Shall wee be consumed with dying?  AUTHOLD-E2-H,17,1N.1232

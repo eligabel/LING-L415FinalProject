@@ -1,0 +1,732 @@
+<P_1R>
+
+{COM:p._182_in_helsinki}
+
+<heading>
+
+THE FIRST <normalised orig="BOOKE" auto="true">BOOK</normalised> FOR THE YOUTH.  ASCH-E1-H,1R.4
+
+<$$heading>
+
+After the <normalised orig="childe" auto="true">child</normalised> hath learned <normalised orig="perfitlie" auto="true">perfectly</normalised> the eight <normalised orig="partes" auto="true">parts</normalised> of <normalised orig="speach" auto="true">speech</normalised>,
+let him then <normalised orig="learne" auto="true">learn</normalised> the right <normalised orig="ioyning" auto="true">joining</normalised> <normalised orig="togither" auto="true">together</normalised> of <normalised orig="substantiues" auto="true">substantives</normalised> with
+<normalised orig="adiectiues" auto="true">advocates</normalised>, the <normalised orig="nowne" auto="true">noun</normalised> with the <normalised orig="verbe" auto="true">verb</normalised>, the <normalised orig="relatiue" auto="true">relative</normalised> with the antecedent.
+ASCH-E1-H,1R.6
+
+And in <normalised orig="learninge" auto="true">learning</normalised> farther <normalised orig="hys" auto="true">his</normalised> <normalised orig="Syntaxis" auto="true">Synthesis</normalised>, by mine <normalised orig="aduice" auto="true">advice</normalised>, he shall not
+<normalised orig="vse" auto="true">use</normalised> the common order in common <normalised orig="scholes" auto="true">schools</normalised>, for making of <normalised orig="latines" auto="true">latinas</normalised>: <normalised orig="wherby" auto="true">whereby</normalised>
+, the <normalised orig="childe" auto="true">child</normalised> <normalised orig="commonlie" auto="true">commonly</normalised> <normalised orig="learneth" auto="true">learned</normalised>, first, an <normalised orig="euill" auto="true">evil</normalised> choice of <normalised orig="wordes" auto="true">words</normalised>,
+<paren> and right choice of <normalised orig="wordes" auto="true">words</normalised>, saith <font> Caesar <$$font>, is
+the foundation of eloquence <$$paren> than, a wrong placing of <normalised orig="wordes" auto="true">words</normalised>:
+and <normalised orig="lastlie" auto="true">lastly</normalised>, an ill framing of the sentence, with a <normalised orig="peruerse" auto="true">perverse</normalised> <normalised orig="iudgement" auto="true">judgment</normalised>,
+both of <normalised orig="wordes" auto="true">words</normalised> and sentences.  ASCH-E1-H,1R.7
+
+These <normalised orig="faultes" auto="true">faults</normalised>, taking once <normalised orig="roote" auto="true">root</normalised> in <normalised orig="yougthe" auto="true">yucked</normalised>, be <normalised orig="neuer" auto="true">never</normalised>, or <normalised orig="hardlie" auto="true">hardly</normalised>,
+<normalised orig="pluckt" auto="true">plucked</normalised> away in age.  ASCH-E1-H,1R.8
+
+<normalised orig="Moreouer" auto="true">Moreover</normalised>, there is no one thing, that hath more, either dulled the <normalised orig="wittes" auto="true">wits</normalised>,
+or taken <normalised orig="awaye" auto="true">away</normalised> the will of children from learning, then the care they
+<normalised orig="haue" auto="true">have</normalised>, to <normalised orig="satisfie" auto="true">satisfy</normalised> their masters, in making of <normalised orig="latines" auto="true">latinas</normalised>.  ASCH-E1-H,1R.9
+
+For, the <normalised orig="scholer" auto="true">scholar</normalised>, is <normalised orig="commonlie" auto="true">commonly</normalised> beat for the making, <normalised orig="whe~" auto="true">whew</normalised> the master were
+more <normalised orig="worthie" auto="true">worthy</normalised> to be beat for the mending, or rather, marring of the same:
+The master many times, being as ignorant as the <normalised orig="childe" auto="true">child</normalised>, what to <normalised orig="saie" auto="true">say</normalised>
+<normalised orig="properlie" auto="true">properly</normalised> and <normalised orig="fitlie" auto="true">fitly</normalised> to the matter.  ASCH-E1-H,1R.10
+
+Two <normalised orig="scholemasters" auto="true">schoolmasters</normalised> <normalised orig="haue" auto="true">have</normalised> set forth in print, either of them a <normalised orig="booke" auto="true">book</normalised>, of <normalised orig="soch" auto="true">such</normalised>
+<normalised orig="kinde" auto="true">kind</normalised> of <normalised orig="latines" auto="true">latinas</normalised>, <font> <normalised orig="Horman" auto="true">Hormone</normalised> <$$font> and <font> Whittington <$$font>.
+ASCH-E1-H,1R.11
+
+A <normalised orig="childe" auto="true">child</normalised> shall <normalised orig="learne" auto="true">learn</normalised> of the better of them, that, which an other <normalised orig="daie" auto="true">day</normalised> ,
+if he be wise, and <normalised orig="cum" auto="true">sum</normalised> to <normalised orig="iudgement" auto="true">judgment</normalised>, he must be <normalised orig="faine" auto="true">fine</normalised> to <normalised orig="vnlearne" auto="true">unlearn</normalised> <normalised orig="againe" auto="true">again</normalised>.
+ASCH-E1-H,1R.12
+
+{COM:p._183_in_helsinki}
+
+There is a <normalised orig="waie" auto="true">way</normalised>, touched in the first <normalised orig="booke" auto="true">book</normalised> of <font> <normalised orig="Cicero" auto="true">Chicer</normalised> De <normalised orig="Oratore" auto="true">Orator</normalised>
+<$$font>, which, <normalised orig="wiselie" auto="true">wisely</normalised> brought into <normalised orig="scholes" auto="true">schools</normalised>, <normalised orig="truely" auto="true">truly</normalised> taught <P_1V>, and
+<normalised orig="co~stantly" auto="true">constantly</normalised> <normalised orig="vsed" auto="true">used</normalised>, would not <normalised orig="onely" auto="true">only</normalised> take wholly away this <normalised orig="butcherlie" auto="true">butcherly</normalised> <normalised orig="feare" auto="true">fear</normalised>
+in making of <normalised orig="latines" auto="true">latinas</normalised>, but would also, with ease and pleasure , and in
+short time, as I know by good experience, <normalised orig="worke" auto="true">work</normalised> a true choice and placing
+of <normalised orig="wordes" auto="true">words</normalised>, a right ordering of sentences, an <normalised orig="easie" auto="true">easy</normalised> <normalised orig="vnderstandyng" auto="true">understanding</normalised> of the
+<normalised orig="tonge" auto="true">tongue</normalised>, a <normalised orig="readines" auto="true">readiness</normalised> to <normalised orig="speake" auto="true">speak</normalised>, a <normalised orig="facultie" auto="true">faculty</normalised> to write , a true <normalised orig="iudgement" auto="true">judgment</normalised>,
+both of his <normalised orig="owne" auto="true">own</normalised>, and other <normalised orig="mens" auto="true">men's</normalised> <normalised orig="doinges" auto="true">doings</normalised>, what <normalised orig="tonge" auto="true">tongue</normalised> so <normalised orig="euer" auto="true">ever</normalised> he doth <normalised orig="vse" auto="true">use</normalised>.
+ASCH-E1-H,1V.14
+
+The <normalised orig="waie" auto="true">way</normalised> is this.  ASCH-E1-H,1V.15
+
+After the three Concordances learned, as I touched before, let the master
+read <normalised orig="vnto" auto="true">unto</normalised> <normalised orig="hym" auto="true">him</normalised> the Epistles of <font> <normalised orig="Cicero" auto="true">Chicer</normalised> <$$font>, gathered <normalised orig="togither" auto="true">together</normalised>
+and chosen out by <font> <normalised orig="Sturmius" auto="true">Storm's</normalised> <$$font>, for the <normalised orig="capacitie" auto="true">capacity</normalised> of children.
+ASCH-E1-H,1V.16
+
+First, let him teach the <normalised orig="childe" auto="true">child</normalised>, <normalised orig="cherefullie" auto="true">cheerfully</normalised> and <normalised orig="plainlie" auto="true">plainly</normalised>, the cause,
+and matter of the letter: ASCH-E1-H,1V.17
+
+then, let him construe it into <normalised orig="Englishe" auto="true">English</normalised>, so oft, as the <normalised orig="childe" auto="true">child</normalised> may
+<normalised orig="easilie" auto="true">easily</normalised> <normalised orig="carie" auto="true">carry</normalised> <normalised orig="awaie" auto="true">away</normalised> the <normalised orig="vnderstanding" auto="true">understanding</normalised> of it: ASCH-E1-H,1V.18
+
+<normalised orig="Lastlie" auto="true">Lastly</normalised>, parse it <normalised orig="ouer" auto="true">over</normalised> <normalised orig="perfitlie" auto="true">perfectly</normalised>.  ASCH-E1-H,1V.19
+
+This done thus, let the <normalised orig="childe" auto="true">child</normalised>, by and by, both construe and parse it
+<normalised orig="ouer" auto="true">over</normalised> <normalised orig="againe" auto="true">again</normalised>: so, that it may <normalised orig="appeare" auto="true">appear</normalised>, that the <normalised orig="childe" auto="true">child</normalised> <normalised orig="douteth" auto="true">doubts</normalised> in nothing,
+that his master taught him before.  ASCH-E1-H,1V.20
+
+After this, the <normalised orig="childe" auto="true">child</normalised> must take a paper <normalised orig="booke" auto="true">book</normalised>, ASCH-E1-H,1V.21
+
+and sitting in some place, where no man shall <normalised orig="prompe" auto="true">primp</normalised> him, by him self,
+let him translate into <normalised orig="Englishe" auto="true">English</normalised> his former lesson.  ASCH-E1-H,1V.22
+
+Then <normalised orig="shewing" auto="true">showing</normalised> it to his master, let the master take from him his latin
+<normalised orig="booke" auto="true">book</normalised>, ASCH-E1-H,1V.23
+
+and pausing an <normalised orig="houre" auto="true">hour</normalised>, at the least, than let the <normalised orig="childe" auto="true">child</normalised> translate his
+<normalised orig="owne" auto="true">own</normalised> <normalised orig="Englishe" auto="true">English</normalised> into latin <normalised orig="againe" auto="true">again</normalised>, in an other paper <normalised orig="booke" auto="true">book</normalised>.  ASCH-E1-H,1V.24
+
+when the <normalised orig="childe" auto="true">child</normalised> <normalised orig="bringeth" auto="true">brings</normalised> it, turned into latin, the master must compare
+it with <font> <normalised orig="Tullies" auto="true">Tallies</normalised> <$$font> <normalised orig="booke" auto="true">book</normalised>, and <normalised orig="laie" auto="true">lay</normalised> them both <normalised orig="togither" auto="true">together</normalised>:
+ASCH-E1-H,1V.25
+
+and where the <normalised orig="childe" auto="true">child</normalised> doth well, either in <normalised orig="chosing" auto="true">choosing</normalised>, or true placing of
+<font> <normalised orig="Tullies" auto="true">Tallies</normalised> <$$font> <normalised orig="wordes" auto="true">words</normalised>, let the master praise him, and <normalised orig="saie" auto="true">say</normalised> here
+ye do well.  ASCH-E1-H,1V.26
+
+For I assure you, there is no such whetstone, to sharpen a good <normalised orig="witte" auto="true">wit</normalised>
+and encourage a will to <normalised orig="learninge" auto="true">learning</normalised>, as is praise.  ASCH-E1-H,1V.27
+
+But if the <normalised orig="childe" auto="true">child</normalised> <normalised orig="misse" auto="true">miss</normalised>, either in forgetting a <normalised orig="worde" auto="true">word</normalised>, or in <normalised orig="chaunging" auto="true">changing</normalised>
+a good with a worse, or misordering the sentence, I would not <normalised orig="haue" auto="true">have</normalised>
+the master, either <normalised orig="froune" auto="true">frown</normalised>, or chide with him, if the <normalised orig="childe" auto="true">child</normalised> <normalised orig="haue" auto="true">have</normalised> done
+his diligence, and <normalised orig="vsed" auto="true">used</normalised> no <P_2R> trewandship {COM:p._184_in_helsinki}
+therein.  ASCH-E1-H,2R.28
+
+For I know by good experience, that a <normalised orig="childe" auto="true">child</normalised> shall take more profit
+of two <normalised orig="fautes" auto="true">fates</normalised>, <normalised orig="ientlie" auto="true">gentle</normalised> warned of, then of <normalised orig="foure" auto="true">four</normalised> <normalised orig="thinges" auto="true">things</normalised>, rightly <normalised orig="hitt" auto="true">hit</normalised>.
+ASCH-E1-H,2R.29
+
+For than, the master shall <normalised orig="haue" auto="true">have</normalised> good occasion to <normalised orig="saie" auto="true">say</normalised> <normalised orig="vnto" auto="true">unto</normalised> him.  <font>
+N. <normalised orig="Tullie" auto="true">Tulle</normalised> <$$font> would <normalised orig="haue" auto="true">have</normalised> <normalised orig="vsed" auto="true">used</normalised> such a <normalised orig="worde" auto="true">word</normalised>, not this:
+ASCH-E1-H,2R.30
+
+<font> <normalised orig="Tullie" auto="true">Tulle</normalised> <$$font> would <normalised orig="haue" auto="true">have</normalised> placed this word here, not there:
+ASCH-E1-H,2R.31
+
+would <normalised orig="haue" auto="true">have</normalised> <normalised orig="vsed" auto="true">used</normalised> this case, this number, this person, this degree, this
+gender: ASCH-E1-H,2R.32
+
+he would <normalised orig="haue" auto="true">have</normalised> <normalised orig="vsed" auto="true">used</normalised> this <normalised orig="moode" auto="true">mood</normalised>, this tens, this simple, rather than this
+compound: this <normalised orig="aduerbe" auto="true">adverb</normalised> here, not there: ASCH-E1-H,2R.33
+
+he would <normalised orig="haue" auto="true">have</normalised> ended the sentence with this <normalised orig="verbe" auto="true">verb</normalised>, not with that <normalised orig="nowne" auto="true">noun</normalised>
+or participle.  etc..  ASCH-E1-H,2R.34
+
+In these <normalised orig="fewe" auto="true">few</normalised> lines, I <normalised orig="haue" auto="true">have</normalised> wrapped <normalised orig="vp" auto="true">up</normalised>, the most tedious part of
+<normalised orig="Grammer" auto="true">Grammar</normalised>: and also the ground of almost all the <normalised orig="Rewles" auto="true">Rolls</normalised>, that are so
+<normalised orig="busilie" auto="true">busily</normalised> taught by the Master, and so <normalised orig="hardlie" auto="true">hardly</normalised> learned by the <normalised orig="Scholer" auto="true">Scholar</normalised>,
+in all common <normalised orig="Scholes" auto="true">Schools</normalised>: which after this sort, the master shall teach
+without all error, and the <normalised orig="scholer" auto="true">scholar</normalised> shall <normalised orig="learne" auto="true">learn</normalised> without great <normalised orig="paine" auto="true">pain</normalised>:
+the master being led by so sure a guide, and the <normalised orig="scholer" auto="true">scholar</normalised> being brought
+into so <normalised orig="plaine" auto="true">plain</normalised> and <normalised orig="easie" auto="true">easy</normalised> a <normalised orig="waie" auto="true">way</normalised>.  ASCH-E1-H,2R.35
+
+And therefore, we do not <normalised orig="contemne" auto="true">contemn</normalised> <normalised orig="Rewles" auto="true">Rolls</normalised>, ASCH-E1-H,2R.36
+
+but we <normalised orig="gladlie" auto="true">gladly</normalised> teach <normalised orig="Rewles" auto="true">Rolls</normalised>: ASCH-E1-H,2R.37
+
+and teach them, more <normalised orig="plainlie" auto="true">plainly</normalised>, <normalised orig="sensiblie" auto="true">sensibly</normalised>, and <normalised orig="orderlie" auto="true">orderly</normalised>, than they be
+<normalised orig="commonlie" auto="true">commonly</normalised> taught in common <normalised orig="Scholes" auto="true">Schools</normalised>.  ASCH-E1-H,2R.38
+
+For <normalised orig="whan" auto="true">when</normalised> the Master shall compare <font> <normalised orig="Tullies" auto="true">Tallies</normalised> <$$font> <normalised orig="booke" auto="true">book</normalised> with his
+<normalised orig="Scholers" auto="true">Scholars</normalised> translation, let the Master, at the first, lead and teach his
+<normalised orig="Scholer" auto="true">Scholar</normalised>, to <normalised orig="ioyne" auto="true">join</normalised> the <normalised orig="Rewles" auto="true">Rolls</normalised> of his <normalised orig="Grammer" auto="true">Grammar</normalised> <normalised orig="booke" auto="true">book</normalised>, with the examples
+of his present lesson, <normalised orig="vntill" auto="true">until</normalised> the <normalised orig="Scholer" auto="true">Scholar</normalised>, by him <normalised orig="selfe" auto="true">self</normalised>, be <normalised orig="hable" auto="true">able</normalised> to
+fetch out of his <normalised orig="Grammer" auto="true">Grammar</normalised>, <normalised orig="euerie" auto="true">every</normalised> <normalised orig="Rewle" auto="true">Roll</normalised>, for <normalised orig="euerie" auto="true">every</normalised> Example: So, as the
+<normalised orig="Grammer" auto="true">Grammar</normalised> <normalised orig="booke" auto="true">book</normalised> be <normalised orig="euer" auto="true">ever</normalised> in the <normalised orig="Scholers" auto="true">Scholars</normalised> hand, and also <normalised orig="vsed" auto="true">used</normalised> of him, as a
+<normalised orig="Dictionarie" auto="true">Dictionary</normalised>, for <normalised orig="euerie" auto="true">every</normalised> present <normalised orig="vse" auto="true">use</normalised>.  ASCH-E1-H,2R.39
+
+This is a <normalised orig="liuely" auto="true">lively</normalised> and <normalised orig="perfite" auto="true">perfect</normalised> <normalised orig="waie" auto="true">way</normalised> of teaching of <normalised orig="Rewles" auto="true">Rolls</normalised>: where the common
+<normalised orig="waie" auto="true">way</normalised>, <normalised orig="vsed" auto="true">used</normalised> in common <normalised orig="Scholes" auto="true">Schools</normalised>, to read the <normalised orig="Grammer" auto="true">Grammar</normalised> alone by it <normalised orig="selfe" auto="true">self</normalised>,
+is tedious for the Master, hard for the <normalised orig="Scholer" auto="true">Scholar</normalised>, <normalised orig="colde" auto="true">cold</normalised> and <normalised orig="vncumfortable" auto="true">uncomfortable</normalised>
+for them <normalised orig="bothe" auto="true">both</normalised>.  ASCH-E1-H,2R.40
+
+Let your <normalised orig="Scholer" auto="true">Scholar</normalised> be <normalised orig="neuer" auto="true">never</normalised> <normalised orig="afraide" auto="true">afraid</normalised>, to <normalised orig="aske" auto="true">ask</normalised> you any <normalised orig="dout" auto="true">dot</normalised>, ASCH-E1-H,2R.41
+
+but <normalised orig="vse" auto="true">use</normalised> <normalised orig="discretlie" auto="true">discreetly</normalised> the best allurements ye can, to <normalised orig="encorage" auto="true">encourage</normalised> <P_2V>
+him to the same: lest, his <normalised orig="ouermoch" auto="true">overmuch</normalised> <normalised orig="fearinge" auto="true">fearing</normalised> of you, <normalised orig="driue" auto="true">drive</normalised> him to <normalised orig="seeke" auto="true">seek</normalised>
+some misorderlie <normalised orig="shifte" auto="true">shift</normalised>: as, to <normalised orig="seeke" auto="true">seek</normalised> to be helped by some other <normalised orig="booke" auto="true">book</normalised>
+, or to be prompted by some other <normalised orig="Scholer" auto="true">Scholar</normalised>, and so <normalised orig="goe" auto="true">go</normalised> <normalised orig="aboute" auto="true">about</normalised> to <normalised orig="begile" auto="true">beguile</normalised>
+you <normalised orig="moch" auto="true">much</normalised>, and him <normalised orig="selfe" auto="true">self</normalised> more.  ASCH-E1-H,2V.42
+
+{COM:p._185_in_helsinki}
+
+With this <normalised orig="waie" auto="true">way</normalised>, of good <normalised orig="vnderstanding" auto="true">understanding</normalised> the <normalised orig="mater" auto="true">matter</normalised>, <normalised orig="plaine" auto="true">plain</normalised> <normalised orig="construinge" auto="true">construing</normalised>,
+diligent <normalised orig="parsinge" auto="true">parsing</normalised>, <normalised orig="dailie" auto="true">daily</normalised> <normalised orig="translatinge" auto="true">translating</normalised>, <normalised orig="cherefull" auto="true">cheerful</normalised> <normalised orig="admonishinge" auto="true">admonishing</normalised>, and
+<normalised orig="heedefull" auto="true">heedful</normalised> <normalised orig="amendinge" auto="true">amending</normalised> of <normalised orig="faultes" auto="true">faults</normalised>: <normalised orig="neuer" auto="true">never</normalised> <normalised orig="leauinge" auto="true">leaving</normalised> <normalised orig="behinde" auto="true">behind</normalised> <normalised orig="iuste" auto="true">just</normalised> praise
+for well <normalised orig="doinge" auto="true">doing</normalised>, I would <normalised orig="haue" auto="true">have</normalised> the <normalised orig="Scholer" auto="true">Scholar</normalised> brought <normalised orig="vp" auto="true">up</normalised> <normalised orig="withall" auto="true">withal</normalised>, till
+he had red, & translated <normalised orig="ouer" auto="true">over</normalised> <normalised orig="y=e=" auto="true">yew</normalised> first <normalised orig="booke" auto="true">book</normalised> of Epistles chosen out
+by <font> <normalised orig="Sturmius" auto="true">Storm's</normalised> <$$font>, with a good <normalised orig="peece" auto="true">piece</normalised> of a <normalised orig="Comedie" auto="true">Comedy</normalised> of <font>
+Terence <$$font> also.  ASCH-E1-H,2V.44
+
+All this while, by mine <normalised orig="aduise" auto="true">advise</normalised>, the <normalised orig="childe" auto="true">child</normalised> shall <normalised orig="vse" auto="true">use</normalised> to <normalised orig="speake" auto="true">speak</normalised> no <normalised orig="latine" auto="true">latin</normalised>:
+ASCH-E1-H,2V.45
+
+For, as <font> <normalised orig="Cicero" auto="true">Chicer</normalised> <$$font> saith in like <normalised orig="mater" auto="true">matter</normalised>, with like <normalised orig="wordes" auto="true">words</normalised>,
+<normalised orig="loquendo" auto="true">loosened</normalised>, male <normalised orig="loqui" auto="true">louis</normalised> <normalised orig="discunt" auto="true">discount</normalised>.  ASCH-E1-H,2V.46
+
+And, that excellent learned man, <font> G. <normalised orig="Budaeus" auto="true">Buddies</normalised> <$$font>, in
+his <normalised orig="Greeke" auto="true">Greek</normalised> Commentaries, sore <normalised orig="complaineth" auto="true">complains</normalised>, that <normalised orig="whan" auto="true">when</normalised> he began to <normalised orig="learne" auto="true">learn</normalised>
+the latin <normalised orig="tonge" auto="true">tongue</normalised>, <normalised orig="vse" auto="true">use</normalised> of speaking latin at the table, and elsewhere,
+<normalised orig="vnaduisedlie" auto="true">unadvisedly</normalised>, did bring him to <normalised orig="soch" auto="true">such</normalised> an <normalised orig="euill" auto="true">evil</normalised> choice of <normalised orig="wordes" auto="true">words</normalised>, to <normalised orig="soch" auto="true">such</normalised>
+a crooked framing of sentences, that no one thing did hurt or hinder him
+more, all the <normalised orig="daies" auto="true">days</normalised> of his life <normalised orig="afterward" auto="true">afterword</normalised>, both for <normalised orig="redinesse" auto="true">readiness</normalised> in speaking,
+and also good <normalised orig="iudgement" auto="true">judgment</normalised> in <normalised orig="writinge" auto="true">writing</normalised>.  ASCH-E1-H,2V.47
+
+In very <normalised orig="deede" auto="true">deed</normalised>, if <normalised orig="childre~" auto="true">children</normalised> were brought <normalised orig="vp" auto="true">up</normalised>, in <normalised orig="soch" auto="true">such</normalised> a house, or <normalised orig="soch" auto="true">such</normalised> a
+<normalised orig="Schole" auto="true">School</normalised>, where the latin <normalised orig="tonge" auto="true">tongue</normalised> were <normalised orig="properlie" auto="true">properly</normalised> and <normalised orig="perfitlie" auto="true">perfectly</normalised> spoken, as
+<font> <normalised orig="Tib" auto="true">Tab</normalised>. <$$font> and <font> Ca. <normalised orig="Gracci" auto="true">Grassy</normalised> <$$font> were
+brought <normalised orig="vp" auto="true">up</normalised>, in their mother <font> <normalised orig="Cornelias" auto="true">Caramelise</normalised> <$$font> house, <normalised orig="surelie" auto="true">surely</normalised>,
+than the <normalised orig="dailie" auto="true">daily</normalised> <normalised orig="vse" auto="true">use</normalised> of speaking, were the best and readiest <normalised orig="waie" auto="true">way</normalised>, to
+<normalised orig="learne" auto="true">learn</normalised> the latin tong.  ASCH-E1-H,2V.48
+
+But, now, <normalised orig="commonlie" auto="true">commonly</normalised>, in the best <normalised orig="Scholes" auto="true">Schools</normalised> in England, for <normalised orig="wordes" auto="true">words</normalised>,
+right choice is <normalised orig="smallie" auto="true">smelly</normalised> regarded, true <normalised orig="proprietie" auto="true">propriety</normalised> <normalised orig="whollie" auto="true">wholly</normalised> neglected,
+ASCH-E1-H,2V.49
+
+confusion is brought in, ASCH-E1-H,2V.50
+
+<normalised orig="barbariousnesse" auto="true">barbarism's</normalised> is bred <normalised orig="vp" auto="true">up</normalised> so in <normalised orig="yong" auto="true">young</normalised> <normalised orig="wittes" auto="true">wits</normalised>, as <normalised orig="afterward" auto="true">afterword</normalised> they be,
+not <normalised orig="onelie" auto="true">only</normalised> <normalised orig="marde" auto="true">mart</normalised> for speaking, but also corrupted in <normalised orig="iudgement" auto="true">judgment</normalised>: as
+with <normalised orig="moch" auto="true">much</normalised> <normalised orig="adoe" auto="true">ado</normalised>, or <normalised orig="neuer" auto="true">never</normalised> at all, they be brought to right frame <normalised orig="againe" auto="true">again</normalised>.
+ASCH-E1-H,2V.51
+
+Yet all men <normalised orig="couet" auto="true">covet</normalised> to <normalised orig="haue" auto="true">have</normalised> their children <normalised orig="speake" auto="true">speak</normalised> latin: ASCH-E1-H,2V.52
+
+<P_3R>
+
+and so do I <normalised orig="verie" auto="true">very</normalised> <normalised orig="earnestlie" auto="true">earnestly</normalised> too.  ASCH-E1-H,3R.54
+
+We <normalised orig="bothe" auto="true">both</normalised>, <normalised orig="haue" auto="true">have</normalised> one purpose: ASCH-E1-H,3R.55
+
+we agree in desire, ASCH-E1-H,3R.56
+
+we wish one end: ASCH-E1-H,3R.57
+
+but we differ somewhat in order and <normalised orig="waie" auto="true">way</normalised>, that <normalised orig="leadeth" auto="true">leads</normalised> <normalised orig="rightlie" auto="true">rightly</normalised> to
+that end.  ASCH-E1-H,3R.58
+
+Other would <normalised orig="haue" auto="true">have</normalised> them <normalised orig="speake" auto="true">speak</normalised> at all <normalised orig="aduentures" auto="true">adventures</normalised>: ASCH-E1-H,3R.59
+
+and, so they be <normalised orig="speakinge" auto="true">speaking</normalised>, to <normalised orig="speake" auto="true">speak</normalised>, the Master <normalised orig="careth" auto="true">cares</normalised> not, the <normalised orig="Scholer" auto="true">Scholar</normalised>
+<normalised orig="knoweth" auto="true">knows</normalised> not, what.  ASCH-E1-H,3R.60
+
+This is, to <normalised orig="seeme" auto="true">seem</normalised>, and not to bee: except it be, to be <normalised orig="bolde" auto="true">bold</normalised> without
+shame, <normalised orig="rashe" auto="true">rash</normalised> without skill, full of <normalised orig="wordes" auto="true">words</normalised> without <normalised orig="witte" auto="true">wit</normalised>.  ASCH-E1-H,3R.61
+
+I wish to <normalised orig="haue" auto="true">have</normalised> them <normalised orig="speake" auto="true">speak</normalised> so, as it may well <normalised orig="appeare" auto="true">appear</normalised>, that the <normalised orig="braine" auto="true">brain</normalised>
+doth <normalised orig="gouerne" auto="true">govern</normalised> the <normalised orig="tonge" auto="true">tongue</normalised>, and that reason <normalised orig="leadeth" auto="true">leads</normalised> {COM:p._186_in_helsinki}
+forth the <normalised orig="taulke" auto="true">talk</normalised>.  ASCH-E1-H,3R.62
+
+<font> <normalised orig="Socrates" auto="true">Secretes</normalised> <$$font> doctrine is true in <font> Plato <$$font>, and
+well marked, and <normalised orig="truely" auto="true">truly</normalised> <normalised orig="vttered" auto="true">uttered</normalised> by <font> Horace <$$font> in <font> <normalised orig="Arte" auto="true">Art</normalised>
+<normalised orig="Poetica" auto="true">Poetics</normalised> <$$font>, that, where so <normalised orig="euer" auto="true">ever</normalised> knowledge doth <normalised orig="accompanie" auto="true">accompany</normalised> the <normalised orig="witte" auto="true">wit</normalised>,
+there best <normalised orig="vtterance" auto="true">utterance</normalised> doth <normalised orig="alwaies" auto="true">always</normalised> <normalised orig="awaite" auto="true">await</normalised> <normalised orig="vpon" auto="true">upon</normalised> the <normalised orig="tonge" auto="true">tongue</normalised>: ASCH-E1-H,3R.63
+
+For, good <normalised orig="vnderstanding" auto="true">understanding</normalised> must first be bred in the <normalised orig="childe" auto="true">child</normalised>, which, being
+<normalised orig="nurished" auto="true">nourished</normalised> with skill, and <normalised orig="vse" auto="true">use</normalised> of writing <paren> as I will teach more
+<normalised orig="largelie" auto="true">largely</normalised> hereafter <$$paren> is the <normalised orig="onelie" auto="true">only</normalised> <normalised orig="waie" auto="true">way</normalised> to bring him to <normalised orig="iudgement" auto="true">judgment</normalised>
+and <normalised orig="readinesse" auto="true">readiness</normalised> in <normalised orig="speakinge" auto="true">speaking</normalised>: ASCH-E1-H,3R.64
+
+and that in <normalised orig="farre" auto="true">far</normalised> shorter time <paren> if he <normalised orig="followe" auto="true">follow</normalised> <normalised orig="constantlie" auto="true">constantly</normalised> the
+trade of this <normalised orig="litle" auto="true">little</normalised> lesson <$$paren> than {in} he shall do, by common
+<normalised orig="teachinge" auto="true">teaching</normalised> of the <normalised orig="co~mon" auto="true">common</normalised> <normalised orig="scholes" auto="true">schools</normalised> in England.  ASCH-E1-H,3R.65
+
+<P_18R>
+
+{COM:p._214_in_helsinki}
+
+Learning <normalised orig="teacheth" auto="true">teaches</normalised> more in one <normalised orig="yeare" auto="true">year</normalised> than experience in <normalised orig="twentie" auto="true">twenty</normalised>:
+ASCH-E1-H,18R.68
+
+And learning <normalised orig="teacheth" auto="true">teaches</normalised> <normalised orig="safelie" auto="true">safely</normalised>.  when experience <normalised orig="maketh" auto="true">makes</normalised> mo miserable then
+{it_makes} wise.  ASCH-E1-H,18R.69
+
+He <normalised orig="hasardeth" auto="true">hazarded</normalised> sore, that <P_18V> <normalised orig="waxeth" auto="true">waxes</normalised> wise by experience.
+ASCH-E1-H,18V.70
+
+An <normalised orig="vnhappie" auto="true">unhappy</normalised> Master he is, that is made cunning by <normalised orig="manie" auto="true">many</normalised> <normalised orig="shippewrakes" auto="true">shipwrecks</normalised>:
+A miserable merchant, {is_he} that is neither <normalised orig="riche" auto="true">rich</normalised> or wise, but after
+<normalised orig="som" auto="true">some</normalised> bankroutes.  ASCH-E1-H,18V.71
+
+It is <normalised orig="costlie" auto="true">costly</normalised> wisdom, that is bought by experience.  ASCH-E1-H,18V.72
+
+We know by experience it <normalised orig="selfe" auto="true">self</normalised>, that it is a <normalised orig="meruelous" auto="true">marvelous</normalised> <normalised orig="paine" auto="true">pain</normalised>, to <normalised orig="finde" auto="true">find</normalised>
+<normalised orig="oute" auto="true">out</normalised> but a short <normalised orig="waie" auto="true">way</normalised>, by long wandering.  ASCH-E1-H,18V.73
+
+And <normalised orig="surelie" auto="true">surely</normalised>, he that wold <normalised orig="proue" auto="true">prove</normalised> wise by experience, he <normalised orig="maie" auto="true">may</normalised> be <normalised orig="wittie" auto="true">witty</normalised> in
+<normalised orig="deede" auto="true">deed</normalised>, but <normalised orig="euen" auto="true">even</normalised> like a swift runner, that <normalised orig="runneth" auto="true">runs</normalised> fast out of his <normalised orig="waie" auto="true">way</normalised>,
+and <normalised orig="vpon" auto="true">upon</normalised> the night, he <normalised orig="knoweth" auto="true">knows</normalised> not whither.  ASCH-E1-H,18V.74
+
+And <normalised orig="verilie" auto="true">verily</normalised> they be fewest of number, that be <normalised orig="happie" auto="true">happy</normalised> or wise by <normalised orig="vnlearned" auto="true">unlearned</normalised>
+experience.  ASCH-E1-H,18V.75
+
+And <normalised orig="looke" auto="true">look</normalised> well <normalised orig="vpon" auto="true">upon</normalised> the former life of those <normalised orig="fewe" auto="true">few</normalised>, whether your example
+be old or <normalised orig="yonge" auto="true">young</normalised>, who without learning <normalised orig="haue" auto="true">have</normalised> gathered, by long experience ,
+a <normalised orig="litle" auto="true">little</normalised> wisdom, and <normalised orig="som" auto="true">some</normalised> <normalised orig="happines" auto="true">happiness</normalised>: ASCH-E1-H,18V.76
+
+and <normalised orig="whan" auto="true">when</normalised> you do consider, what <normalised orig="mischeife" auto="true">mischief</normalised> they <normalised orig="haue" auto="true">have</normalised> committed, what dangers
+they <normalised orig="haue" auto="true">have</normalised> escaped <paren> and yet xx. for one, do <normalised orig="perishe" auto="true">perish</normalised> in the
+<normalised orig="aduenture" auto="true">adventure</normalised> <$$paren> ASCH-E1-H,18V.77
+
+than <normalised orig="thinke" auto="true">think</normalised> well with your <normalised orig="selfe" auto="true">self</normalised>, whether ye wold, that your <normalised orig="owne" auto="true">own</normalised> son ,
+should <normalised orig="cum" auto="true">sum</normalised> to wisdom and <normalised orig="happines" auto="true">happiness</normalised>, by the <normalised orig="waie" auto="true">way</normalised> of <normalised orig="soch" auto="true">such</normalised> experience or no.
+ASCH-E1-H,18V.78
+
+It is a notable tale, that old <normalised orig="Syr" auto="true">Sir</normalised> <font> Roger <normalised orig="Chamloe" auto="true">Chenille</normalised> <$$font>,
+sometime {COM:p._215_in_helsinki} <normalised orig="cheife" auto="true">chief</normalised> <normalised orig="Iustice" auto="true">Justice</normalised>, wold tell of him <normalised orig="selfe" auto="true">self</normalised>.
+ASCH-E1-H,18V.79
+
+when he was <normalised orig="Auncient" auto="true">Ancient</normalised> in <normalised orig="Inne" auto="true">Inn</normalised> of <normalised orig="Courte" auto="true">Court</normalised>, <normalised orig="Certaine" auto="true">Certain</normalised> <normalised orig="yong" auto="true">young</normalised> <normalised orig="Ientlemen" auto="true">Gentleman</normalised>
+were brought before him, to be corrected for <normalised orig="certaine" auto="true">certain</normalised> <normalised orig="misorders" auto="true">masqueraders</normalised>:
+ASCH-E1-H,18V.80
+
+And one of the lustiest <normalised orig="saide" auto="true">said</normalised>: <normalised orig="Syr" auto="true">Sir</normalised>, we be <normalised orig="yong" auto="true">young</normalised> <normalised orig="ientlemen" auto="true">gentleman</normalised>, ASCH-E1-H,18V.81
+
+and <normalised orig="wisemen" auto="true">watchmen</normalised> before vs, <normalised orig="haue" auto="true">have</normalised> <normalised orig="proued" auto="true">proved</normalised> all <normalised orig="facions" auto="true">factions</normalised>, ASCH-E1-H,18V.82
+
+and yet those <normalised orig="haue" auto="true">have</normalised> done full well: ASCH-E1-H,18V.83
+
+this they said, because it was well <normalised orig="knowen" auto="true">known</normalised>, that <normalised orig="Syr" auto="true">Sir</normalised> <font> Roger <$$font>
+had <normalised orig="bene" auto="true">been</normalised> a good <normalised orig="feloe" auto="true">floe</normalised> in his <normalised orig="yougth" auto="true">yeasty</normalised>.  ASCH-E1-H,18V.84
+
+But he <normalised orig="aunswered" auto="true">answered</normalised> them <normalised orig="verie" auto="true">very</normalised> <normalised orig="wiselie" auto="true">wisely</normalised>.  ASCH-E1-H,18V.85
+
+In <normalised orig="deede" auto="true">deed</normalised> saith he, in <normalised orig="yougthe" auto="true">yucked</normalised>, I was, as you <normalised orig="ar" auto="true">are</normalised> now: ASCH-E1-H,18V.86
+
+and I had <normalised orig="twelue" auto="true">twelve</normalised> <normalised orig="feloes" auto="true">floes</normalised> like <normalised orig="vnto" auto="true">unto</normalised> my self, ASCH-E1-H,18V.87
+
+but not one of them came to a good <normalised orig="ende" auto="true">end</normalised>.  ASCH-E1-H,18V.88
+
+And <normalised orig="therfore" auto="true">therefore</normalised>, <normalised orig="folow" auto="true">follow</normalised> not my example in <normalised orig="yougth" auto="true">yeasty</normalised>, ASCH-E1-H,18V.89
+
+but <normalised orig="folow" auto="true">follow</normalised> my <normalised orig="councell" auto="true">council</normalised> in <normalised orig="aige" auto="true">jig</normalised>, if <normalised orig="euer" auto="true">ever</normalised> ye <normalised orig="thinke" auto="true">think</normalised> to <normalised orig="cum" auto="true">sum</normalised> to this place
+, or to <normalised orig="thies" auto="true">this</normalised> <normalised orig="yeares" auto="true">years</normalised>, that I am <normalised orig="cum" auto="true">sum</normalised> <normalised orig="vnto" auto="true">unto</normalised>, <normalised orig="lesse" auto="true">less</normalised> ye <normalised orig="meete" auto="true">meet</normalised> either with
+<normalised orig="pouertie" auto="true">poverty</normalised> or <normalised orig="Tiburn" auto="true">Tavern</normalised> in the way.  ASCH-E1-H,18V.90
+
+Thus, experience of all <normalised orig="facions" auto="true">factions</normalised> in <normalised orig="yougthe" auto="true">yucked</normalised>, <normalised orig="beinge" auto="true">being</normalised>, in <normalised orig="profe" auto="true">prof</normalised>, <normalised orig="alwaise" auto="true">always</normalised>
+<normalised orig="daungerous" auto="true">dangerous</normalised>, in <normalised orig="isshue" auto="true">eschew</normalised>, seldom <normalised orig="lucklie" auto="true">luckily</normalised>, is a <normalised orig="waie" auto="true">way</normalised>, <P_19R> in <normalised orig="deede" auto="true">deed</normalised>, to
+<normalised orig="ouermoch" auto="true">overmuch</normalised> knowledge, yet <normalised orig="vsed" auto="true">used</normalised> <normalised orig="commonlie" auto="true">commonly</normalised> of <normalised orig="soch" auto="true">such</normalised> men, which be either <normalised orig="caried" auto="true">carried</normalised>
+by <normalised orig="som" auto="true">some</normalised> curious affection of <normalised orig="mynde" auto="true">mind</normalised>, or <normalised orig="driuen" auto="true">driven</normalised> by <normalised orig="som" auto="true">some</normalised> hard <normalised orig="necessitie" auto="true">necessity</normalised>
+of life, to <normalised orig="hasard" auto="true">hazard</normalised> the <normalised orig="triall" auto="true">trial</normalised> of <normalised orig="ouer" auto="true">over</normalised> <normalised orig="manie" auto="true">many</normalised> perilous <normalised orig="aduentures" auto="true">adventures</normalised>.
+ASCH-E1-H,19R.91
+
+<font> <normalised orig="Erasmus" auto="true">Erasing</normalised> <$$font> the <normalised orig="honor" auto="true">honour</normalised> of learning of all <normalised orig="oure" auto="true">our</normalised> time, <normalised orig="saide" auto="true">said</normalised>
+<normalised orig="wiselie" auto="true">wisely</normalised> that experience is the common <normalised orig="scholehouse" auto="true">schoolhouse</normalised> of <normalised orig="foles" auto="true">foals</normalised>, and ill men:
+ASCH-E1-H,19R.92
+
+Men, of <normalised orig="witte" auto="true">wit</normalised> and <normalised orig="honestie" auto="true">honesty</normalised>, be otherwise instructed.  ASCH-E1-H,19R.93
+
+For there be, that <normalised orig="kepe" auto="true">keep</normalised> them out of <normalised orig="fier" auto="true">fire</normalised>, and yet was <normalised orig="neuer" auto="true">never</normalised> burned : That
+beware of water, and yet was <normalised orig="neuer" auto="true">never</normalised> <normalised orig="nie" auto="true">no</normalised> <normalised orig="drowninge" auto="true">drowning</normalised>: That hate <normalised orig="harlottes" auto="true">harlots</normalised>,
+and was <normalised orig="neuer" auto="true">never</normalised> at the <normalised orig="stewes" auto="true">stews</normalised>: That <normalised orig="abhorre" auto="true">abhor</normalised> <normalised orig="falshode" auto="true">falsehood</normalised>, and <normalised orig="neuer" auto="true">never</normalised> brake
+<normalised orig="promis" auto="true">promise</normalised> <normalised orig="themselues" auto="true">themselves</normalised>.  ASCH-E1-H,19R.94
+
+But will ye see, a fit <normalised orig="Similitude" auto="true">Simulated</normalised> of this <normalised orig="aduentured" auto="true">adventured</normalised> experience.
+ASCH-E1-H,19R.95
+
+A Father, that doth let louse his son, to all experiences, is most
+like a fond Hunter, that <normalised orig="letteth" auto="true">lets</normalised> <normalised orig="slippe" auto="true">slip</normalised> a <normalised orig="whelpe" auto="true">whelp</normalised> to the hole <normalised orig="herde" auto="true">herd</normalised>.
+ASCH-E1-H,19R.96
+
+<normalised orig="Twentie" auto="true">Twenty</normalised> to one, he shall fall <normalised orig="vpon" auto="true">upon</normalised> a <normalised orig="rascall" auto="true">rascal</normalised>, and let go the <normalised orig="faire" auto="true">fair</normalised> game.
+ASCH-E1-H,19R.97
+
+Men that hunt so, be either ignorant <normalised orig="persones" auto="true">persons</normalised>, <normalised orig="preuie" auto="true">privy</normalised> <normalised orig="stealers" auto="true">settlers</normalised>, or
+night walkers.  ASCH-E1-H,19R.98
+
+Learning therefore, ye wise fathers, and good bringing <normalised orig="vp" auto="true">up</normalised>, and not <normalised orig="blinde" auto="true">blind</normalised>
+& dangerous experience, is the next and readiest <normalised orig="waie" auto="true">way</normalised>, that must <normalised orig="leede" auto="true">lied</normalised>
+your Children, first, to wisdom, and than to <normalised orig="worthinesse" auto="true">worthiness</normalised>, if <normalised orig="euer" auto="true">ever</normalised> ye
+purpose they shall <normalised orig="cum" auto="true">sum</normalised> there.  ASCH-E1-H,19R.99
+
+And to <normalised orig="saie" auto="true">say</normalised> all in <normalised orig="shorte" auto="true">short</normalised>, though I <normalised orig="lacke" auto="true">lack</normalised> <normalised orig="Authoritie" auto="true">Authority</normalised> to <normalised orig="giue" auto="true">give</normalised>
+{COM:p._216_in_helsinki} <normalised orig="counsell" auto="true">counsel</normalised>, yet I <normalised orig="lacke" auto="true">lack</normalised> not good will to <normalised orig="wisshe" auto="true">wish</normalised>,
+that the <normalised orig="yougthe" auto="true">yucked</normalised> in England, <normalised orig="speciallie" auto="true">specially</normalised> <normalised orig="Ientlemen" auto="true">Gentleman</normalised>, and <normalised orig="namelie" auto="true">namely</normalised> <normalised orig="nobilitie" auto="true">nobility</normalised>
+, <normalised orig="shold" auto="true">should</normalised> be by good bringing <normalised orig="vp" auto="true">up</normalised>, so grounded in <normalised orig="iudgement" auto="true">judgment</normalised> of <normalised orig="learninge" auto="true">learning</normalised>,
+so founded in <normalised orig="loue" auto="true">love</normalised> of <normalised orig="honestie" auto="true">honesty</normalised>, as, <normalised orig="whan" auto="true">when</normalised> they <normalised orig="shold" auto="true">should</normalised> be called <normalised orig="forthe" auto="true">forth</normalised> to
+the execution of great <normalised orig="affaires" auto="true">affairs</normalised>, in <normalised orig="seruice" auto="true">service</normalised> of their Prince and <normalised orig="contrie" auto="true">country</normalised>,
+they might be <normalised orig="hable" auto="true">able</normalised>, to <normalised orig="vse" auto="true">use</normalised> and to order, all experiences , were they
+good were they bad, and that, according to the square, rule, and line,
+of wisdom learning and <normalised orig="vertue" auto="true">virtue</normalised>.  ASCH-E1-H,19R.100
+
+And, I do not <normalised orig="meene" auto="true">men</normalised>, by all this my <normalised orig="taulke" auto="true">talk</normalised>, that <normalised orig="yong" auto="true">young</normalised> <normalised orig="Ientlemen" auto="true">Gentleman</normalised>, should
+<normalised orig="alwaies" auto="true">always</normalised> be poring on a <normalised orig="booke" auto="true">book</normalised>, and by <normalised orig="vsing" auto="true">using</normalised> good studies, <normalised orig="shold" auto="true">should</normalised> lease
+honest pleasure, and haunt no <P_19V> good pastime, ASCH-E1-H,19V.101
+
+I <normalised orig="meene" auto="true">men</normalised> nothing <normalised orig="lesse" auto="true">less</normalised>: ASCH-E1-H,19V.102
+
+For it is well <normalised orig="knowne" auto="true">known</normalised>, that I both like and <normalised orig="loue" auto="true">love</normalised>, and <normalised orig="haue" auto="true">have</normalised> <normalised orig="alwaies" auto="true">always</normalised>,
+and do yet still <normalised orig="vse" auto="true">use</normalised>, all exercises and pastimes, that be <normalised orig="fitte" auto="true">fit</normalised> for my
+nature and <normalised orig="habilitie" auto="true">hability</normalised>.  ASCH-E1-H,19V.103
+
+And beside <normalised orig="naturall" auto="true">natural</normalised> disposition, in <normalised orig="iudgement" auto="true">judgment</normalised> also, I was <normalised orig="neuer" auto="true">never</normalised>, either
+<normalised orig="Stoick" auto="true">Stoic</normalised> in doctrine, or <normalised orig="Anabaptist" auto="true">Unbaptized</normalised> in Religion, to <normalised orig="mislike" auto="true">missiles</normalised> a <normalised orig="merie" auto="true">merry</normalised>,
+pleasant, and <normalised orig="plaifull" auto="true">playfully</normalised> nature, if no outrage be committed, against <normalised orig="lawe" auto="true">law</normalised>,
+<normalised orig="mesure" auto="true">measure</normalised>, and good order.  ASCH-E1-H,19V.104
+
+Therefore, I wold <normalised orig="wishe" auto="true">wish</normalised>, that, beside some good time, <normalised orig="fitlie" auto="true">fitly</normalised> appointed
+, and <normalised orig="constantlie" auto="true">constantly</normalised> <normalised orig="kepte" auto="true">kept</normalised>, to <normalised orig="encrease" auto="true">increase</normalised> by <normalised orig="readinge" auto="true">reading</normalised>, the knowledge of
+the <normalised orig="tonges" auto="true">tongues</normalised> and learning, <normalised orig="yong" auto="true">young</normalised> <normalised orig="ientlemen" auto="true">gentleman</normalised> <normalised orig="shold" auto="true">should</normalised> <normalised orig="vse" auto="true">use</normalised>, and <normalised orig="delite" auto="true">delete</normalised> in all
+<normalised orig="Courtelie" auto="true">Courtly</normalised> exercises, and <normalised orig="Ientlemanlike" auto="true">Gentleman</normalised> pastimes.  ASCH-E1-H,19V.105
+
+And good cause <normalised orig="whie" auto="true">why</normalised>: ASCH-E1-H,19V.106
+
+For the self same noble <normalised orig="Citie" auto="true">City</normalised> of <normalised orig="Athenes" auto="true">Athens</normalised>, <normalised orig="iustlie" auto="true">justly</normalised> commended of me before
+, did <normalised orig="wiselie" auto="true">wisely</normalised> and <normalised orig="vpon" auto="true">upon</normalised> great consideration, appoint, the Muses, <font>
+Apollo <$$font>, and <font> <normalised orig="Pallas" auto="true">Pales</normalised> <$$font>, to be <normalised orig="patrones" auto="true">patrons</normalised> of <normalised orig="learninge" auto="true">learning</normalised>
+to their <normalised orig="yougthe" auto="true">yucked</normalised>.  ASCH-E1-H,19V.107
+
+For the Muses, besides learning, were also Ladies of <normalised orig="dauncinge" auto="true">dancing</normalised>, <normalised orig="mirthe" auto="true">mirth</normalised>
+and <normalised orig="ministrelsie" auto="true">minstrels</normalised>: ASCH-E1-H,19V.108
+
+<font> Apollo <$$font>, was god of shooting, and Author of cunning
+playing <normalised orig="vpo~" auto="true">upon</normalised> <normalised orig="Instrumentes" auto="true">Instruments</normalised>: ASCH-E1-H,19V.109
+
+<font> <normalised orig="Pallas" auto="true">Pales</normalised> <$$font> also was <normalised orig="Laidie" auto="true">Laity</normalised> <normalised orig="mistres" auto="true">mistress</normalised> in <normalised orig="warres" auto="true">wars</normalised>.  <normalised orig="Wherbie" auto="true">Whereby</normalised> was
+nothing else <normalised orig="ment" auto="true">meant</normalised>, but that <normalised orig="learninge" auto="true">learning</normalised> <normalised orig="shold" auto="true">should</normalised> be <normalised orig="alwaise" auto="true">always</normalised> mingled, with
+honest <normalised orig="mirthe" auto="true">mirth</normalised>, and <normalised orig="cumlie" auto="true">comely</normalised> exercises: and that <normalised orig="warre" auto="true">war</normalised> also <normalised orig="shold" auto="true">should</normalised> be
+<normalised orig="gouerned" auto="true">governed</normalised> by learning, and moderated by wisdom, as did well <normalised orig="appeare" auto="true">appear</normalised> in
+those <normalised orig="Capitaines" auto="true">Captain's</normalised> of <font> <normalised orig="Athenes" auto="true">Athens</normalised> <$$font> named by me before, and also
+in <font> <normalised orig="Scipio" auto="true">Scope</normalised> <$$font> & <font> Caesar <$$font>, the two <normalised orig="Diamondes" auto="true">Diamonds</normalised>
+of Rome.  ASCH-E1-H,19V.110
+
+{COM:p._217_in_helsinki}
+
+And <font> <normalised orig="Pallas" auto="true">Pales</normalised> <$$font>, was no more feared, in <normalised orig="weering" auto="true">wearing</normalised> <font> <normalised orig="AEgida" auto="true">Aside</normalised>
+<$$font>, <normalised orig="tha~" auto="true">thaw</normalised> she was praised, for <normalised orig="chosing" auto="true">choosing</normalised> <font> <normalised orig="Oliua" auto="true">Olive</normalised> <$$font>:
+whereby <normalised orig="shineth" auto="true">shines</normalised> the glory of learning, which thus, was <normalised orig="Gouernour" auto="true">Governor</normalised> &
+<normalised orig="Mistres" auto="true">Mistress</normalised>, in the noble <normalised orig="Citie" auto="true">City</normalised> of <font> <normalised orig="Athenes" auto="true">Athens</normalised> <$$font>, both of <normalised orig="warre" auto="true">war</normalised>
+and peace.  ASCH-E1-H,19V.112
+
+Therefore, to ride <normalised orig="cumlie" auto="true">comely</normalised>: to run <normalised orig="faire" auto="true">fair</normalised> at the <normalised orig="tilte" auto="true">tilt</normalised> or ring: to <normalised orig="plaie" auto="true">play</normalised> at
+all <normalised orig="weapones" auto="true">weapons</normalised>: to <normalised orig="shote" auto="true">shot</normalised> <normalised orig="faire" auto="true">fair</normalised> in bow, or <normalised orig="surelie" auto="true">surely</normalised> in gon: to <normalised orig="vaut" auto="true">vat</normalised> <normalised orig="lustely" auto="true">lustily</normalised>:
+to <normalised orig="runne" auto="true">run</normalised>: to <normalised orig="leape" auto="true">leap</normalised>: to wrestle: to <normalised orig="swimme" auto="true">swim</normalised>: To <normalised orig="daunce" auto="true">dance</normalised> <normalised orig="cumlie" auto="true">comely</normalised>: to sing,
+and <normalised orig="playe" auto="true">play</normalised> of <normalised orig="instrumentes" auto="true">instruments</normalised> <normalised orig="cunnyngly" auto="true">cunningly</normalised>: to <normalised orig="Hawke" auto="true">Hawk</normalised>: to <normalised orig="hunte" auto="true">hunt</normalised>: to <normalised orig="playe" auto="true">play</normalised> at
+<normalised orig="tennes" auto="true">tennis</normalised>, & all pastimes generally, which be <normalised orig="ioyned" auto="true">joined</normalised> with <normalised orig="labor" auto="true">labour</normalised>, <normalised orig="vsed" auto="true">used</normalised> in
+<P_20R> open place, and on the day light, <normalised orig="conteining" auto="true">containing</normalised> either some <normalised orig="fitte" auto="true">fit</normalised>
+exercise for <normalised orig="warre" auto="true">war</normalised>, or some pleasant pastime for peace, be not <normalised orig="onelie" auto="true">only</normalised>
+<normalised orig="cumlie" auto="true">comely</normalised> and decent, but also <normalised orig="verie" auto="true">very</normalised> <normalised orig="necessarie" auto="true">necessary</normalised>, for a <normalised orig="Courtlie" auto="true">Courtly</normalised> <normalised orig="Ientleman" auto="true">Gentleman</normalised>
+to <normalised orig="vse" auto="true">use</normalised>.  ASCH-E1-H,20R.113
+
+But, of all <normalised orig="kinde" auto="true">kind</normalised> of pastimes, <normalised orig="fitte" auto="true">fit</normalised> for a <normalised orig="Ientleman" auto="true">Gentleman</normalised>, I will, $god
+$willing {TEXT:godwilling}, in fitter place, more at large, declare
+<normalised orig="fullie" auto="true">fully</normalised>, in my <normalised orig="booke" auto="true">book</normalised> of the <normalised orig="Cockpitte" auto="true">Cockpit</normalised>: which I do write, to <normalised orig="satisfie" auto="true">satisfy</normalised>
+<normalised orig="som" auto="true">some</normalised>, I trust, with <normalised orig="som" auto="true">some</normalised> reason, that be more curious, in marking other
+<normalised orig="mens" auto="true">men's</normalised> <normalised orig="doinges" auto="true">doings</normalised>, than {they_are} <normalised orig="carefull" auto="true">careful</normalised> in <normalised orig="mendyng" auto="true">mending</normalised> their <normalised orig="owne" auto="true">own</normalised> <normalised orig="faultes" auto="true">faults</normalised>.
+ASCH-E1-H,20R.114
+
+And <normalised orig="som" auto="true">some</normalised> also will <normalised orig="nedes" auto="true">needs</normalised> <normalised orig="busie" auto="true">busy</normalised> them <normalised orig="selues" auto="true">selves</normalised> in <normalised orig="merueling" auto="true">marvelling</normalised>, and adding
+<normalised orig="thereunto" auto="true">torrent</normalised> <normalised orig="vnfrendlie" auto="true">unfriendly</normalised> <normalised orig="taulke" auto="true">talk</normalised>, why I, a man of good <normalised orig="yeares" auto="true">years</normalised>, and of no
+ill place, I <normalised orig="thanke" auto="true">thank</normalised> God and my Prince, do make <normalised orig="choise" auto="true">choice</normalised> to spend <normalised orig="soch" auto="true">such</normalised>
+<normalised orig="tyme" auto="true">time</normalised> in <normalised orig="writyng" auto="true">writing</normalised> of trifles, as the <normalised orig="schole" auto="true">school</normalised> of <normalised orig="shoting" auto="true">shooting</normalised>, the <normalised orig="Cockpitte" auto="true">Cockpit</normalised>,
+and this <normalised orig="booke" auto="true">book</normalised> of the first Principles of <normalised orig="Grammer" auto="true">Grammar</normalised>, rather, than to take
+some <normalised orig="weightie" auto="true">weighty</normalised> matter in hand, either of Religion, or <normalised orig="Ciuill" auto="true">Civil</normalised> discipline.
+ASCH-E1-H,20R.115
+
+Wise men I know, will well allow of my <normalised orig="choise" auto="true">choice</normalised> herein: ASCH-E1-H,20R.116
+
+and as for such, who <normalised orig="haue" auto="true">have</normalised> not <normalised orig="witte" auto="true">wit</normalised> of them <normalised orig="selues" auto="true">selves</normalised>, but must <normalised orig="learne" auto="true">learn</normalised> of
+others, to <normalised orig="iudge" auto="true">judge</normalised> right of <normalised orig="mens" auto="true">men's</normalised> <normalised orig="doynges" auto="true">doings</normalised>, let them read that wise Poet
+<font> Horace <$$font> in his <font> <normalised orig="Arte" auto="true">Art</normalised> <normalised orig="Poetica" auto="true">Poetics</normalised> <$$font>, who <normalised orig="willeth" auto="true">wills</normalised>
+<normalised orig="wisemen" auto="true">watchmen</normalised> to beware, of hie and <normalised orig="loftie" auto="true">lofty</normalised> Titles.  ASCH-E1-H,20R.117
+
+For, great <normalised orig="shippes" auto="true">ships</normalised>, require <normalised orig="costlie" auto="true">costly</normalised> tackling, and also <normalised orig="afterward" auto="true">afterword</normalised> dangerous
+<normalised orig="gouernment" auto="true">government</normalised>: ASCH-E1-H,20R.118
+
+Small <normalised orig="boates" auto="true">boats</normalised>, be neither <normalised orig="verie" auto="true">very</normalised> chargeable in <normalised orig="makyng" auto="true">making</normalised>, nor <normalised orig="verie" auto="true">very</normalised> oft in
+great <normalised orig="ieoperdie" auto="true">jeopardy</normalised>: ASCH-E1-H,20R.119
+
+and yet they <normalised orig="cary" auto="true">carry</normalised> many <normalised orig="tymes" auto="true">times</normalised>, as good and <normalised orig="costlie" auto="true">costly</normalised> ware, as greater
+vessels do.  ASCH-E1-H,20R.120
+
+A <normalised orig="meane" auto="true">mean</normalised> Argument, may <normalised orig="easelie" auto="true">easily</normalised> <normalised orig="beare" auto="true">bear</normalised>, the light burden of a small <normalised orig="faute" auto="true">fault</normalised> ,
+and <normalised orig="haue" auto="true">have</normalised> <normalised orig="alwaise" auto="true">always</normalised> at hand, a ready excuse for {COM:p._218_in_helsinki}
+ill handling: ASCH-E1-H,20R.121
+
+And, some praise it is, if it so <normalised orig="chaunce" auto="true">chance</normalised>, to be better in <normalised orig="deede" auto="true">deed</normalised>, than
+a man dare venture to <normalised orig="seeme" auto="true">seem</normalised>.  ASCH-E1-H,20R.122
+
+A <normalised orig="hye" auto="true">hie</normalised> title, doth charge a man, with the <normalised orig="heauie" auto="true">heavy</normalised> burden, of to great a
+promise: ASCH-E1-H,20R.123
+
+and therefore <normalised orig="sayth" auto="true">saith</normalised> <font> Horace <$$font> <normalised orig="verie" auto="true">very</normalised> <normalised orig="wittelie" auto="true">wittily</normalised>, that, that
+<normalised orig="Poete" auto="true">Poet</normalised> was a <normalised orig="verie" auto="true">very</normalised> <normalised orig="foole" auto="true">fool</normalised>, that began <normalised orig="hys" auto="true">his</normalised> <normalised orig="booke" auto="true">book</normalised>, with a <normalised orig="goodlie" auto="true">goodly</normalised> verse in
+<normalised orig="deede" auto="true">deed</normalised>, but <normalised orig="ouer" auto="true">over</normalised> <normalised orig="proude" auto="true">proud</normalised> a promise.  ASCH-E1-H,20R.124
+
+<P_20V>
+
+<normalised orig="Fortunam" auto="true">Freedman</normalised> <normalised orig="Priami" auto="true">Prime</normalised> <normalised orig="cantabo" auto="true">cenotaph</normalised> & <normalised orig="nobile" auto="true">nobel</normalised> <normalised orig="bellum" auto="true">bloom</normalised>, ASCH-E1-H,20V.126
+
+And after, as <normalised orig="wiselie" auto="true">wisely</normalised>.  <normalised orig="Quanto" auto="true">Quanta</normalised> <normalised orig="rectius" auto="true">receipts</normalised> <normalised orig="hic" auto="true">his</normalised>, <normalised orig="qui" auto="true">queen</normalised> nil <normalised orig="molitur" auto="true">military</normalised> <normalised orig="inepte" auto="true">inept</normalised>.
+etc. <normalised orig="Meening" auto="true">Meaning</normalised> <font> Homer <$$font>, who, within the <normalised orig="compasse" auto="true">compass</normalised>
+of a <normalised orig="smal" auto="true">small</normalised> Argument, of one harlot, and of one good wife, did <normalised orig="vtter" auto="true">utter</normalised> so
+<normalised orig="moch" auto="true">much</normalised> learning in all <normalised orig="kinde" auto="true">kind</normalised> of sciences, as, by the <normalised orig="iudgement" auto="true">judgment</normalised> of <font>
+Quintilian <$$font>, he <normalised orig="deserueth" auto="true">deserves</normalised> so hie a praise, that no man yet
+<normalised orig="deserued" auto="true">deserved</normalised> to sit in the second degree <normalised orig="beneth" auto="true">beneath</normalised> him.  ASCH-E1-H,20V.127
+
+And thus <normalised orig="moch" auto="true">much</normalised> out of my way, concerning my purpose in spending <normalised orig="penne" auto="true">pen</normalised>,
+and paper, & <normalised orig="tyme" auto="true">time</normalised>, <normalised orig="vpo~" auto="true">upon</normalised> trifles, & <normalised orig="namelie" auto="true">namely</normalised> to <normalised orig="aunswere" auto="true">answer</normalised> some, that <normalised orig="haue" auto="true">have</normalised>
+neither <normalised orig="witte" auto="true">wit</normalised> nor learning, to do any <normalised orig="thyng" auto="true">thing</normalised> them <normalised orig="selues" auto="true">selves</normalised>, neither will
+nor <normalised orig="honestie" auto="true">honesty</normalised>, to say well of other.  ASCH-E1-H,20V.128
+
+<P_53V>
+
+{COM:p._278_in_helsinki}
+
+<normalised orig="Cambrige" auto="true">Cambridge</normalised>, at my first <normalised orig="comming" auto="true">coming</normalised> thither, but not at my going away, committed
+this fault in reading the <normalised orig="preceptes" auto="true">precepts</normalised> of <font> Aristotle <$$font> without
+the examples of other Authors: ASCH-E1-H,53V.131
+
+But herein, in my time <normalised orig="thies" auto="true">this</normalised> men of <normalised orig="worthie" auto="true">worthy</normalised> <normalised orig="memorie" auto="true">memory</normalised>, <font> M.
+Redman, M. <normalised orig="Cheke" auto="true">Choke</normalised>, M. Smith, M. <normalised orig="Haddon" auto="true">Head-on</normalised>, M.
+Watson <$$font>, put so to their helping <normalised orig="handes" auto="true">hands</normalised>, as that <normalised orig="vniuersitie" auto="true">university</normalised> ,
+and all <normalised orig="studentes" auto="true">students</normalised> there, as long as learning shall last, shall be <normalised orig="bounde" auto="true">bound</normalised>
+<normalised orig="vnto" auto="true">unto</normalised> them, if that trade in <normalised orig="studie" auto="true">study</normalised> be <normalised orig="trewlie" auto="true">trawl</normalised> <normalised orig="folowed" auto="true">followed</normalised>, which those men
+left <normalised orig="behinde" auto="true">behind</normalised> them there.  ASCH-E1-H,53V.132
+
+By this small mention of Cambridge, I am <normalised orig="caryed" auto="true">carried</normalised> into three imaginations
+: ASCH-E1-H,53V.133
+
+first, into a <normalised orig="sweete" auto="true">sweet</normalised> remembrance of my <normalised orig="tyme" auto="true">time</normalised> spent there: ASCH-E1-H,53V.134
+
+than, into <normalised orig="som" auto="true">some</normalised> <normalised orig="carefull" auto="true">careful</normalised> thoughts, for the <normalised orig="greuous" auto="true">grievous</normalised> alteration that <normalised orig="folowed" auto="true">followed</normalised>
+<normalised orig="sone" auto="true">soon</normalised> after: ASCH-E1-H,53V.135
+
+<normalised orig="lastlie" auto="true">lastly</normalised>, into much <normalised orig="ioy" auto="true">joy</normalised> to <normalised orig="heare" auto="true">hear</normalised> tell, of the good <normalised orig="recouerie" auto="true">recovery</normalised> and earnest
+<normalised orig="forwardnes" auto="true">forwardness</normalised> <P_54R> in all good learning there <normalised orig="agayne" auto="true">again</normalised>.  ASCH-E1-H,54R.136
+
+To <normalised orig="vtter" auto="true">utter</normalised> <normalised orig="theis" auto="true">their</normalised> my thoughts <normalised orig="somwhat" auto="true">somewhat</normalised> more <normalised orig="largelie" auto="true">largely</normalised>, were <normalised orig="somwhat" auto="true">somewhat</normalised> beside my
+matter, yet not very <normalised orig="farre" auto="true">far</normalised> out of the way, <normalised orig="bycause" auto="true">because</normalised> it shall <normalised orig="wholy" auto="true">wholly</normalised> tend
+to the good <normalised orig="encoragement" auto="true">encouragement</normalised> and right consideration of learning, which is my
+full purpose in writing this <normalised orig="litle" auto="true">little</normalised> <normalised orig="booke" auto="true">book</normalised>: whereby also shall well <normalised orig="appeare" auto="true">appear</normalised>
+this sentence to be most <normalised orig="trewe" auto="true">true</normalised>, that <normalised orig="onely" auto="true">only</normalised> good men, by their <normalised orig="gouernment" auto="true">government</normalised> &
+example, make <normalised orig="happie" auto="true">happy</normalised> times, in <normalised orig="euery" auto="true">every</normalised> degree and state.  ASCH-E1-H,54R.137
+
+Doctor <font> <normalised orig="Nico" auto="true">Nice</normalised>. Medcalfe <$$font>, that <normalised orig="honorable" auto="true">honourable</normalised> father , was
+Master of <font> S. <normalised orig="Iohnes" auto="true">Ion's</normalised> <$$font> <normalised orig="Colledge" auto="true">College</normalised>, when I came <normalised orig="thether" auto="true">thither</normalised>:
+A man <normalised orig="meanelie" auto="true">meanly</normalised> learned <normalised orig="himselfe" auto="true">himself</normalised>, but not <normalised orig="meanely" auto="true">meanly</normalised> {COM:p._279_in_helsinki}
+affectioned to set forward learning in others.  ASCH-E1-H,54R.138
+
+He found that <normalised orig="Colledge" auto="true">College</normalised> spending <normalised orig="scarse" auto="true">scarce</normalised> two hundred <normalised orig="markes" auto="true">marks</normalised> by <normalised orig="yeare" auto="true">year</normalised>:
+ASCH-E1-H,54R.139
+
+he left it spending a thousand <normalised orig="markes" auto="true">marks</normalised> and more.  Which he procured,
+not with his <normalised orig="mony" auto="true">money</normalised>, but by his <normalised orig="wisdome" auto="true">wisdom</normalised>; not <normalised orig="chargeablie" auto="true">chargeable</normalised> bought by him,
+but <normalised orig="liberallie" auto="true">liberally</normalised> <normalised orig="geuen" auto="true">given</normalised> by others by his <normalised orig="meane" auto="true">mean</normalised>, for the <normalised orig="zeale" auto="true">zeal</normalised> & <normalised orig="honor" auto="true">honour</normalised> they
+bare to learning.  ASCH-E1-H,54R.140
+
+And that which is worthy of <normalised orig="memorie" auto="true">memory</normalised>, all <normalised orig="thies" auto="true">this</normalised> <normalised orig="giuers" auto="true">givers</normalised> were almost
+Northenmen: who being <normalised orig="liberallie" auto="true">liberally</normalised> rewarded in the <normalised orig="seruice" auto="true">service</normalised> of their
+Prince, bestowed it as <normalised orig="liberallie" auto="true">liberally</normalised> for the good of their <normalised orig="Contrie" auto="true">Country</normalised>.
+ASCH-E1-H,54R.141
+
+<normalised orig="Som" auto="true">Some</normalised> men thought therefore, that <font> D. Medcalfe <$$font>
+was <normalised orig="parciall" auto="true">partial</normalised> to Northrenmen, ASCH-E1-H,54R.142
+
+but sure I am of this, that <normalised orig="Northrenme~" auto="true">Northern</normalised> were <normalised orig="parciall" auto="true">partial</normalised>, in doing more
+good, and <normalised orig="geuing" auto="true">giving</normalised> more <normalised orig="la~des" auto="true">lades</normalised> to <normalised orig="y=e=" auto="true">yew</normalised> <normalised orig="forderance" auto="true">furtherance</normalised> of learning, than any
+other <normalised orig="contrie" auto="true">country</normalised> <normalised orig="me~" auto="true">mew</normalised>, in those <normalised orig="dayes" auto="true">days</normalised>, did: which <normalised orig="deede" auto="true">deed</normalised> should <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised>,
+rather an example of <normalised orig="goodnes" auto="true">goodness</normalised>, for other to <normalised orig="folowe" auto="true">follow</normalised>, than matter of malice ,
+for any to <normalised orig="enuie" auto="true">envy</normalised>, as some there were that did.  ASCH-E1-H,54R.143
+
+<normalised orig="Trewly" auto="true">Truly</normalised>, <font> D. Medcalfe <$$font> was <normalised orig="parciall" auto="true">partial</normalised> to none: but
+indifferent to all: a master for the whole, a father to <normalised orig="euery" auto="true">every</normalised> one,
+in that <normalised orig="Colledge" auto="true">College</normalised>.  ASCH-E1-H,54R.144
+
+There was none so <normalised orig="poore" auto="true">poor</normalised>, if he had, either <normalised orig="wil" auto="true">will</normalised> to <normalised orig="goodnes" auto="true">goodness</normalised>, or wit to
+learning, that could <normalised orig="lacke" auto="true">lack</normalised> being there, or should depart from thence
+for any need.  ASCH-E1-H,54R.145
+
+I am <normalised orig="witnes" auto="true">witness</normalised> my <normalised orig="selfe" auto="true">self</normalised>, that <normalised orig="mony" auto="true">money</normalised> many times was brought into <normalised orig="yong" auto="true">young</normalised> <normalised orig="mens" auto="true">men's</normalised>
+studies by strangers whom they knew not.  In which doing, this worthy
+<font> <normalised orig="Nicolaus" auto="true">Nicolas</normalised> <$$font> <normalised orig="folowed" auto="true">followed</normalised> the steppes of good <normalised orig="olde" auto="true">old</normalised> <font> S.
+<P_54V> <normalised orig="Nicolaus" auto="true">Nicolas</normalised> <$$font>, that learned Bishop.  ASCH-E1-H,54V.146
+
+He was a <normalised orig="Papist" auto="true">Peppiest</normalised> in <normalised orig="deede" auto="true">deed</normalised>, ASCH-E1-H,54V.147
+
+but would to God, <normalised orig="amonges" auto="true">amongst</normalised> all vs <normalised orig="Protesta~ts" auto="true">Protestations</normalised> I might once see but one,
+that would <normalised orig="winne" auto="true">win</normalised> like praise, in doing like good, for the <normalised orig="aduauncement" auto="true">advancement</normalised>
+of learning and <normalised orig="vertue" auto="true">virtue</normalised>.  ASCH-E1-H,54V.148
+
+And yet, though he were a <normalised orig="Papist" auto="true">Peppiest</normalised>, if any <normalised orig="yong" auto="true">young</normalised> man, <normalised orig="geuen" auto="true">given</normalised> to new learning
+<paren> as they termed it <$$paren> went beyond his <normalised orig="fellowes" auto="true">fellows</normalised> , in <normalised orig="witte" auto="true">wit</normalised>,
+<normalised orig="labor" auto="true">labour</normalised>, and <normalised orig="towardnes" auto="true">towardness</normalised>, <normalised orig="euen" auto="true">even</normalised> the same, <normalised orig="neyther" auto="true">neither</normalised> lacked, open praise to
+<normalised orig="encorage" auto="true">encourage</normalised> him, nor <normalised orig="priuate" auto="true">private</normalised> exhibition to <normalised orig="mainteyne" auto="true">maintain</normalised> <normalised orig="hym" auto="true">him</normalised>, as worthy <normalised orig="Syr" auto="true">Sir</normalised>
+<font> I. <normalised orig="Cheke" auto="true">Choke</normalised> <$$font>, if he were <normalised orig="aliue" auto="true">alive</normalised> would <normalised orig="beare" auto="true">bear</normalised> good
+<normalised orig="witnes" auto="true">witness</normalised> ASCH-E1-H,54V.149
+
+and so can many mo.  ASCH-E1-H,54V.150
+
+I my <normalised orig="selfe" auto="true">self</normalised> one of the meanest of a great number, in that <normalised orig="Colledge" auto="true">College</normalised>,
+because there appeared in me <normalised orig="som" auto="true">some</normalised> small <normalised orig="shew" auto="true">show</normalised> of <normalised orig="towardnes" auto="true">towardness</normalised> and diligence,
+lacked not his <normalised orig="fauor" auto="true">favour</normalised> to <normalised orig="forder" auto="true">further</normalised> me in learning.  ASCH-E1-H,54V.151
+
+And being a boy, new <normalised orig="Bacheler" auto="true">Bachelor</normalised> of <normalised orig="arte" auto="true">art</normalised>, I chanced <normalised orig="amonges" auto="true">amongst</normalised> my companions
+to <normalised orig="speake" auto="true">speak</normalised> against the Pope: which matter was {COM:p._280_in_helsinki}
+than in <normalised orig="euery" auto="true">every</normalised> mans mouth, <normalised orig="bycause" auto="true">because</normalised> <font> D. <normalised orig="Haines" auto="true">Hangs</normalised> <$$font> and
+<font> D. <normalised orig="Skippe" auto="true">Skip</normalised> <$$font> were <normalised orig="cum" auto="true">sum</normalised> from the Court, to debate
+the same matter, by preaching and disputation in the <normalised orig="vniuersitie" auto="true">university</normalised>.
+ASCH-E1-H,54V.152
+
+This <normalised orig="hapned" auto="true">happened</normalised> the same <normalised orig="tyme" auto="true">time</normalised>, when I <normalised orig="stoode" auto="true">stood</normalised> to be <normalised orig="felow" auto="true">fellow</normalised> there:
+ASCH-E1-H,54V.153
+
+my <normalised orig="taulke" auto="true">talk</normalised> came to <font> D. Medcalfes <$$font> <normalised orig="eare" auto="true">ear</normalised>:
+ASCH-E1-H,54V.154
+
+I was called before him and the <normalised orig="Seniores" auto="true">Seniors</normalised>: ASCH-E1-H,54V.155
+
+and after <normalised orig="greuous" auto="true">grievous</normalised> rebuke, and some punishment, open warning was <normalised orig="geuen" auto="true">given</normalised>
+to all the <normalised orig="felowes" auto="true">fellows</normalised>, none to be so <normalised orig="hardie" auto="true">hardy</normalised> to <normalised orig="geue" auto="true">give</normalised> me his voice at that
+election.  ASCH-E1-H,54V.156
+
+And yet for all those open <normalised orig="threates" auto="true">threats</normalised>, the good father <normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="priuilie" auto="true">privily</normalised>
+procured, that I should <normalised orig="euen" auto="true">even</normalised> than by chosen <normalised orig="felow" auto="true">fellow</normalised>.  ASCH-E1-H,54V.157
+
+But, the election being done, he made <normalised orig="countinance" auto="true">countenance</normalised> of great <normalised orig="discontentation" auto="true">discontinuation</normalised>
+<normalised orig="thereat" auto="true">threat</normalised>.  ASCH-E1-H,54V.158
+
+This good mans <normalised orig="goodnes" auto="true">goodness</normalised>, and <normalised orig="fatherlie" auto="true">fatherly</normalised> discretion, <normalised orig="vsed" auto="true">used</normalised> <normalised orig="towardes" auto="true">towards</normalised> me that
+one day, shall <normalised orig="neuer" auto="true">never</normalised> out of my remembrance all the <normalised orig="dayes" auto="true">days</normalised> of my life.
+ASCH-E1-H,54V.159
+
+And for the same cause, <normalised orig="haue" auto="true">have</normalised> I put it here, in this small record of
+learning.  ASCH-E1-H,54V.160
+
+For next Gods <normalised orig="prouidence" auto="true">providence</normalised>, surely that day, was by that good fathers
+<normalised orig="meanes" auto="true">means</normalised>, Dies <normalised orig="natalis" auto="true">nautilus</normalised>, to me, for the whole foundation of the <normalised orig="poore" auto="true">poor</normalised>
+learning I <normalised orig="haue" auto="true">have</normalised>, and of all the <normalised orig="furderance" auto="true">furtherance</normalised>, that <normalised orig="hetherto" auto="true">hitherto</normalised> else where I
+<normalised orig="haue" auto="true">have</normalised> <normalised orig="obteyned" auto="true">obtained</normalised>.  ASCH-E1-H,54V.161
+
+This his <normalised orig="goodnes" auto="true">goodness</normalised> stood not still in one or two, ASCH-E1-H,54V.162
+
+but flowed <P_55R> <normalised orig="aboundantlie" auto="true">abundantly</normalised> <normalised orig="ouer" auto="true">over</normalised> all that <normalised orig="Colledge" auto="true">College</normalised>, ASCH-E1-H,55R.163
+
+and brake out also to <normalised orig="norishe" auto="true">nourish</normalised> good <normalised orig="wittes" auto="true">wits</normalised> in <normalised orig="euery" auto="true">every</normalised> part of that
+<normalised orig="vniuersitie" auto="true">university</normalised>: whereby, at his departing thence, he left <normalised orig="soch" auto="true">such</normalised> a <normalised orig="companie" auto="true">company</normalised>
+of <normalised orig="fellowes" auto="true">fellows</normalised> and <normalised orig="scholers" auto="true">scholars</normalised> in <font> S. <normalised orig="Iohnes" auto="true">Ion's</normalised> <$$font> <normalised orig="Colledge" auto="true">College</normalised>,
+as can <normalised orig="scarse" auto="true">scarce</normalised> be found now in some whole <normalised orig="vniuersitie" auto="true">university</normalised>: which, either
+for <normalised orig="diuinitie" auto="true">divinity</normalised>, on the one side or other, or for <normalised orig="Ciuill" auto="true">Civil</normalised> <normalised orig="seruice" auto="true">service</normalised> to their
+Prince and <normalised orig="contrie" auto="true">country</normalised>, <normalised orig="haue" auto="true">have</normalised> <normalised orig="bene" auto="true">been</normalised>, and are yet to this day, notable ornaments
+to this whole <normalised orig="Realme" auto="true">Realm</normalised>: ASCH-E1-H,55R.164
+
+Yea <font> S. <normalised orig="Iohnes" auto="true">Ion's</normalised> <$$font> did <normalised orig="the~" auto="true">they</normalised> so <normalised orig="florish" auto="true">flourish</normalised>, as <normalised orig="Trinitie" auto="true">Trinity</normalised>
+college, that Princely house now, at the first <normalised orig="erectio~" auto="true">erect</normalised>, was but <normalised orig="Colonia" auto="true">Colombia</normalised>
+<normalised orig="deducta" auto="true">deduct</normalised> out of <font> S. <normalised orig="Ihones" auto="true">Hones</normalised> <$$font>, not <normalised orig="onelie" auto="true">only</normalised> for their
+Master, <normalised orig="fellowes" auto="true">fellows</normalised>, and <normalised orig="scholers" auto="true">scholars</normalised>, but also, which is more, for their whole,
+both order of learning, and discipline of <normalised orig="maners" auto="true">manners</normalised>: ASCH-E1-H,55R.165
+
+& yet to this day, it <normalised orig="neuer" auto="true">never</normalised> <normalised orig="tooke" auto="true">took</normalised> Master but such as was bred <normalised orig="vp" auto="true">up</normalised> before in
+<font> S. <normalised orig="Iohnes" auto="true">Ion's</normalised> <$$font>: doing the <normalised orig="dewtie" auto="true">duty</normalised> of a good <normalised orig="Colonia" auto="true">Colombia</normalised> to
+her Metropolis, as the <normalised orig="auncient" auto="true">ancient</normalised> Cities in <normalised orig="Greice" auto="true">Greece</normalised> and some yet in <normalised orig="Italie" auto="true">Italy</normalised>,
+at this day, are accustomed to do.  ASCH-E1-H,55R.166
+
+<font> S. <normalised orig="Iohnes" auto="true">Ion's</normalised> <$$font> <normalised orig="stoode" auto="true">stood</normalised> in this state, <normalised orig="vntill" auto="true">until</normalised> those
+<normalised orig="heuie" auto="true">heavy</normalised> <normalised orig="tymes" auto="true">times</normalised>, and that <normalised orig="greuous" auto="true">grievous</normalised> change that chanced.  An. 1553.
+<normalised orig="whan" auto="true">when</normalised> mo <normalised orig="perfite" auto="true">perfect</normalised> <normalised orig="scholers" auto="true">scholars</normalised> were dispersed from thence in one <normalised orig="moneth" auto="true">month</normalised>,
+than many <normalised orig="yeares" auto="true">years</normalised> can <normalised orig="reare" auto="true">rear</normalised> <normalised orig="vp" auto="true">up</normalised> <normalised orig="againe" auto="true">again</normalised>.  ASCH-E1-H,55R.167
+
+For, <normalised orig="whan" auto="true">when</normalised> <font> <normalised orig="Aper" auto="true">Appear</normalised> de <normalised orig="Sylua" auto="true">Slue</normalised> <$$font> had passed the seas, and <normalised orig="fastned" auto="true">fastened</normalised>
+his <normalised orig="foote" auto="true">foot</normalised> {COM:p._281_in_helsinki} <normalised orig="againe" auto="true">again</normalised> in England, not <normalised orig="onely" auto="true">only</normalised> the two
+<normalised orig="faire" auto="true">fair</normalised> <normalised orig="groues" auto="true">groves</normalised> of learning in England were <normalised orig="eyther" auto="true">either</normalised> cut <normalised orig="vp" auto="true">up</normalised>, by the <normalised orig="roote" auto="true">root</normalised>,
+or <normalised orig="troden" auto="true">trodden</normalised> <normalised orig="downe" auto="true">down</normalised> to the ground ASCH-E1-H,55R.168
+
+and <normalised orig="wholie" auto="true">wholly</normalised> went to <normalised orig="wracke" auto="true">wrack</normalised>, ASCH-E1-H,55R.169
+
+but the <normalised orig="yong" auto="true">young</normalised> spring there, and <normalised orig="euerie" auto="true">every</normalised> where else, was <normalised orig="pitifullie" auto="true">pitifully</normalised> <normalised orig="nipt" auto="true">nipped</normalised>
+and ouertroden by very <normalised orig="beastes" auto="true">beasts</normalised>, ASCH-E1-H,55R.170
+
+and also the fairest standers of all, were rooted <normalised orig="vp" auto="true">up</normalised>, and cast into
+the fire, to the great <normalised orig="weakning" auto="true">weakening</normalised> <normalised orig="euen" auto="true">even</normalised> at this day of <normalised orig="Christes" auto="true">Christ's</normalised> <normalised orig="Chirch" auto="true">Church</normalised> in
+England, both for Religion and learning.  ASCH-E1-H,55R.171
+
+And what good could chance than to the <normalised orig="vniuersities" auto="true">universities</normalised>, <normalised orig="whan" auto="true">when</normalised> <normalised orig="som" auto="true">some</normalised> of the
+greatest, though not of the wisest nor best learned, nor best men
+neither of that side, did <normalised orig="labor" auto="true">labour</normalised> to <normalised orig="perswade" auto="true">persuade</normalised>, that ignorance was better
+than knowledge, which they <normalised orig="ment" auto="true">meant</normalised>, not for the <normalised orig="laitie" auto="true">laity</normalised> <normalised orig="onelie" auto="true">only</normalised>, but also for
+the greatest <normalised orig="rable" auto="true">rabble</normalised> of their <normalised orig="spiritualtie" auto="true">spirituality</normalised>, what other <normalised orig="pretense" auto="true">pretence</normalised> <normalised orig="openlie" auto="true">openly</normalised>
+so <normalised orig="euer" auto="true">ever</normalised> <P_55V> they made: ASCH-E1-H,55V.172
+
+and therefore did <normalised orig="som" auto="true">some</normalised> of them at <normalised orig="Cambrige" auto="true">Cambridge</normalised> <paren> whom I will not name
+<normalised orig="openlie" auto="true">openly</normalised>, <$$paren> cause hedge <normalised orig="priestes" auto="true">priests</normalised> <normalised orig="fette" auto="true">fete</normalised> <normalised orig="oute" auto="true">out</normalised> of the <normalised orig="contrie" auto="true">country</normalised>, to be
+made <normalised orig="fellowes" auto="true">fellows</normalised> in the <normalised orig="vniuersitie" auto="true">university</normalised>: saying, in their <normalised orig="talke" auto="true">talk</normalised> <normalised orig="priuilie" auto="true">privily</normalised>, and
+declaring by their <normalised orig="deedes" auto="true">deeds</normalised> <normalised orig="openlie" auto="true">openly</normalised>, that he was, <normalised orig="felow" auto="true">fellow</normalised> good enough for
+their <normalised orig="tyme" auto="true">time</normalised>, if he could were a <normalised orig="gowne" auto="true">gown</normalised> and a <normalised orig="tipet" auto="true">tibet</normalised> <normalised orig="cumlie" auto="true">comely</normalised>, and <normalised orig="haue" auto="true">have</normalised> <normalised orig="hys" auto="true">his</normalised>
+<normalised orig="crowne" auto="true">crown</normalised> <normalised orig="shorne" auto="true">shorn</normalised> <normalised orig="faire" auto="true">fair</normalised> and <normalised orig="roundlie" auto="true">roundly</normalised>, and could <normalised orig="turne" auto="true">turn</normalised> his <normalised orig="Portesse" auto="true">Ports</normalised> and pie
+<normalised orig="readilie" auto="true">readily</normalised>: <normalised orig="whiche" auto="true">which</normalised> I <normalised orig="speake" auto="true">speak</normalised> not to <normalised orig="reproue" auto="true">reprove</normalised> any order either of <normalised orig="apparell" auto="true">apparel</normalised>,
+or other <normalised orig="dewtie" auto="true">duty</normalised>, that may be well and <normalised orig="indifferentlie" auto="true">indifferently</normalised> <normalised orig="vsed" auto="true">used</normalised>, but to note
+the <normalised orig="miserie" auto="true">misery</normalised> of that time, <normalised orig="whan" auto="true">when</normalised> the <normalised orig="benefites" auto="true">benefits</normalised> <normalised orig="prouided" auto="true">provided</normalised> for learning were
+so <normalised orig="fowlie" auto="true">foully</normalised> misused ASCH-E1-H,55V.173
+
+And what was the <normalised orig="frute" auto="true">fruit</normalised> of this <normalised orig="seade" auto="true">cede</normalised>?  ASCH-E1-H,55V.174
+
+<normalised orig="Verely" auto="true">Verily</normalised>, <normalised orig="iudgement" auto="true">judgment</normalised> in doctrine was <normalised orig="wholy" auto="true">wholly</normalised> altered: order in discipline
+very sore changed: ASCH-E1-H,55V.175
+
+the <normalised orig="loue" auto="true">love</normalised> of good learning, began <normalised orig="sodenly" auto="true">suddenly</normalised> to wax cold: ASCH-E1-H,55V.176
+
+the knowledge of the <normalised orig="tonges" auto="true">tongues</normalised> <paren> in spite of some that therein
+had <normalised orig="florished" auto="true">flourished</normalised> <$$paren> was manifestly <normalised orig="contemned" auto="true">condemned</normalised>: and so, <normalised orig="y=e=" auto="true">yew</normalised> way of
+right <normalised orig="studie" auto="true">study</normalised> purposely <normalised orig="peruerted" auto="true">perverted</normalised>: the choice of good authors of <normalised orig="mallice" auto="true">malice</normalised>
+<normalised orig="confownded" auto="true">confounded</normalised>.  ASCH-E1-H,55V.177
+
+<normalised orig="Olde" auto="true">Old</normalised> <normalised orig="sophistrie" auto="true">sophistry</normalised> <paren> I say not well <$$paren> not <normalised orig="olde" auto="true">old</normalised>, but that new
+rotten <normalised orig="sophistrie" auto="true">sophistry</normalised> began to beard and <normalised orig="sholder" auto="true">shoulder</normalised> <normalised orig="logicke" auto="true">logic</normalised> in her <normalised orig="owne" auto="true">own</normalised> tong:
+ASCH-E1-H,55V.178
+
+yea, I know, that <normalised orig="heades" auto="true">heads</normalised> were cast together, and <normalised orig="counsell" auto="true">counsel</normalised> <normalised orig="deuised" auto="true">devised</normalised>
+, that <font> Duns <$$font>, with all the <normalised orig="rable" auto="true">rabble</normalised> of barbarous
+<normalised orig="questionistes" auto="true">question</normalised>, should <normalised orig="haue" auto="true">have</normalised> dispossessed of their place and <normalised orig="rowmes" auto="true">room's</normalised>,
+<font> Aristotle, Plato, <normalised orig="Tullie" auto="true">Tulle</normalised> <$$font>, and <font> <normalised orig="Demosthenes" auto="true">Dunstan</normalised>
+<$$font>, when good <font> M. Redman <$$font>, and those two
+{COM:text_contains_duplicate_material,_p._136,_bottom:_"worthylace_and_rowmes_..._those_two"}
+worthy <normalised orig="starres" auto="true">stars</normalised> of that <normalised orig="vniuersitie" auto="true">university</normalised>, <font> M. <normalised orig="Cheke" auto="true">Choke</normalised> <$$font>,
+and <font> M. Smith <$$font>, with their <normalised orig="scholers" auto="true">scholars</normalised>, had brought
+to <normalised orig="florishe" auto="true">flourish</normalised> as notable in <normalised orig="Cambrige" auto="true">Cambridge</normalised>, as {COM:p._282_in_helsinki} <normalised orig="euer" auto="true">ever</normalised>
+they did in <normalised orig="Grece" auto="true">Greece</normalised> and in <normalised orig="Italie" auto="true">Italy</normalised>: ASCH-E1-H,55V.179
+
+and for the doctrine of those <normalised orig="fowre" auto="true">four</normalised>, the <normalised orig="fowre" auto="true">four</normalised> <normalised orig="pillers" auto="true">pillars</normalised> of learning,
+<normalised orig="Cambrige" auto="true">Cambridge</normalised> than <normalised orig="geuing" auto="true">giving</normalised> place to no <normalised orig="vniuersitie" auto="true">university</normalised>, neither in France, <normalised orig="Spaine" auto="true">Spain</normalised>,
+<normalised orig="Germanie" auto="true">Germany</normalised>, nor <normalised orig="Italie" auto="true">Italy</normalised>.  ASCH-E1-H,55V.180
+
+Also in outward <normalised orig="behauiour" auto="true">behaviour</normalised>, than began <normalised orig="simplicitie" auto="true">simplicity</normalised> in <normalised orig="apparell" auto="true">apparel</normalised>, to be
+<normalised orig="layd" auto="true">laid</normalised> aside: <normalised orig="Courtlie" auto="true">Courtly</normalised> <normalised orig="galantnes" auto="true">glinting</normalised> to be taken <normalised orig="vp" auto="true">up</normalised>: ASCH-E1-H,55V.181
+
+<normalised orig="frugalitie" auto="true">frugality</normalised> in diet was <normalised orig="priuately" auto="true">privately</normalised> <normalised orig="misliked" auto="true">mislikes</normalised>: <normalised orig="Towne" auto="true">Town</normalised> going to good <normalised orig="cheare" auto="true">cheer</normalised>
+openly <normalised orig="vsed" auto="true">used</normalised>: ASCH-E1-H,55V.182
+
+honest pastimes, <normalised orig="ioyned" auto="true">joined</normalised> with <normalised orig="labor" auto="true">labour</normalised>, left of in the <normalised orig="fieldes" auto="true">fields</normalised>:
+ASCH-E1-H,55V.183
+
+<normalised orig="vnthrifty" auto="true">unthrifty</normalised> and idle games, haunted corners, ASCH-E1-H,55V.184
+
+and occupied the <normalised orig="nightes" auto="true">nights</normalised>: ASCH-E1-H,55V.185
+
+contention in youth, no where for <P_56R> learning: factions in the
+elders <normalised orig="euery" auto="true">every</normalised> where for trifles.  All which miseries at length, by Gods
+<normalised orig="prouidence" auto="true">providence</normalised>, had their end 16. <font> <normalised orig="Nouemb" auto="true">November</normalised>. <$$font> 1558.
+Since which <normalised orig="tyme" auto="true">time</normalised>, the <normalised orig="yong" auto="true">young</normalised> spring hath shot <normalised orig="vp" auto="true">up</normalised> so <normalised orig="faire" auto="true">fair</normalised>, as now there be
+in <normalised orig="Cambrige" auto="true">Cambridge</normalised> <normalised orig="againe" auto="true">again</normalised>, many goodly <normalised orig="plantes" auto="true">plants</normalised> <paren> as did well <normalised orig="appeare" auto="true">appear</normalised> at
+the <normalised orig="Queenes" auto="true">Queens</normalised> <normalised orig="Maiesties" auto="true">Majesties</normalised> late being there <$$paren> which are like to grow
+to <normalised orig="mightie" auto="true">mighty</normalised> great timber, to the <normalised orig="honor" auto="true">honour</normalised> of learning, and great good of
+their <normalised orig="contrie" auto="true">country</normalised>, if they may stand their <normalised orig="tyme" auto="true">time</normalised>, as the best <normalised orig="plantes" auto="true">plants</normalised> there
+were wont to do: and if <normalised orig="som" auto="true">some</normalised> old dotterell trees, with standing <normalised orig="ouer" auto="true">over</normalised> <normalised orig="nie" auto="true">no</normalised>
+them, and dropping <normalised orig="vpon" auto="true">upon</normalised> them, do not either hinder, or <normalised orig="crooke" auto="true">crook</normalised> their
+growing, wherein my <normalised orig="feare" auto="true">fear</normalised> is <normalised orig="y=e=" auto="true">yew</normalised> <normalised orig="lesse" auto="true">less</normalised>, <normalised orig="seing" auto="true">seeing</normalised> so <normalised orig="worthie" auto="true">worthy</normalised> a <normalised orig="Iustice" auto="true">Justice</normalised>
+of an <normalised orig="Oyre" auto="true">Ore</normalised> hath the present <normalised orig="ouersight" auto="true">oversight</normalised> of that whole <normalised orig="chace" auto="true">chase</normalised>, who was
+<normalised orig="himselfe" auto="true">himself</normalised> <normalised orig="somtym" auto="true">sometime</normalised>, in the fairest spring that <normalised orig="euer" auto="true">ever</normalised> was there of learning,
+one of the forwardest <normalised orig="yong" auto="true">young</normalised> <normalised orig="plantes" auto="true">plants</normalised>, in all that worthy College of <font>
+S. <normalised orig="Ihones" auto="true">Hones</normalised> <$$font>: who now by grace is <normalised orig="growne" auto="true">grown</normalised> to <normalised orig="soch" auto="true">such</normalised> <normalised orig="greatnesse" auto="true">greatness</normalised>,
+as, in the temperate and quiet shade of his <normalised orig="wisdome" auto="true">wisdom</normalised>, next the <normalised orig="prouide~ce" auto="true">providence</normalised>
+of God, and <normalised orig="goodnes" auto="true">goodness</normalised> of one, in <normalised orig="theis" auto="true">their</normalised> our <normalised orig="daies" auto="true">days</normalised>, <normalised orig="Religio" auto="true">Relic's</normalised> for <normalised orig="sinceritie" auto="true">sincerity</normalised>,
+<normalised orig="literae" auto="true">litre</normalised> for order and <normalised orig="aduauncement" auto="true">advancement</normalised>, Respub. for <normalised orig="happie" auto="true">happy</normalised> and quiet
+<normalised orig="gouernment" auto="true">government</normalised>, <normalised orig="haue" auto="true">have</normalised> to great <normalised orig="rejoysing" auto="true">rejoicing</normalised> of all good men, <normalised orig="speciallie" auto="true">specially</normalised> reposed
+them <normalised orig="selues" auto="true">selves</normalised>.  ASCH-E1-H,56R.186

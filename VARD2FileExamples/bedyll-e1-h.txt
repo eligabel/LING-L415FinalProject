@@ -1,0 +1,62 @@
+<P_1.2,76>
+
+<heading:edcomment:LETTER_CXXVIII_THOMAS_BEDYLL_TO_LORD_CROMWELL,_RESPECTING_THE_MONKS_OF_THE_CHARTER_HOUSE_AT_LONDON,_A.D._1537>
+
+My very good Lord, after my <normalised orig="moost" auto="true">most</normalised> <normalised orig="hertie" auto="true">hearty</normalised> commendations it shall please
+<normalised orig="yo=r=" auto="true">your</normalised> Lordship to understand that the monks of the <normalised orig="Charterhouse" auto="true">Chartreuse</normalised> here at
+London, <normalised orig="whiche" auto="true">which</normalised> <normalised orig="wer" auto="true">were</normalised> committed to <normalised orig="Newgate" auto="true">Negate</normalised> for <normalised orig="thair" auto="true">their</normalised> <normalised orig="traitorus" auto="true">traitorous</normalised> <normalised orig="behavor" auto="true">behavior</normalised> long
+<normalised orig="tyme" auto="true">time</normalised> continued against the Kings Grace, be <normalised orig="almoost" auto="true">almost</normalised> <normalised orig="dispeched" auto="true">dispatched</normalised> by <normalised orig="th'and" auto="true">thinned</normalised> of
+God; as it may <normalised orig="apper" auto="true">appear</normalised> to you by this <normalised orig="byll" auto="true">bill</normalised> <normalised orig="inclosed" auto="true">enclosed</normalised>.  <normalised orig="Wherof" auto="true">Whereof</normalised> considering
+<P_1.2,77> <normalised orig="thair" auto="true">their</normalised> <normalised orig="behavor" auto="true">behavior</normalised> and the hole <normalised orig="mater" auto="true">matter</normalised>, I am not <normalised orig="sory" auto="true">sorry</normalised>, but wold
+that al <normalised orig="suche" auto="true">such</normalised> as love not the Kings <normalised orig="Highnes" auto="true">Highness</normalised> and his <normalised orig="wordly" auto="true">weirdly</normalised> <normalised orig="honor" auto="true">honour</normalised> <normalised orig="wer" auto="true">were</normalised> in
+like <normalised orig="caas" auto="true">coos</normalised>.  BEDYLL-E1-H,1.2,77.3
+
+My Lord <paren> as ye may <$$paren> I <normalised orig="desir" auto="true">desire</normalised> you in the <normalised orig="wey" auto="true">way</normalised> of <normalised orig="charite" auto="true">charity</normalised>
+, and none other wise, to be good lord to the Prior of the said
+<normalised orig="Charterhouse" auto="true">Chartreuse</normalised>, which is as honest a man as ever was in that <normalised orig="habite" auto="true">habit</normalised> <paren>
+or <normalised orig="els" auto="true">else</normalised> I am much <normalised orig="deceyved" auto="true">deceived</normalised> <$$paren>, and is one <normalised orig="whiche" auto="true">which</normalised> never offended
+the Kings grace by disobedience of his <normalised orig="Lawes" auto="true">Laws</normalised>, but hath <normalised orig="labored" auto="true">laboured</normalised> very sore
+continually for the reformation of his <normalised orig="brethern" auto="true">brethren</normalised>, and now at the last, at
+<normalised orig="myn" auto="true">mine</normalised> exhortation and instigation, constantly moved and finally persuaded
+his <normalised orig="brethern" auto="true">brethren</normalised> to surrender <normalised orig="thair" auto="true">their</normalised> house, lands, and goods, into the Kings
+hands, and to trust only to his mercy and grace.  BEDYLL-E1-H,1.2,77.4
+
+I <normalised orig="beseche" auto="true">beseech</normalised> you, my Lord that the said Prior may be so entreated by your
+help, that he be not <normalised orig="sory" auto="true">sorry</normalised>, and repent that he hath <normalised orig="fered" auto="true">feared</normalised> and <normalised orig="folowed" auto="true">followed</normalised> your
+sore words and my <normalised orig="gentil" auto="true">gentile</normalised> exhortation made unto him to surrender his said
+house; and think that he <normalised orig="myght" auto="true">might</normalised> have kept the same , if <normalised orig="yo=r=" auto="true">your</normalised> <normalised orig="Lordshyp" auto="true">Lordship</normalised>
+and I had not led him to the said surrender.  BEDYLL-E1-H,1.2,77.5
+
+But <normalised orig="suerly" auto="true">surly</normalised> <paren> I <normalised orig="beleve" auto="true">believe</normalised> <$$paren> that I <normalised orig="knowe" auto="true">know</normalised> the man so well that
+how <normalised orig="soever" auto="true">sever</normalised> he be order he $will $be {TEXT:wolbe} contented without grudge.
+BEDYLL-E1-H,1.2,77.6
+
+He is a man of <normalised orig="suche" auto="true">such</normalised> <normalised orig="charite" auto="true">charity</normalised> as I have not seen the like.
+BEDYLL-E1-H,1.2,77.7
+
+As <normalised orig="towching" auto="true">touching</normalised> the house of the <normalised orig="Charterhouse" auto="true">Chartreuse</normalised> I pray Good if it shall please
+the King to alter it, that it may be turned into a better use <paren>
+<normalised orig="seing" auto="true">seeing</normalised> it is in the face of the world <$$paren> and <P_1.2,78> <normalised orig="muche" auto="true">much</normalised>
+communication <normalised orig="wol" auto="true">wool</normalised> run thereof throughout this <normalised orig="realme" auto="true">realm</normalised>; BEDYLL-E1-H,1.2,78.8
+
+for London is the common <normalised orig="countrey" auto="true">country</normalised> of al England, from which is
+derived to al parts of this <normalised orig="realme" auto="true">realm</normalised> al good and <normalised orig="yll" auto="true">ill</normalised> <normalised orig="occurrent" auto="true">occurrence</normalised> here.
+BEDYLL-E1-H,1.2,78.9
+
+From London BEDYLL-E1-H,1.2,78.10
+
+the xiiij=th=. day of <normalised orig="Juny" auto="true">June</normalised>.  BEDYLL-E1-H,1.2,78.11
+
+By <normalised orig="yo=r=" auto="true">your</normalised> Lordships at <normalised orig="commaundement" auto="true">commandment</normalised> Thomas <normalised orig="Bedyll" auto="true">Bodyly</normalised> BEDYLL-E1-H,1.2,78.12
+
+<font> <normalised orig="Ther" auto="true">There</normalised> be departed.  <$$font> Brother William <normalised orig="Greenewode" auto="true">Greenwood</normalised>.  Dane John
+<normalised orig="Davye" auto="true">Dave</normalised>.  Brother Robert Salt.  Brother Water <normalised orig="Peereson" auto="true">Pearson</normalised>.  Dane Thomas Greene.
+BEDYLL-E1-H,1.2,78.13
+
+<font> <normalised orig="Ther" auto="true">There</normalised> be even at the <normalised orig="poynt" auto="true">point</normalised> of <normalised orig="dethe" auto="true">death</normalised>.  <$$font> Brother Thomas
+<normalised orig="Scryven" auto="true">Scorpion</normalised>.  Brother Thomas <normalised orig="Reedyng" auto="true">Reading</normalised>.  BEDYLL-E1-H,1.2,78.14
+
+<font> <normalised orig="Ther" auto="true">There</normalised> be <normalised orig="sycke" auto="true">sick</normalised>.  <$$font> Dane Thomas <normalised orig="Jonson" auto="true">Johnson</normalised>.  Brother William <normalised orig="Hore" auto="true">Whore</normalised>.
+BEDYLL-E1-H,1.2,78.15
+
+<font> One is hole.  <$$font> Dane Bird.  BEDYLL-E1-H,1.2,78.16

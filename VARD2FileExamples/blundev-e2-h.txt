@@ -1,0 +1,1064 @@
+<P_48R>
+
+<heading>
+
+The Description and <normalised orig="vse" auto="true">use</normalised> of the <font> Tables of <normalised orig="Sines" auto="true">Sins</normalised> <$$font>.
+BLUNDEV-E2-H,48R.3
+
+<$$heading>
+
+Because there is no proportion, comparison, or <normalised orig="likenes" auto="true">likeness</normalised> betwixt a right
+line and a crooked, the <normalised orig="auntient" auto="true">ancient</normalised> Philosophers, as <font> Ptolomey
+<$$font> and divers other, were much troubled in seeking to know the
+measures of a Circle or of any portion thereof by his Diameter, and by
+knowing the Diameter to <normalised orig="finde" auto="true">find</normalised> out the length of any <normalised orig="Chorde" auto="true">Chord</normalised> in a circle,
+which is <normalised orig="alwaies" auto="true">always</normalised> lesser then the Diameter it <normalised orig="selfe" auto="true">self</normalised>, BLUNDEV-E2-H,48R.5
+
+and finding that the more parts <normalised orig="whereinto" auto="true">whereunto</normalised> the Diameter was <normalised orig="diuided" auto="true">divided</normalised>, the
+nearer they <normalised orig="approched" auto="true">approached</normalised> to the truth: Some of them therefore, as <font>
+Ptolomey <$$font>, <normalised orig="diuided" auto="true">divided</normalised> the Diameter of a circle into a 120.
+parts, and the Semidiameter into 60. parts, and <normalised orig="euery" auto="true">every</normalised> such part
+into $60'{TEXT:6'0.} and <normalised orig="euery" auto="true">every</normalised> minute in 60. seconds &c.
+BLUNDEV-E2-H,48R.6
+
+And in like manner did <font> <normalised orig="Arzahel" auto="true">Arsehole</normalised> <$$font>, an <normalised orig="auntient" auto="true">ancient</normalised> Arabian,
+who <normalised orig="diuided" auto="true">divided</normalised> the Diameter into 300. <normalised orig="partes" auto="true">parts</normalised> and the Semidiameter
+into 150. and <normalised orig="euery" auto="true">every</normalised> of those parts into 6'0. and so
+forth as before, according to which computation they made their Tables:
+BLUNDEV-E2-H,48R.7
+
+but because the working by those Tables was very tedious and troublesome,
+by reason that it was <normalised orig="needfull" auto="true">needful</normalised> continually to <normalised orig="vse" auto="true">use</normalised> the art of <normalised orig="numbring" auto="true">numbering</normalised> by
+<normalised orig="Astronomicall" auto="true">Astronomical</normalised> fractions: therefore <font> <normalised orig="Georgius" auto="true">Georgics</normalised> <normalised orig="Purbachius" auto="true">Purpose's</normalised> <$$font>
+, and <font> <normalised orig="Regio" auto="true">Reg</normalised> <normalised orig="Montanus" auto="true">Mountainous</normalised> <$$font> his <normalised orig="Scholer" auto="true">Scholar</normalised> to <normalised orig="auoide" auto="true">avoid</normalised> that trouble
+of calculating by <normalised orig="Astronomicall" auto="true">Astronomical</normalised> fractions, <normalised orig="diuided" auto="true">divided</normalised> the Diameter of a
+Circle into a <normalised orig="farre" auto="true">far</normalised> greater number of parts, BLUNDEV-E2-H,48R.8
+
+and made such tables as are <normalised orig="vsed" auto="true">used</normalised> at this present, the description and
+<normalised orig="vse" auto="true">use</normalised> whereof both hereafter follow, first of those that are set <normalised orig="downe" auto="true">down</normalised> by
+<font> Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font> in Folio, and then of those that were lately
+Corrected and made perfect by <font> <normalised orig="Clauius" auto="true">Claus</normalised> <$$font> the <normalised orig="Jesuite" auto="true">Jest</normalised> which
+are Printed in quarto.  BLUNDEV-E2-H,48R.9
+
+<P_48V>
+
+And because that the way to find out the proportion which any chord
+hath to the whole Diameter, was very hard, therefore the said <font>
+<normalised orig="Purbachius" auto="true">Purpose's</normalised> <$$font> and <font> Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font> <normalised orig="hauing" auto="true">having</normalised> direction from
+<normalised orig="certaine" auto="true">certain</normalised> propositions of <font> <normalised orig="Euclyd" auto="true">Exclude</normalised> <$$font> as from the 47.
+proposition of his first <normalised orig="booke" auto="true">book</normalised>, and from the third proposition of his
+third <normalised orig="booke" auto="true">book</normalised>, and also from the 15. proposition of his <normalised orig="fift" auto="true">fifth</normalised> <normalised orig="booke" auto="true">book</normalised>
+, they made <normalised orig="choise" auto="true">choice</normalised> of the <normalised orig="halfe" auto="true">half</normalised> chord and Semidiameter of the Circle,
+calling the <normalised orig="halfe" auto="true">half</normalised> chord, <normalised orig="Sinum" auto="true">Simon</normalised> rectum, and the Semediameter <normalised orig="Sinum" auto="true">Simon</normalised> <normalised orig="totum" auto="true">totem</normalised>.
+BLUNDEV-E2-H,48V.11
+
+And because that the proportion of any circumference to his diameter
+<normalised orig="neuer" auto="true">never</normalised> <normalised orig="changeth" auto="true">changes</normalised>, how great or how little so <normalised orig="euer" auto="true">ever</normalised> the Circle be: after
+that they had calculated for one Circle, they made such tables as might
+<normalised orig="serue" auto="true">serve</normalised> for all Circles, BLUNDEV-E2-H,48V.12
+
+and though these Tables of <normalised orig="sines" auto="true">sins</normalised> doe suffice to <normalised orig="worke" auto="true">work</normalised> thereby all manner
+of conclusions, as well of <normalised orig="Astronomie" auto="true">Astronomy</normalised>, as of <normalised orig="Geometrie" auto="true">Geometry</normalised>, yet for more
+ease, our <normalised orig="moderne" auto="true">modern</normalised> Geometricians <normalised orig="haue" auto="true">have</normalised> of late <normalised orig="inuented" auto="true">invented</normalised> two other right
+lines belonging to a Circle called lines Tangent, and lines <normalised orig="Secant" auto="true">Scant</normalised>,
+BLUNDEV-E2-H,48V.13
+
+and <normalised orig="haue" auto="true">have</normalised> made like tables for them that were made for <normalised orig="sines" auto="true">sins</normalised>,
+BLUNDEV-E2-H,48V.14
+
+and both tables, that is to say, as well of the <normalised orig="sines" auto="true">sins</normalised>, as of the
+lines Tangent and <normalised orig="Secant" auto="true">Scant</normalised>, <normalised orig="haue" auto="true">have</normalised> one <normalised orig="selfe" auto="true">self</normalised> manner of working thereby,
+as shall <normalised orig="plainely" auto="true">plainly</normalised> <normalised orig="appeare" auto="true">appear</normalised> hereafter when wee come to describe the same.
+BLUNDEV-E2-H,48V.15
+
+But first we will <normalised orig="beginne" auto="true">begin</normalised> with the tables of <normalised orig="sines" auto="true">sins</normalised>, and <normalised orig="plainely" auto="true">plainly</normalised> define
+<normalised orig="euery" auto="true">every</normalised> <normalised orig="terme" auto="true">term</normalised> or <normalised orig="vocable" auto="true">visible</normalised> of Art, belonging <normalised orig="thereunto" auto="true">torrent</normalised>: BLUNDEV-E2-H,48V.16
+
+The <normalised orig="termes" auto="true">terms</normalised> are these here following: <font> An arch, a Chord <$$font>,
+Sinus <normalised orig="rectus" auto="true">recites</normalised> Sinus versus, <normalised orig="Quadrans" auto="true">Quatrains</normalised>, <normalised orig="Complementum" auto="true">Complement's</normalised>, <font> and <$$font>
+sinus <normalised orig="Complementi" auto="true">Complements</normalised>.  BLUNDEV-E2-H,48V.17
+
+<heading>
+
+The definitions of the <normalised orig="foresaid" auto="true">aforesaid</normalised> <normalised orig="tearmes" auto="true">terms</normalised>.  BLUNDEV-E2-H,48V.19
+
+<$$heading>
+
+An <font> Arch <$$font> is any part or portion of the circumference of
+a $circle {TEXT:cirle}, which in this practise doth not commonly extend
+beyond 180. degrees which is one <normalised orig="halfe" auto="true">half</normalised> of the circumference of
+any Circle how great or small so <normalised orig="euer" auto="true">ever</normalised> it be, BLUNDEV-E2-H,48V.21
+
+for <normalised orig="euery" auto="true">every</normalised> Circle <normalised orig="containeth" auto="true">contains</normalised> 360. degrees.  BLUNDEV-E2-H,48V.22
+
+A <font> <normalised orig="Chorde" auto="true">Chord</normalised> <$$font> is a right line <normalised orig="drawne" auto="true">drawn</normalised> from one end of the <font>
+Arch <$$font> to the other end thereof, BLUNDEV-E2-H,48V.23
+
+and note that all <normalised orig="chordes" auto="true">chords</normalised> are <normalised orig="alwaies" auto="true">always</normalised> lesser then the Diameter it <normalised orig="selfe" auto="true">self</normalised>
+, BLUNDEV-E2-H,48V.24
+
+for that is the greatest <normalised orig="Chorde" auto="true">Chord</normalised> in <normalised orig="anye" auto="true">any</normalised> Circle.  BLUNDEV-E2-H,48V.25
+
+Sinus <normalised orig="rectus" auto="true">recites</normalised> is the one <normalised orig="halfe" auto="true">half</normalised> of a <font> Chord <$$font> or string of
+any <normalised orig="Arke" auto="true">Arc</normalised> <P_49R> which is double to the <normalised orig="Arke" auto="true">Arc</normalised> that is <normalised orig="giuen" auto="true">given</normalised> or supposed
+, and <normalised orig="falleth" auto="true">falls</normalised> with right Angles <normalised orig="vppon" auto="true">upon</normalised> that Semidiameter which <normalised orig="diuideth" auto="true">divides</normalised>
+the double <normalised orig="Arke" auto="true">Arc</normalised> into two <normalised orig="equall" auto="true">equal</normalised> parts.  BLUNDEV-E2-H,49R.26
+
+Sinus versus that is to say turned the contrary way, is a right line, and
+that part of the Semidiameter, which is intercepted betwixt the beginning
+of the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> and the right Sine of the same <normalised orig="Arke" auto="true">Arc</normalised>, BLUNDEV-E2-H,49R.27
+
+and this is also called in <normalised orig="Latine" auto="true">Latin</normalised> <normalised orig="Sagitta" auto="true">Satiate</normalised>, in English a Shaft or <normalised orig="Arrowe" auto="true">Arrow</normalised>
+, BLUNDEV-E2-H,49R.28
+
+for the <normalised orig="Demonstratiue" auto="true">Demonstrative</normalised> figure thereof hereafter following, is not <normalised orig="vnlike" auto="true">unlike</normalised>
+to the string of a <normalised orig="bowe" auto="true">bow</normalised> ready bent <normalised orig="hauing" auto="true">having</normalised> a Shaft in the midst thereof.
+BLUNDEV-E2-H,49R.29
+
+<normalised orig="Quadrans" auto="true">Quatrains</normalised> is the fourth part of a Circle containing 90. degrees.
+BLUNDEV-E2-H,49R.30
+
+<normalised orig="Complementum" auto="true">Complement's</normalised> <normalised orig="arcus" auto="true">argues</normalised>, is that portion of the Circle, which <normalised orig="sheweth" auto="true">shows</normalised> how
+much the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> is lesser then the Quadrant, if the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> doe
+<normalised orig="containe" auto="true">contain</normalised> fewer degrees then the Quadrant, BLUNDEV-E2-H,49R.31
+
+but if it <normalised orig="containe" auto="true">contain</normalised> more degrees then the Quadrant, then the difference
+betwixt the quarter of the Circle and the said arch, is the complement
+of the said <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>.  BLUNDEV-E2-H,49R.32
+
+Sinus <normalised orig="complementi" auto="true">complements</normalised>, is the right Sine of that Arch which is the complement
+of the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>.  BLUNDEV-E2-H,49R.33
+
+Sinus <normalised orig="totus" auto="true">tot's</normalised>, is the Semidiameter of the Circle, BLUNDEV-E2-H,49R.34
+
+and is the greatest Sine that may be in the Quadrant of a Circle, which
+according to the first tables of <font> Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font> <normalised orig="containeth" auto="true">contains</normalised>
+6$$000$$000. and according to the last tables 10$$000$$000.
+parts, BLUNDEV-E2-H,49R.35
+
+for the more parts that the <normalised orig="totall" auto="true">total</normalised> Sine hath, the more true and exact
+shall your <normalised orig="worke" auto="true">work</normalised> bee, notwithstanding sometime it shall suffice to
+attribute unto the <normalised orig="totall" auto="true">total</normalised> Sine but 60$$000. parts, which numbers
+<font> <normalised orig="Appian" auto="true">Avian</normalised> <$$font> <normalised orig="obserueth" auto="true">observed</normalised> in teaching the way to <normalised orig="finde" auto="true">find</normalised> out the
+distance of two places differing both in Longitude and Latitude by the
+Tables of <normalised orig="Sines" auto="true">Sins</normalised>, BLUNDEV-E2-H,49R.36
+
+and some doe make the <normalised orig="totall" auto="true">total</normalised> Sine to <normalised orig="containe" auto="true">contain</normalised> 100$$000. <normalised orig="partes" auto="true">parts</normalised>, as
+<font> Wittikindus <$$font> in his treatise of Dials, BLUNDEV-E2-H,49R.37
+
+and <normalised orig="diuers" auto="true">divers</normalised> other doe the like.  BLUNDEV-E2-H,49R.38
+
+Also <font> <normalised orig="Clauius" auto="true">Claus</normalised> <$$font> <normalised orig="himselfe" auto="true">himself</normalised> saith that in the tables set
+<normalised orig="downe" auto="true">down</normalised> by him in quarto, you may sometime make the <normalised orig="totall" auto="true">total</normalised> Sine to be but
+100$$000, so as you cut off the two last figures on the right hand in
+<normalised orig="euery" auto="true">every</normalised> Sine, BLUNDEV-E2-H,49R.39
+
+but you shall better understand <normalised orig="euerye" auto="true">every</normalised> thing here <normalised orig="aboue" auto="true">above</normalised> mentioned,
+by the figure <normalised orig="Demonstratiue" auto="true">Demonstrative</normalised> <normalised orig="heere" auto="true">here</normalised> following.  BLUNDEV-E2-H,49R.40
+
+<P_49V>
+
+<heading>
+
+The figure <normalised orig="Demonstratiue" auto="true">Demonstrative</normalised>.  BLUNDEV-E2-H,49V.43
+
+<$$heading>
+
+In this figure {COM:figure_omitted} you see first a whole Circle <normalised orig="drawne" auto="true">drawn</normalised>
+upon the Centre <font> E. <$$font> and marked with the letters
+<font> A. B. C D. <$$font> which Circle by two
+<normalised orig="crosse" auto="true">cross</normalised> Diameters marked with the letters <font> A. C.
+<$$font> and <font> B. D. <$$font> & passing both through
+the Centre <font> E. <$$font> is <normalised orig="diuided" auto="true">divided</normalised> into <normalised orig="fower" auto="true">four</normalised> <normalised orig="Quadrantes" auto="true">Quadrants</normalised> or
+quarters, the upper <normalised orig="Quadrante" auto="true">Quadrant</normalised> whereof on the left hand is marked with the
+letters <font> A. B. E. <$$font> in which Quadrant,
+the right perpendicular line marked with the letters <font> F.
+H. <$$font> <normalised orig="betokeneth" auto="true">betokened</normalised> the right Sine of the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> <font>
+A. F. <$$font> which right Sine is the one <normalised orig="halfe" auto="true">half</normalised> of the
+chord or string <font> F. G. <$$font> BLUNDEV-E2-H,49V.45
+
+and the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> <font> A. F. <$$font> is the one <normalised orig="halfe" auto="true">half</normalised>
+of the double <normalised orig="Arke" auto="true">Arc</normalised> or <normalised orig="bowe" auto="true">bow</normalised> <font> G. A. F. <$$font>
+BLUNDEV-E2-H,49V.46
+
+and <font> A. H. <$$font> is the Shaft called in <normalised orig="Latine" auto="true">Latin</normalised>
+Sinus versus: BLUNDEV-E2-H,49V.47
+
+<normalised orig="Againe" auto="true">Again</normalised> the letters <font> F. B. <$$font> doe <normalised orig="shew" auto="true">show</normalised> the
+complement which together with the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> <font> A. F.
+<$$font> doe make the whole Quadrant <font> A. F. B.
+<$$font> which is <normalised orig="diuided" auto="true">divided</normalised> into 9. spaces, <normalised orig="euery" auto="true">every</normalised> space containing
+10. degrees whereby you may <normalised orig="plainely" auto="true">plainly</normalised> <normalised orig="perceiue" auto="true">perceive</normalised> that in this
+demonstration, the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> <font> A. F. <$$font> is
+50. degrees, and the complement <font> F. B. <$$font>
+is 40. degrees, both which being added together doe make up the
+whole Quadrant of 90. degrees, marked with the letters <font>
+A. F. B. <$$font> BLUNDEV-E2-H,49V.48
+
+Now Sinus <normalised orig="complementi" auto="true">complements</normalised> is the <normalised orig="crosse" auto="true">cross</normalised> line marked with the letters <font>
+F. K. <$$font> BLUNDEV-E2-H,49V.49
+
+the <normalised orig="totall" auto="true">total</normalised> Sine which is the whole Semidiameter and greatest right
+Sine, is marked with the letters <font> B. E. <$$font>
+BLUNDEV-E2-H,49V.50
+
+But because it is not enough to know the signification of the things
+<normalised orig="aboue" auto="true">above</normalised> specified to <normalised orig="vse" auto="true">use</normalised> the <normalised orig="foresaid" auto="true">aforesaid</normalised> Tables when <normalised orig="neede" auto="true">need</normalised> is, <normalised orig="vnlesse" auto="true">unless</normalised> you
+know <P_50R> also how to find out those things in the said tables,
+I <normalised orig="thinke" auto="true">think</normalised> it good therefore to <normalised orig="shew" auto="true">show</normalised> you the order of the said tables by
+describing the same as <normalised orig="followeth" auto="true">follows</normalised>.  BLUNDEV-E2-H,50R.51
+
+You <normalised orig="haue" auto="true">have</normalised> then to <normalised orig="vnderstand" auto="true">understand</normalised> that the tables of <font> Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font>
+printed in Folio, are contained in 18. Pages, and <normalised orig="euery" auto="true">every</normalised> Page
+<normalised orig="containeth" auto="true">contains</normalised> <normalised orig="eleauen" auto="true">eleven</normalised> partitions, called <normalised orig="collums" auto="true">columns</normalised>, whereof the first on the
+left hand <normalised orig="containeth" auto="true">contains</normalised> 60. minutes, which are to be counted from
+head to <normalised orig="foote" auto="true">foot</normalised>, as they stand in order one right under another in <normalised orig="seuerall" auto="true">several</normalised>
+places, proceeding from 1. to 60. BLUNDEV-E2-H,50R.52
+
+The second <normalised orig="collum" auto="true">column</normalised> <normalised orig="containeth" auto="true">contains</normalised> <normalised orig="Sines" auto="true">Sins</normalised>.  BLUNDEV-E2-H,50R.53
+
+The third <normalised orig="containeth" auto="true">contains</normalised> <normalised orig="onely" auto="true">only</normalised> a portion or part of one second,
+BLUNDEV-E2-H,50R.54
+
+and from thence <normalised orig="foorth" auto="true">forth</normalised> proceeding <normalised orig="towardes" auto="true">towards</normalised> the right hand all the other
+<normalised orig="collums" auto="true">columns</normalised> doe <normalised orig="containe" auto="true">contain</normalised> in like manner <normalised orig="Sines" auto="true">Sins</normalised> and the portion of one second.
+BLUNDEV-E2-H,50R.55
+
+And right <normalised orig="ouer" auto="true">over</normalised> the head of <normalised orig="euery" auto="true">every</normalised> Sine <paren> the first <normalised orig="collum" auto="true">column</normalised> of <normalised orig="Sines" auto="true">Sins</normalised>
+<normalised orig="onely" auto="true">only</normalised> excepted, <normalised orig="hauing" auto="true">having</normalised> nothing but a <normalised orig="Cypher" auto="true">Cipher</normalised> <normalised orig="ouer" auto="true">over</normalised> his head <$$paren>
+are set <normalised orig="downe" auto="true">down</normalised> the degrees of the whole Quadrant called arches, in such
+order as from the first Page to the last, there are in all 89.
+degrees, or arches, as by perusing the said tables you may <normalised orig="plainely" auto="true">plainly</normalised> see.
+BLUNDEV-E2-H,50R.56
+
+Now to find out in these tables the things <normalised orig="aboue" auto="true">above</normalised> mentioned, you must
+doe as <normalised orig="followeth" auto="true">follows</normalised>.  BLUNDEV-E2-H,50R.57
+
+First to find out the right Sine of any <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>, you must <normalised orig="seeke" auto="true">seek</normalised> out the
+number of the said <normalised orig="Arke" auto="true">Arc</normalised> in the front of the tables, BLUNDEV-E2-H,50R.58
+
+and if the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> hath no minutes <normalised orig="ioyned" auto="true">joined</normalised> <normalised orig="thereunto" auto="true">torrent</normalised>, then the first
+number of <normalised orig="Sines" auto="true">Sins</normalised> right under the said <normalised orig="Arke" auto="true">Arc</normalised>, is the right Sine thereof.
+BLUNDEV-E2-H,50R.59
+
+But if it hath any minutes <normalised orig="ioyned" auto="true">joined</normalised> <normalised orig="thereunto" auto="true">torrent</normalised>, then you must <normalised orig="seeke" auto="true">seek</normalised> out in
+that Page, where you found the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>, the number of the minutes in
+the first <normalised orig="collum" auto="true">column</normalised> of the said Page, on the left hand, BLUNDEV-E2-H,50R.60
+
+and right against those minutes on the right hand, in the square
+Angle right under the said arch, you shall find the right Sine.
+BLUNDEV-E2-H,50R.61
+
+As for example, you would find out the right Sine of a <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>
+containing 8. degrees, and 2'0. BLUNDEV-E2-H,50R.62
+
+<normalised orig="heere" auto="true">here</normalised> <normalised orig="hauing" auto="true">having</normalised> found out in the front of the second Page the figure of
+8. standing right <normalised orig="ouer" auto="true">over</normalised> the eight <normalised orig="collum" auto="true">column</normalised> <normalised orig="seeke" auto="true">seek</normalised> in the first <normalised orig="collum" auto="true">column</normalised>
+on the left hand of the said Page, for 20. minutes, and right
+against the 20. minutes you <normalised orig="shal" auto="true">shall</normalised> find on the right hand in the
+common Angle or square 869593. which is the right Sine of the
+<normalised orig="foresaid" auto="true">aforesaid</normalised> <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>, so as you make 6$$000$$000. to be the <normalised orig="totall" auto="true">total</normalised>
+Sine: BLUNDEV-E2-H,50R.63
+
+but if you make 60$$000. the <normalised orig="totall" auto="true">total</normalised> Sine, then you must <normalised orig="alwaies" auto="true">always</normalised>
+<normalised orig="reiect" auto="true">reject</normalised> the two last figures standing on the right hand of the said right
+sine, BLUNDEV-E2-H,50R.64
+
+& the rest of the figures shall be the right Sine.  BLUNDEV-E2-H,50R.65
+
+<P_50V>
+
+Now to find out the complement, there is nothing to be done, but <normalised orig="onely" auto="true">only</normalised>
+to subtract the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised> out of the whole Quadrant which is 90.
+degrees, BLUNDEV-E2-H,50V.67
+
+and the remainder shall be the complement: BLUNDEV-E2-H,50V.68
+
+as in the former example by subtracting 8. degrees, 2'0.
+out of 90 degrees, you <normalised orig="shal" auto="true">shall</normalised> find that there <normalised orig="remaineth" auto="true">remains</normalised> 81. degrees ,
+4'0. which is the complement of that arch.  BLUNDEV-E2-H,50V.69
+
+<normalised orig="Againe" auto="true">Again</normalised> to find out the Sine of the complement you must doe thus,
+BLUNDEV-E2-H,50V.70
+
+<normalised orig="seeke" auto="true">seek</normalised> the complement in the front of the tables of <normalised orig="Sines" auto="true">Sins</normalised>, <normalised orig="euen" auto="true">even</normalised> as you
+doe to find out any <normalised orig="giuen" auto="true">given</normalised> <normalised orig="arke" auto="true">arc</normalised>: BLUNDEV-E2-H,50V.71
+
+as in the former example, the complement being 81. degrees
+4'0. you must <normalised orig="seeke" auto="true">seek</normalised> 81. in the front of the 17. Page
+of the first tables, which being found, <normalised orig="seeke" auto="true">seek</normalised> out also the 4'0.
+in the first <normalised orig="collum" auto="true">column</normalised> of the said Page on the left hand, and right against
+those 4'0. in the common Angle right under the <normalised orig="Arke" auto="true">Arc</normalised>. 81
+you shall <normalised orig="finde" auto="true">find</normalised> 5$$936$$649. which number is the right Sine of
+the <normalised orig="foresaid" auto="true">aforesaid</normalised> complement, so as you make 6$$000$$000. to be the
+<normalised orig="totall" auto="true">total</normalised> Sine, BLUNDEV-E2-H,50V.72
+
+for if 60$$000. be the <normalised orig="totall" auto="true">total</normalised> Sine, then you must <normalised orig="reiect" auto="true">reject</normalised> <paren>
+as I said before <$$paren> the two last figures on the right hand,
+BLUNDEV-E2-H,50V.73
+
+and the number remaining shall bee the right Sine of the <normalised orig="foresaid" auto="true">aforesaid</normalised>
+complement, BLUNDEV-E2-H,50V.74
+
+and therefore in working by these tables, you must <normalised orig="alwaies" auto="true">always</normalised> remember what
+number you make the <normalised orig="totall" auto="true">total</normalised> Sine to be.  BLUNDEV-E2-H,50V.75
+
+Sinus versus <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="seldome" auto="true">seldom</normalised> in <normalised orig="vse" auto="true">use</normalised>, BLUNDEV-E2-H,50V.76
+
+notwithstanding if you would know how to find it out, you <normalised orig="neede" auto="true">need</normalised> to do
+no more but subtract <normalised orig="Sinum" auto="true">Simon</normalised> <normalised orig="complementi" auto="true">complements</normalised> of the <normalised orig="giuen" auto="true">given</normalised> <normalised orig="Arke" auto="true">Arc</normalised>, out of the
+<normalised orig="totall" auto="true">total</normalised> Sine, BLUNDEV-E2-H,50V.77
+
+and the remainder shall bee Sinus versus, BLUNDEV-E2-H,50V.78
+
+as in the former example your Sinus <normalised orig="complementi" auto="true">complements</normalised> was 5$$936$$649.
+which being subtracted out of the <normalised orig="totall" auto="true">total</normalised> Sine 6$$000$$000. there
+<normalised orig="remaineth" auto="true">remains</normalised> 63$$351. BLUNDEV-E2-H,50V.79
+
+and that number is Sinus versus: BLUNDEV-E2-H,50V.80
+
+for if you <normalised orig="adde" auto="true">add</normalised> this remainder to the number which you subtracted,
+it will make up the <normalised orig="totall" auto="true">total</normalised> Sine 6$$000$$000. BLUNDEV-E2-H,50V.81
+
+But there is one thing more <normalised orig="necessarie" auto="true">necessary</normalised> to be <normalised orig="knowne" auto="true">known</normalised> then this, because
+it <normalised orig="commeth" auto="true">comes</normalised> <normalised orig="oftner" auto="true">oftener</normalised> in <normalised orig="vse" auto="true">use</normalised>, BLUNDEV-E2-H,50V.82
+
+and that is upon some <normalised orig="diuision" auto="true">division</normalised> made how to find out the <normalised orig="Arke" auto="true">Arc</normalised> of any
+quotient, which is to be done thus: BLUNDEV-E2-H,50V.83
+
+Enter with the quotient into the body of the tables, BLUNDEV-E2-H,50V.84
+
+and <normalised orig="leaue" auto="true">leave</normalised> not seeking amongst the squares of the <normalised orig="Sines" auto="true">Sins</normalised>, <normalised orig="vntill" auto="true">until</normalised> you <normalised orig="haue" auto="true">have</normalised>
+found out the <normalised orig="iust" auto="true">just</normalised> number of the quotient <paren> if it be there <$$paren>
+BLUNDEV-E2-H,50V.85
+
+if not, you must take the number of that Sine which is in value most
+nigh <normalised orig="vnto" auto="true">unto</normalised> it, whether it bee a little more or <normalised orig="lesse" auto="true">less</normalised>, it <normalised orig="maketh" auto="true">makes</normalised> no matter,
+BLUNDEV-E2-H,50V.86
+
+and <normalised orig="hauing" auto="true">having</normalised> found that number, <normalised orig="looke" auto="true">look</normalised> in the front of that <normalised orig="collum" auto="true">column</normalised>, and you
+shall find the <normalised orig="Arke" auto="true">Arc</normalised> of your quotient <P_51R>, standing right <normalised orig="ouer" auto="true">over</normalised> the
+head of that <normalised orig="collum" auto="true">column</normalised>, and also the <normalised orig="mynutes" auto="true">minutes</normalised> thereof in the first <normalised orig="collum" auto="true">column</normalised>
+of the said Page on the left hand.  BLUNDEV-E2-H,51R.87
+
+As for example, <normalised orig="hauing" auto="true">having</normalised> <normalised orig="diuided" auto="true">divided</normalised> one number by another, I <normalised orig="finde" auto="true">find</normalised> the quotient
+to be 469$$012. whereof I would know the arch, BLUNDEV-E2-H,51R.88
+
+now in seeking this quotient amongst the <normalised orig="Sines" auto="true">Sins</normalised>, I $can $not {TEXT:cannot}
+<normalised orig="finde" auto="true">find</normalised> that <normalised orig="iust" auto="true">just</normalised> number, BLUNDEV-E2-H,51R.89
+
+but I find in the first Page, and in the tenth <normalised orig="collum" auto="true">column</normalised> 469$$015.
+which is the nighest number <normalised orig="vnto" auto="true">unto</normalised> it that I can see.  In the front of
+which <normalised orig="collum" auto="true">column</normalised> I find the <normalised orig="Arke" auto="true">Arc</normalised> to be 4. degrees, BLUNDEV-E2-H,51R.90
+
+and directly against that Sine on the left hand, I find 2'9.
+belonging to that arch, whereof that quotient is the <font> Sinus
+<$$font>, so as I gather hereof that the arch of the <normalised orig="foresaid" auto="true">aforesaid</normalised> quotient
+is 4. degrees, 2'9. BLUNDEV-E2-H,51R.91
+
+But you <normalised orig="haue" auto="true">have</normalised> to note by the way that the number of your quotient must
+<normalised orig="neuer" auto="true">never</normalised> be much <normalised orig="lesse" auto="true">less</normalised> then 1745. for otherwise it is not to bee
+found in these tables, <normalised orig="unlesse" auto="true">unless</normalised> you make the <normalised orig="totall" auto="true">total</normalised> Sine to bee but
+60$$000. BLUNDEV-E2-H,51R.92
+
+for then by <normalised orig="reiecting" auto="true">rejecting</normalised> the last two figures on the right hand, as I <normalised orig="haue" auto="true">have</normalised>
+said before, the first right Sine of these tables <normalised orig="shal" auto="true">shall</normalised> be no more but
+17. BLUNDEV-E2-H,51R.93
+
+and by that account a very small quotient may be found in these tables.
+BLUNDEV-E2-H,51R.94
+
+And <normalised orig="whatsoeuer" auto="true">whatsoever</normalised> hath <normalised orig="beene" auto="true">been</normalised> said here touching the order that is to be
+<normalised orig="obserued" auto="true">observed</normalised> in the first tables of <font> Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font>, whose
+<normalised orig="totall" auto="true">total</normalised> Sine is 6$$000$$000. the like in all points is to be
+<normalised orig="obserued" auto="true">observed</normalised> in the last tables, whose <normalised orig="totall" auto="true">total</normalised> Sine is 10$$000$$000.
+BLUNDEV-E2-H,51R.95
+
+Thus much touching the order of the <normalised orig="foresaid" auto="true">aforesaid</normalised> tables of <font> Monte
+<normalised orig="Regio" auto="true">Reg</normalised> <$$font> Printed in Folio: BLUNDEV-E2-H,51R.96
+
+but for as much as those tables be not altogether <normalised orig="truely" auto="true">truly</normalised> Printed, and for
+that they <normalised orig="haue" auto="true">have</normalised> <normalised orig="beene" auto="true">been</normalised> lately corrected, and made more perfect by <font>
+<normalised orig="Clauius" auto="true">Claus</normalised> <$$font>, who doth set <normalised orig="downe" auto="true">down</normalised> the <normalised orig="saide" auto="true">said</normalised> Tables in quarto and not
+in folio, whereby they are the more portable, and the more commodious ,
+as well for that they are more <normalised orig="truely" auto="true">truly</normalised> Printed, as also for that the
+complement of <normalised orig="euery" auto="true">every</normalised> <normalised orig="Arke" auto="true">Arc</normalised> is set <normalised orig="downe" auto="true">down</normalised> in <normalised orig="euery" auto="true">every</normalised> Page at the <normalised orig="foote" auto="true">foot</normalised> of
+<normalised orig="euery" auto="true">every</normalised> <normalised orig="collum" auto="true">column</normalised>, so as you need to spend no time in subtracting the <normalised orig="Arke" auto="true">Arc</normalised>
+from 90. I <normalised orig="thinke" auto="true">think</normalised> it good therefore to make a <normalised orig="briefe" auto="true">brief</normalised> description
+of those Tables, and the rather for that I <normalised orig="haue" auto="true">have</normalised> requested the Printer
+to print the like here in quarto, BLUNDEV-E2-H,51R.97
+
+and I doe <normalised orig="worke" auto="true">work</normalised> all such conclusions as hereafter follow, by the said
+tables, the <normalised orig="totall" auto="true">total</normalised> Sine whereof is 10$$000$$000. according to
+the last tables of <font> Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font>.  BLUNDEV-E2-H,51R.98
+
+But for so much as some may <normalised orig="haue" auto="true">have</normalised> already the tables of <font> Monte
+<normalised orig="Regio" auto="true">Reg</normalised> <$$font> Printed in Folio, not knowing perhaps the <normalised orig="vse" auto="true">use</normalised> thereof
+, I will set <normalised orig="downe" auto="true">down</normalised> two conclusions to bee wrought by those tables,
+BLUNDEV-E2-H,51R.99
+
+and all the rest of the conclusions <P_51V> are to be wrought by these
+tables which I <normalised orig="haue" auto="true">have</normalised> here caused to be Printed in quarto like to those
+of <font> <normalised orig="Clauius" auto="true">Claus</normalised> <$$font>: BLUNDEV-E2-H,51V.100
+
+and though the two conclusions next following, which are to <normalised orig="shew" auto="true">show</normalised> the
+<normalised orig="vse" auto="true">use</normalised> of the <normalised orig="foresaid" auto="true">aforesaid</normalised> tables, may be wrought by the tables of <normalised orig="Sines" auto="true">Sins</normalised>
+in what <normalised orig="forme" auto="true">form</normalised> so <normalised orig="euer" auto="true">ever</normalised> they be <normalised orig="truely" auto="true">truly</normalised> Printed in Folio, or in quarto,
+yet because I had appointed them to bee done by the Tables of <font>
+Monte <normalised orig="Regio" auto="true">Reg</normalised> <$$font>, Printed in folio before that <normalised orig="euer" auto="true">ever</normalised> I saw <font>
+<normalised orig="Clauius" auto="true">Claus</normalised> <$$font> his <normalised orig="booke" auto="true">book</normalised>, I mind not now to alter them but to let them
+stand still as they are.  BLUNDEV-E2-H,51V.101
+
+<P_152R>
+
+<heading>
+
+Of the Horizon both right and oblique, making thereby three kinds of
+<normalised orig="Spheares" auto="true">Spheres</normalised>, that is, the right, the <normalised orig="Paralell" auto="true">Parallel</normalised>, and the oblique <normalised orig="Spheare" auto="true">Sphere</normalised>.
+BLUNDEV-E2-H,152R.104
+
+Cap. 17.  BLUNDEV-E2-H,152R.105
+
+<$$heading>
+
+<heading>
+
+What is the Horizon?  BLUNDEV-E2-H,152R.108
+
+<$$heading>
+
+It is a great <normalised orig="immooueable" auto="true">immovable</normalised> circle which <normalised orig="deuideth" auto="true">divides</normalised> the upper <normalised orig="Hemispheare" auto="true">Hemisphere</normalised>,
+which is as much to say, as the upper <normalised orig="halfe" auto="true">half</normalised> of the world which we see,
+from the nether <normalised orig="Hemispheare" auto="true">Hemisphere</normalised> which wee see not, BLUNDEV-E2-H,152R.110
+
+for standing in a <normalised orig="plaine" auto="true">plain</normalised> field, or rather upon some high <normalised orig="mountaine" auto="true">mountain</normalised>
+void of bushes and trees, and looking round about, you shall see your
+<normalised orig="selfe" auto="true">self</normalised> <normalised orig="inuironed" auto="true">environed</normalised> as it were with a circle, and to be in the very midst
+or centre thereof, beneath or beyond which circle, your sight $can $not
+{TEXT:cannot} <normalised orig="passe" auto="true">pass</normalised>, BLUNDEV-E2-H,152R.111
+
+and <normalised orig="therfore" auto="true">therefore</normalised> this circle in <normalised orig="Greeke" auto="true">Greek</normalised> is called <font> Horizon <$$font> ,
+and in <normalised orig="Latine" auto="true">Latin</normalised> <normalised orig="Finitor" auto="true">Fainter</normalised>, that is to say, that which <normalised orig="determineth" auto="true">determines</normalised>, <normalised orig="limitteth" auto="true">limited</normalised>
+or <normalised orig="boundeth" auto="true">bounds</normalised> the sight, the Poles of which circle are imagined to be two
+points in the firmament, whereof the one <normalised orig="standeth" auto="true">stands</normalised> right <normalised orig="ouer" auto="true">over</normalised> your <normalised orig="heade" auto="true">head</normalised>,
+called in <normalised orig="Arabick" auto="true">Arabic</normalised> <font> Zenith <$$font>: and the other <normalised orig="directlie" auto="true">directly</normalised> <normalised orig="vnder" auto="true">under</normalised>
+your <normalised orig="feete" auto="true">feet</normalised>, called in the same tongue <font> Nadir <$$font>, that is to
+say the <normalised orig="pointe" auto="true">point</normalised> opposite, BLUNDEV-E2-H,152R.112
+
+and from point to point you must imagine that there <normalised orig="goeth" auto="true">goes</normalised> a right line
+passing through the centre of the <normalised orig="worlde" auto="true">world</normalised>, and also <P_152V> through your
+<normalised orig="bodie" auto="true">body</normalised> both head and feet, which is called the <normalised orig="Arletree" auto="true">Harlotry</normalised> of the Horizon,
+BLUNDEV-E2-H,152V.113
+
+and you <normalised orig="haue" auto="true">have</normalised> to understand that of Horizons there be 2. kinds,
+that is, right & oblique, making 3. kinds of <normalised orig="Sphears" auto="true">Spears</normalised>, that is to
+say, the right <normalised orig="Spheare" auto="true">Sphere</normalised>, the <normalised orig="paralel" auto="true">parallel</normalised> <normalised orig="Spheare" auto="true">Sphere</normalised>, and the oblique <normalised orig="Spheare" auto="true">Sphere</normalised>.
+BLUNDEV-E2-H,152V.114
+
+<heading>
+
+When is the Horizon said to be right, and thereby to make a right <normalised orig="Spheare" auto="true">Sphere</normalised>?
+BLUNDEV-E2-H,152V.116
+
+<$$heading>
+
+It may be said to be right two manner of <normalised orig="waies" auto="true">ways</normalised>, BLUNDEV-E2-H,152V.118
+
+first, when the Horizon <normalised orig="passeth" auto="true">passes</normalised> through both the Poles of the world,
+cutting the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> with right angles, in which <normalised orig="Spheare" auto="true">Sphere</normalised> they that
+dwell <normalised orig="haue" auto="true">have</normalised> their <font> Zenith <$$font> in the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, which <normalised orig="passeth" auto="true">passes</normalised>
+right <normalised orig="ouer" auto="true">over</normalised> their heads, to whom the <normalised orig="daies" auto="true">days</normalised> and nights are <normalised orig="alwaies" auto="true">always</normalised> equal.
+BLUNDEV-E2-H,152V.119
+
+Secondly, they are said to <normalised orig="haue" auto="true">have</normalised> a right Horizon, & to dwell in a right
+<normalised orig="Spheare" auto="true">Sphere</normalised>, to whom one of the Poles of the world is their <font> Zenith
+<$$font>, BLUNDEV-E2-H,152V.120
+
+and their Horizon is all one with the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, cutting the <normalised orig="Arletree" auto="true">Harlotry</normalised>
+of the world in the very midst with right angles, BLUNDEV-E2-H,152V.121
+
+and because the Horizon & the Equinoctial are <normalised orig="Paralels" auto="true">Parallels</normalised>, this kind of
+<normalised orig="Spheare" auto="true">Sphere</normalised> is called a <normalised orig="paralel" auto="true">parallel</normalised> <normalised orig="Spheare" auto="true">Sphere</normalised>, in which <normalised orig="Sphear" auto="true">Sphere</normalised> they that <normalised orig="dwel" auto="true">dwell</normalised> <normalised orig="haue" auto="true">have</normalised>
+6. <normalised orig="moneths" auto="true">months</normalised> day, and 6. <normalised orig="moneths" auto="true">months</normalised> night, as you may easily
+<normalised orig="perceiue" auto="true">perceive</normalised> by placing the <normalised orig="Spheare" auto="true">Sphere</normalised>, so as one of the Poles may stand right
+<normalised orig="vp" auto="true">up</normalised> in the midst of the Horizon, by <normalised orig="meanes" auto="true">means</normalised> <normalised orig="wherof" auto="true">whereof</normalised> you <normalised orig="shal" auto="true">shall</normalised> see 6.
+<normalised orig="signes" auto="true">signs</normalised> of the <normalised orig="Zodiaque" auto="true">Zodiac's</normalised> to be <normalised orig="alwayes" auto="true">always</normalised> <normalised orig="aboue" auto="true">above</normalised> the Horizon, and 6.
+<normalised orig="signes" auto="true">signs</normalised> to be <normalised orig="alwayes" auto="true">always</normalised> under the Horizon: BLUNDEV-E2-H,152V.122
+
+<normalised orig="Againe" auto="true">Again</normalised> by placing the <normalised orig="Spheare" auto="true">Sphere</normalised> so as both the Poles may lie <normalised orig="vppon" auto="true">upon</normalised> the
+Horizon, you shall see the shape of the first right <normalised orig="Sphear" auto="true">Sphere</normalised>, <normalised orig="wherin" auto="true">wherein</normalised> the
+Horizon <normalised orig="passeth" auto="true">passes</normalised> <normalised orig="throgh" auto="true">through</normalised> both the Poles of the world, and the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>
+<normalised orig="passeth" auto="true">passes</normalised> through the Poles of the Horizon, which are the two points
+called before the <font> Zenith <$$font> and <font> Nadir <$$font>.
+BLUNDEV-E2-H,152V.123
+
+<heading>
+
+When is it said to bee an oblique Horizon, and thereby to make an
+oblique <normalised orig="Spheare" auto="true">Sphere</normalised>?  BLUNDEV-E2-H,152V.125
+
+<$$heading>
+
+When the Pole of the world is <normalised orig="eleuated" auto="true">elevated</normalised> <normalised orig="aboue" auto="true">above</normalised> the Horizon, bee it <normalised orig="neuer" auto="true">never</normalised> so
+little, so as the Horizon doe cut the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> with oblique angles,
+and <normalised orig="looke" auto="true">look</normalised> how much the Pole of the world is <normalised orig="eleuated" auto="true">elevated</normalised> <normalised orig="aboue" auto="true">above</normalised> your Horizon,
+so much is your <font> Zenith <$$font> distant from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>,
+BLUNDEV-E2-H,152V.127
+
+and the nigher that your Horizon <normalised orig="approcheth" auto="true">approaches</normalised> to the Pole, the
+nigher your <font> Zenith <$$font> <normalised orig="approcheth" auto="true">approaches</normalised> to the Equinoctial.
+BLUNDEV-E2-H,152V.128
+
+<normalised orig="Againe" auto="true">Again</normalised>, <normalised orig="looke" auto="true">look</normalised> how much the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> is <normalised orig="eleuated" auto="true">elevated</normalised> <normalised orig="aboue" auto="true">above</normalised> your
+Horizon, so much is your <font> Zenith <$$font> distant from the
+Pole, all which {COM:see_info_file_regarding_missing_page_153}
+<P_154R_misnumbered_as_151R> things this figure here following doth
+<normalised orig="plainely" auto="true">plainly</normalised> <normalised orig="shew" auto="true">show</normalised>, whereby you may easily <normalised orig="perceiue" auto="true">perceive</normalised> that the latitude, which
+is the distance of your <font> Zenith <$$font> from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>,
+is <normalised orig="alwaies" auto="true">always</normalised> <normalised orig="equall" auto="true">equal</normalised> to the altitude of the Pole, which is the distance
+betwixt your Horizon & the Pole, BLUNDEV-E2-H,154R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151R.129
+
+as for example, knowing the latitude of <font> Norwich <$$font> to be 52,
+degrees lay the <font> Zenith <$$font> of this figure upon the 52.
+degrees, reckoning from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> towards the pole <normalised orig="Arctique" auto="true">Arctic's</normalised> on
+your left hand, BLUNDEV-E2-H,154R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151R.130
+
+and <normalised orig="looke" auto="true">look</normalised> what distance is betwixt the <normalised orig="saide" auto="true">said</normalised> <font> Zenith <$$font>
+and the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, the <normalised orig="selfe" auto="true">self</normalised> same distance you shall find to
+be betwixt the Horizon and the <normalised orig="foresaid" auto="true">aforesaid</normalised> Pole on your right hand,
+BLUNDEV-E2-H,154R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151R.131
+
+and you may doe the like upon the <normalised orig="Spheare" auto="true">Sphere</normalised> it <normalised orig="selfe" auto="true">self</normalised> by raising
+the <normalised orig="moouable" auto="true">moveable</normalised> Meridian <normalised orig="aboue" auto="true">above</normalised> the Horizon at that altitude, so
+as the 52. <normalised orig="degr" auto="true">degree</normalised>. may be <normalised orig="euen" auto="true">even</normalised> with the Horizon.
+BLUNDEV-E2-H,154R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151R.132
+
+<font> A Figure <normalised orig="shewing" auto="true">showing</normalised> the latitude of any place to bee <normalised orig="equall" auto="true">equal</normalised>
+to the <normalised orig="eleuation" auto="true">elevation</normalised> of the Pole.  <$$font> {COM:figure_omitted}
+BLUNDEV-E2-H,154R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151R.133
+
+<P_154V_misnumbered_as_151V>
+
+<heading>
+
+What other <normalised orig="vses" auto="true">uses</normalised> hath this Circle?
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.136
+
+<$$heading>
+
+In this circle are set <normalised orig="downe" auto="true">down</normalised> the <normalised orig="foure" auto="true">four</normalised> quarters of the world,
+as East, West, North and South, and the rest of the winds:
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.138
+
+<normalised orig="Againe" auto="true">Again</normalised>, this circle <normalised orig="deuideth" auto="true">divides</normalised> the <normalised orig="artificiall" auto="true">artificial</normalised> day from the <normalised orig="artificiall" auto="true">artificial</normalised>
+night, BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.139
+
+for all the while that the Sun is <normalised orig="aboue" auto="true">above</normalised> the Horizon it is day,
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.140
+
+& <normalised orig="whilest" auto="true">whilst</normalised> it is under the same it is night.
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.141
+
+And by this circle wee <normalised orig="knowe" auto="true">know</normalised> what <normalised orig="starres" auto="true">stars</normalised> do continually <normalised orig="appeare" auto="true">appear</normalised>, and
+which are continually hidden, also what <normalised orig="starres" auto="true">stars</normalised> doe rise and <normalised orig="goe" auto="true">go</normalised> <normalised orig="downe" auto="true">down</normalised>.
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.142
+
+<normalised orig="Againe" auto="true">Again</normalised>, in taking the <normalised orig="eleuation" auto="true">elevation</normalised> of the Pole, this circle is chiefly to
+be considered, BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.143
+
+for when we know how many degrees the Pole is raised <normalised orig="aboue" auto="true">above</normalised>
+the Horizon, then we <normalised orig="haue" auto="true">have</normalised> the <normalised orig="eleuation" auto="true">elevation</normalised> <normalised orig="therof" auto="true">thereof</normalised> for that place.
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.144
+
+For to <normalised orig="euery" auto="true">every</normalised> <normalised orig="seuerall" auto="true">several</normalised> place, yea to <normalised orig="euerye" auto="true">every</normalised> little moment of the earth in
+an oblique <normalised orig="Spheare" auto="true">Sphere</normalised>, <normalised orig="belongeth" auto="true">belonged</normalised> his proper Horizon and <normalised orig="seuerall" auto="true">several</normalised> altitude
+of the Pole, whereby it <normalised orig="appeareth" auto="true">appears</normalised> that the Horizons are infinite and
+without number.  BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.145
+
+<heading>
+
+How <normalised orig="shal" auto="true">shall</normalised> I know in any place, <normalised orig="hauing" auto="true">having</normalised> an oblique Horizon
+, how much the Pole is <normalised orig="eleuated" auto="true">elevated</normalised> <normalised orig="aboue" auto="true">above</normalised> the Horizon?
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.147
+
+<$$heading>
+
+That is declared in the second <normalised orig="booke" auto="true">book</normalised> of this Treatise, <normalised orig="wheras" auto="true">whereas</normalised> I <normalised orig="speake" auto="true">speak</normalised>
+of the latitude and longitude of the earth, in the 8. chapter.
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.149
+
+<heading>
+
+Of the Meridian, and of the <normalised orig="vses" auto="true">uses</normalised> thereof.
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.151
+
+Cap. 18.  BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.152
+
+<$$heading>
+
+<heading>
+
+What is the Meridian?  BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.155
+
+<$$heading>
+
+It is a great <normalised orig="immoouable" auto="true">immovable</normalised> circle passing through the Poles
+of the <normalised orig="worlde" auto="true">world</normalised>, and through the Poles of the Horizon.
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.157
+
+<heading>
+
+Why is it called the Meridian?  BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.159
+
+<$$heading>
+
+Because that when the sun rising <normalised orig="aboue" auto="true">above</normalised> the Horizon in the East, <normalised orig="commeth" auto="true">comes</normalised>
+to touch this line with the Center of his body, then it is midday or
+<normalised orig="noonetide" auto="true">ninetieth</normalised> to those, through whose <font> Zenith <$$font> that Circle
+<normalised orig="passeth" auto="true">passes</normalised>.  BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.161
+
+And when the Sun after his going <normalised orig="downe" auto="true">down</normalised> in the west <normalised orig="commeth" auto="true">comes</normalised> to touch
+the <normalised orig="selfe" auto="true">self</normalised> line <normalised orig="againe" auto="true">again</normalised> in the point <normalised orig="opposit" auto="true">opposite</normalised>, it is to them midnight,
+BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.162
+
+and note that <normalised orig="diuers" auto="true">divers</normalised> Cities, <normalised orig="hauing" auto="true">having</normalised> <normalised orig="diuers" auto="true">divers</normalised> Latitudes, that is to say
+, being distant one from another North and South be it <normalised orig="neuer" auto="true">never</normalised> so far,
+may <normalised orig="haue" auto="true">have</normalised> one <normalised orig="selfe" auto="true">self</normalised> Meridian: BLUNDEV-E2-H,154V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_151V.163
+
+but if they be distant one from another East & West, bee it <normalised orig="neuer" auto="true">never</normalised> so
+little, then they must <P_155R_misnumbered_as_152R> <normalised orig="needes" auto="true">needs</normalised> <normalised orig="haue" auto="true">have</normalised> <normalised orig="diuers" auto="true">divers</normalised>
+Meridians, BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.164
+
+and such distance betwixt the two <normalised orig="seuerall" auto="true">several</normalised> Meridians, is called the
+difference of Longitude whereof we shall <normalised orig="speake" auto="true">speak</normalised> hereafter more at large
+when we come to <normalised orig="treate" auto="true">treat</normalised> of the Longitude and Latitude of the earth, which
+something <normalised orig="differeth" auto="true">differed</normalised> from the Longitude and Latitude of the <normalised orig="starres" auto="true">stars</normalised> or
+{HELSINKI:of} Planets, whereof we <normalised orig="haue" auto="true">have</normalised> already spoken in the 11.
+Chapter.  BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.165
+
+<heading>
+
+How many Meridians be there?  BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.167
+
+<$$heading>
+
+The Astronomers doe appoint for <normalised orig="euery" auto="true">every</normalised> two degrees of the
+<normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> a Meridian, so as they make in all 180.
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.169
+
+Albeit most commonly in the <normalised orig="Spheare" auto="true">Sphere</normalised> they set <normalised orig="downe" auto="true">down</normalised> but one, which <normalised orig="serueth" auto="true">serves</normalised>
+for all by turning the body of the <normalised orig="Spheare" auto="true">Sphere</normalised> to it, which for <normalised orig="y=e=" auto="true">yew</normalised> cause is
+called the <normalised orig="mooueable" auto="true">moveable</normalised> Meridian.  BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.170
+
+And in such <normalised orig="Spheares" auto="true">Spheres</normalised> as <normalised orig="haue" auto="true">have</normalised> not a <normalised orig="foote" auto="true">foot</normalised> and a standing Horizon, there
+is no Meridian at al, BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.171
+
+but the two <normalised orig="Colures" auto="true">Colour's</normalised> are <normalised orig="faine" auto="true">fine</normalised> to supply their want,
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.172
+
+but all <normalised orig="terrestriall" auto="true">terrestrial</normalised> Globes are commonly described with <normalised orig="twelue" auto="true">twelve</normalised> Meridians
+, cutting the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> in 24. points, and <normalised orig="deuiding" auto="true">dividing</normalised> the same
+into 24. spaces, <normalised orig="euery" auto="true">every</normalised> space containing 15. degrees, which
+is an <normalised orig="houre" auto="true">hour</normalised>, by <normalised orig="meanes" auto="true">means</normalised> whereof we know how much sooner or latter it is
+<normalised orig="noontide" auto="true">nematode</normalised> in any place, BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.173
+
+for it is <normalised orig="noonetide" auto="true">ninetieth</normalised> sooner to those whose Meridian is more
+Eastward then to them whose Meridian is more Westward.
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.174
+
+And contrariwise the Eclipse of the Sun or <normalised orig="Moone" auto="true">Moon</normalised>
+<normalised orig="appeareth" auto="true">appears</normalised> sooner to those whose Meridian is more Westward.
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.175
+
+<heading>
+
+What other <normalised orig="vses" auto="true">uses</normalised> hath this circle?
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.177
+
+<$$heading>
+
+This circle <normalised orig="deuideth" auto="true">divides</normalised> the East part of the world from the West
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.179
+
+and also it <normalised orig="sheweth" auto="true">shows</normalised> both the North and South,
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.180
+
+for by turning your face <normalised orig="towardes" auto="true">towards</normalised> the East, you shall <normalised orig="finde" auto="true">find</normalised> the <normalised orig="Sunne" auto="true">Sun</normalised>
+being in that line at <normalised orig="noonetide" auto="true">ninetieth</normalised> to bee on your right hand right South,
+the <normalised orig="opposit" auto="true">opposite</normalised> part of which circle <normalised orig="sheweth" auto="true">shows</normalised> on your left hand the North.
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.181
+
+Also this Circle by reason that it <normalised orig="passeth" auto="true">passes</normalised> through both the Poles of
+the world, <normalised orig="deuideth" auto="true">divides</normalised> both the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> and all his <normalised orig="Paralels" auto="true">Parallels</normalised> into
+two <normalised orig="equall" auto="true">equal</normalised> parts as well <normalised orig="aboue" auto="true">above</normalised> the Horizon as under the Horizon,
+BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.182
+
+and by that <normalised orig="meanes" auto="true">means</normalised> it <normalised orig="deuideth" auto="true">divides</normalised> the artificial day and <normalised orig="artificiall" auto="true">artificial</normalised> night
+each of them into two parts, that is to say, into two semidiurnall and
+into two seminocturnall parts.  BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.183
+
+For betwixt that part of the Horizon where the Sun <normalised orig="riseth" auto="true">rises</normalised>, mounting still
+<normalised orig="untill" auto="true">until</normalised> he come to this Circle, which is at <normalised orig="noonetide" auto="true">ninetieth</normalised>, is <normalised orig="contayned" auto="true">contained</normalised> the
+first <normalised orig="halfe" auto="true">half</normalised> of the day, BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.184
+
+& the other <normalised orig="halfe" auto="true">half</normalised> is from the same circle to the going down of the <normalised orig="Sunne" auto="true">Sun</normalised>
+under the Horizon.  BLUNDEV-E2-H,155R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152R.185
+
+And the first <normalised orig="parte" auto="true">part</normalised> of the night is <P_155V_misnumbered_as_152V> the
+space betwixt the Suns going down and his <normalised orig="comming" auto="true">coming</normalised> <normalised orig="againe" auto="true">again</normalised> to the Meridian,
+which is at midnight, BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.186
+
+and from thence to the time of his rising is the other <normalised orig="halfe" auto="true">half</normalised> of the night,
+BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.187
+
+and also the Astronomers take the beginning of their <normalised orig="naturall" auto="true">natural</normalised> day from
+this circle, counting either from <normalised orig="noontide" auto="true">nematode</normalised> to <normalised orig="noontide" auto="true">nematode</normalised>, or else from
+midnight to midnight.  BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.188
+
+<normalised orig="Againe" auto="true">Again</normalised>, this circle <normalised orig="sheweth" auto="true">shows</normalised> the right <normalised orig="ascentions" auto="true">ascending</normalised> and <normalised orig="declinations" auto="true">declination's</normalised> of the
+<normalised orig="starres" auto="true">stars</normalised>, and the highest altitude, otherwise called the Meridian altitude
+of the Sun or of any star, or degree of the <normalised orig="Ecliptique" auto="true">Ecliptic's</normalised>, or of any other
+point in the firmament, al which <normalised orig="vses" auto="true">uses</normalised> and many others more you <normalised orig="shal" auto="true">shall</normalised> better
+understand hereafter, when wee come to <normalised orig="shew" auto="true">show</normalised> the <normalised orig="vses" auto="true">uses</normalised> of the globe as well
+<normalised orig="terrestriall" auto="true">terrestrial</normalised> as <normalised orig="celestiall" auto="true">celestial</normalised>.  BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.189
+
+<heading>
+
+Of the <normalised orig="verticall" auto="true">vertical</normalised> circles, and <normalised orig="vses" auto="true">uses</normalised> thereof
+BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.191
+
+Cap. $19 {TEXT:13} BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.192
+
+<$$heading>
+
+But here you <normalised orig="haue" auto="true">have</normalised> to note that though the most part of Geographers
+doe set <normalised orig="downe" auto="true">down</normalised> in their <normalised orig="Spheares" auto="true">Spheres</normalised> but 6. great circles, yet
+<normalised orig="ther" auto="true">there</normalised> is another great circle called the circle <normalised orig="Verticall" auto="true">Vertical</normalised>, which
+<normalised orig="passeth" auto="true">passes</normalised> right <normalised orig="ouer" auto="true">over</normalised> our <normalised orig="heades" auto="true">heads</normalised> through our <font> Zenith <$$font>
+, <normalised orig="wheresoeuer" auto="true">wheresoever</normalised> we be <normalised orig="vpon" auto="true">upon</normalised> the land or sea, crossing our Horizon in
+2. points opposite, and <normalised orig="deuiding" auto="true">dividing</normalised> the same into two <normalised orig="equall" auto="true">equal</normalised> parts,
+BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.194
+
+and such kind of circles are called in <normalised orig="Arabick" auto="true">Arabic</normalised> <font> <normalised orig="Azimuthes" auto="true">Azimuths</normalised> <$$font>
+, whereof you may imagine that there be so many as <normalised orig="ther" auto="true">there</normalised> be <normalised orig="rombes" auto="true">rhombus</normalised>
+or winds in the <normalised orig="Marriners" auto="true">Mariners</normalised> <normalised orig="compasse" auto="true">compass</normalised>, which are in number 32.
+BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.195
+
+yea, and if you will, you may make <normalised orig="halfe" auto="true">half</normalised> so many as there be degrees
+in the Horizon, which are in <normalised orig="nu~ber" auto="true">number</normalised> 360. the <normalised orig="halfe" auto="true">half</normalised> whereof is
+180. BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.196
+
+If you be right under the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, and doe <normalised orig="goe" auto="true">go</normalised> or <normalised orig="saile" auto="true">sail</normalised> right
+East or West, then the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> is your <normalised orig="Verticall" auto="true">Vertical</normalised> circle,
+BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.197
+
+and if you <normalised orig="goe" auto="true">go</normalised> or <normalised orig="saile" auto="true">sail</normalised> right North or South, then the Meridian is your
+<normalised orig="uerticall" auto="true">vertical</normalised> circle, which two circles notwithstanding do <normalised orig="alwaies" auto="true">always</normalised> <normalised orig="keepe" auto="true">keep</normalised>
+their names.  BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.198
+
+But in <normalised orig="sayling" auto="true">sailing</normalised> by any other <normalised orig="rombe" auto="true">rome</normalised>, that circle which is imagined to <normalised orig="passe" auto="true">pass</normalised>
+from the true East <normalised orig="pointe" auto="true">point</normalised> right <normalised orig="ouer" auto="true">over</normalised> your head unto the true West point,
+or which <normalised orig="crosseth" auto="true">crosses</normalised> your Meridian in the <font> Zenith <$$font> point with
+right <normalised orig="Sphericall" auto="true">Spherical</normalised> angles, is most properly called the <normalised orig="uerticall" auto="true">vertical</normalised> circle,
+BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.199
+
+and the learned seamen <normalised orig="haue" auto="true">have</normalised> great respect to two <normalised orig="speciall" auto="true">special</normalised> kinds of
+<normalised orig="Verticall" auto="true">Vertical</normalised> circles, that is, the <normalised orig="Magneticall" auto="true">Magnetically</normalised> Meridian, and the <font>
+Azimuth <$$font> of the <normalised orig="Sunne" auto="true">Sun</normalised>.  BLUNDEV-E2-H,155V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_152V.200
+
+<P_156R_misnumbered_as_155R>
+
+<heading>
+
+What manner of <normalised orig="verticall" auto="true">vertical</normalised> Circles bee those,
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.203
+
+and <normalised orig="whereto" auto="true">whereat</normalised> <normalised orig="serue" auto="true">serve</normalised> they?  BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.204
+
+<$$heading>
+
+M. <normalised orig="Borrough" auto="true">Borough</normalised> in his discourse of the variation of the <normalised orig="Compasse" auto="true">Compass</normalised>,
+<normalised orig="defineth" auto="true">defines</normalised> the <normalised orig="Magneticall" auto="true">Magnetically</normalised> Meridian to bee a great Circle, which <normalised orig="passeth" auto="true">passes</normalised>
+through the Zenith and the Pole of the load stone called in <normalised orig="Latine" auto="true">Latin</normalised> <normalised orig="Magnes" auto="true">Magnus</normalised>
+, BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.206
+
+and <normalised orig="deuideth" auto="true">divides</normalised> the Horizon into two <normalised orig="equall" auto="true">equal</normalised> parts, by crossing the same in
+two points opposite.  BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.207
+
+<normalised orig="Againe" auto="true">Again</normalised> the Azimuth of the <normalised orig="Sunne" auto="true">Sun</normalised> is a great Circle, passing through the
+Zenith and the Centre of the <normalised orig="Sunne" auto="true">Sun</normalised> in what part of the <normalised orig="heauen" auto="true">heaven</normalised> so <normalised orig="euer" auto="true">ever</normalised>
+he be, so as he be <normalised orig="aboue" auto="true">above</normalised> the Horizon, which Circle <normalised orig="deuideth" auto="true">divides</normalised> the Horizon
+into two <normalised orig="equall" auto="true">equal</normalised> parts by crossing the same in two points opposite.
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.208
+
+And by <normalised orig="helpe" auto="true">help</normalised> of these two Circles and a <normalised orig="certaine" auto="true">certain</normalised> instrument made of
+purpose to <normalised orig="giue" auto="true">give</normalised> a true shadow, he <normalised orig="teacheth" auto="true">teaches</normalised> to <normalised orig="finde" auto="true">find</normalised> out the true Meridian
+of any place: And also to know how much any Mariners <normalised orig="Compasse" auto="true">Compass</normalised> doth <normalised orig="varie" auto="true">vary</normalised>
+from the true North and South, in Northeasting or Northwesting, whereof
+I shall <normalised orig="speake" auto="true">speak</normalised> more at large hereafter in my treatise of <normalised orig="Nauigation" auto="true">Navigation</normalised>.
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.209
+
+<heading>
+
+What <normalised orig="vse" auto="true">use</normalised> is there of the <normalised orig="verticall" auto="true">vertical</normalised> Circles, or <normalised orig="Azimuthes" auto="true">Azimuths</normalised>?
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.211
+
+<$$heading>
+
+The <normalised orig="uerticall" auto="true">vertical</normalised> Circle <normalised orig="sheweth" auto="true">shows</normalised> what time the <normalised orig="Sunne" auto="true">Sun</normalised> or any other
+<normalised orig="starre" auto="true">star</normalised> <normalised orig="rysing" auto="true">rising</normalised> beyond the true East <normalised orig="pointe" auto="true">point</normalised>, is passed that <normalised orig="Sunne" auto="true">Sun</normalised>
+or <normalised orig="saide" auto="true">said</normalised> <normalised orig="starre" auto="true">star</normalised>, <normalised orig="commeth" auto="true">comes</normalised> to the true East or <normalised orig="anye" auto="true">any</normalised> other <normalised orig="rombe" auto="true">rome</normalised>.
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.213
+
+Also in what Coast or part of <normalised orig="heauen" auto="true">heaven</normalised>, the <normalised orig="Sunne" auto="true">Sun</normalised>, <normalised orig="Moone" auto="true">Moon</normalised>, or any
+other <normalised orig="starre" auto="true">star</normalised> is at any time being mounted <normalised orig="aboue" auto="true">above</normalised> the Horizon,
+as whether it bee Southeast or Northeast, or in any other <normalised orig="rombe" auto="true">rome</normalised>:
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.214
+
+Also by <normalised orig="helpe" auto="true">help</normalised> of the <normalised orig="uerticall" auto="true">vertical</normalised> Circle most properly so called, are
+the <normalised orig="twelue" auto="true">twelve</normalised> houses of <normalised orig="heauen" auto="true">heaven</normalised> set, according to <font> <normalised orig="Campanus" auto="true">Campaign's</normalised> <$$font>
+and <font> <normalised orig="Gazula" auto="true">Gazelle</normalised> <$$font>.  BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.215
+
+And by <normalised orig="helpe" auto="true">help</normalised> of these Circles you may also <normalised orig="knowe" auto="true">know</normalised> how any place <normalised orig="vppon" auto="true">upon</normalised>
+the earth <normalised orig="beareth" auto="true">bears</normalised> one from another <normalised orig="eyther" auto="true">either</normalised> Eastward or {HELSINKI:of}
+Westward, and so <normalised orig="foorth" auto="true">forth</normalised>, BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.216
+
+for <normalised orig="euerie" auto="true">every</normalised> place hath his <normalised orig="seuerall" auto="true">several</normalised> Azimuth <normalised orig="aunswerable" auto="true">answerable</normalised> to the Horizon
+and Zenith of the <normalised orig="saide" auto="true">said</normalised> place.  BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.217
+
+<heading>
+
+Of <normalised orig="certaine" auto="true">certain</normalised> circles called <font> Almicanterathes <$$font>?
+BLUNDEV-E2-H,156R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155R.219
+
+<$$heading>
+
+Since I <normalised orig="haue" auto="true">have</normalised> spoken <normalised orig="heere" auto="true">here</normalised> somewhat of the <normalised orig="uerticall" auto="true">vertical</normalised> Circles called <font>
+<normalised orig="Azimuthes" auto="true">Azimuths</normalised> <$$font>, it shall not be <normalised orig="amisse" auto="true">amiss</normalised> to <normalised orig="shew" auto="true">show</normalised> you also that there
+be other Circles to bee considered of in the <normalised orig="Spheare" auto="true">Sphere</normalised> as well as in
+the Astrolabe called <font> Almicanterathes <$$font>, that is to say,
+Circles of Altitude, which though they be not al great Circles, for <normalised orig="euery" auto="true">every</normalised>
+one <P_156V_misnumbered_as_155V> lesser then other proceeding <normalised orig="fro~" auto="true">fro</normalised> the
+oblique Horizon of any place to the Zenith of the said place, yet the
+first <font> Almicanterath <$$font> which is the <normalised orig="verie" auto="true">very</normalised> oblique Horizon
+it <normalised orig="selfe" auto="true">self</normalised>, is a great Circle <normalised orig="deuiding" auto="true">dividing</normalised> the <normalised orig="Spheare" auto="true">Sphere</normalised> into two <normalised orig="equall" auto="true">equal</normalised> parts,
+BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.221
+
+and all the rest are lesser and lesser, <normalised orig="untill" auto="true">until</normalised> you come to the <normalised orig="verie" auto="true">very</normalised>
+Zenith, BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.222
+
+and are <normalised orig="paralels" auto="true">parallels</normalised> to the Horizon, <normalised orig="euen" auto="true">even</normalised> as the <normalised orig="Tropiques" auto="true">Trapezes</normalised> and
+the other lesser Circles are <normalised orig="paralels" auto="true">parallels</normalised> unto the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>.
+BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.223
+
+And the Zenith in <normalised orig="Sphericall" auto="true">Spherical</normalised> bodies is the Centre of them all, though
+it bee not so in Astrolabes, BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.224
+
+in there <normalised orig="euerie" auto="true">every</normalised> <font> Almicanterath <$$font> is <normalised orig="saine" auto="true">sane</normalised> to <normalised orig="haue" auto="true">have</normalised> his
+<normalised orig="seuerall" auto="true">several</normalised> Centre, of which Circles there be in all 90. according
+to the number of 90 degrees contained betwixt the oblique Horizon and
+the Zenith, BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.225
+
+and these Circles doe <normalised orig="serue" auto="true">serve</normalised> to <normalised orig="shew" auto="true">show</normalised> the Altitude of the <normalised orig="Sunne" auto="true">Sun</normalised> or <normalised orig="Moone" auto="true">Moon</normalised>
+, or of any other <normalised orig="starre" auto="true">star</normalised> fixed or <normalised orig="wandring" auto="true">wandering</normalised>, being mounted at any time
+<normalised orig="aboue" auto="true">above</normalised> the oblique Horizon, which is <normalised orig="easie" auto="true">easy</normalised> to bee found by any Quadrant,
+Crosse-staffe, or Astrolabe.  BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.226
+
+But <normalised orig="leauing" auto="true">leaving</normalised> to <normalised orig="speake" auto="true">speak</normalised> any further of these Circles, because they
+are not <normalised orig="vsed" auto="true">used</normalised> to be described in <normalised orig="Spheares" auto="true">Spheres</normalised> but <normalised orig="onely" auto="true">only</normalised> in Astrolabes,
+I will now <normalised orig="treate" auto="true">treat</normalised> of the <normalised orig="foure" auto="true">four</normalised> lesser Circles before mentioned
+, which are commonly set <normalised orig="downe" auto="true">down</normalised> in <normalised orig="euery" auto="true">every</normalised> <normalised orig="Spheare" auto="true">Sphere</normalised> or Globe.
+BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.227
+
+<heading>
+
+of the <normalised orig="foure" auto="true">four</normalised> lesser circles, that is to say, the circle
+<normalised orig="Arctique" auto="true">Arctic's</normalised>, the circle <normalised orig="Antarctique" auto="true">Antarctic's</normalised>, the <normalised orig="Tropique" auto="true">Tropic</normalised> of Cancer, and
+the <normalised orig="Tropique" auto="true">Tropic</normalised> of <normalised orig="Capricorne" auto="true">Capricorn</normalised>, and also of the <normalised orig="fiue" auto="true">five</normalised> Zones, that
+is to say, two cold, two temperate, and one extremely <normalised orig="hoat" auto="true">hoot</normalised>.
+BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.229
+
+Cap. 20.  BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.230
+
+<$$heading>
+
+<heading>
+
+Which call you the lesser Circles?
+BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.233
+
+<$$heading>
+
+They are those that doe not <normalised orig="deuide" auto="true">divide</normalised> the <normalised orig="Spheare" auto="true">Sphere</normalised> into two <normalised orig="equall" auto="true">equal</normalised> parts,
+as the great Circles doe, BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.235
+
+and of such there bee <normalised orig="foure" auto="true">four</normalised>, that is the two Polar circles, and
+the two <normalised orig="Tropiques" auto="true">Trapezes</normalised>, that is to say, the <normalised orig="Tropique" auto="true">Tropic</normalised> of <font> Cancer
+<$$font>, and the <normalised orig="Tropique" auto="true">Tropic</normalised> of <font> <normalised orig="Capricorne" auto="true">Capricorn</normalised> <$$font>, of which
+Polar circles the one is called <normalised orig="Arctique" auto="true">Arctic's</normalised>, and the other <normalised orig="Antarctique" auto="true">Antarctic's</normalised>,
+BLUNDEV-E2-H,156V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_155V.236
+
+and are made by the turning about of the two Poles of the <normalised orig="Zodiaque" auto="true">Zodiac's</normalised>, which
+Poles being situated in the <normalised orig="Colure" auto="true">Colour</normalised> of the <P_157R_misnumbered_as_156R>
+Solstices are so <normalised orig="farre" auto="true">far</normalised> distant from the Poles of the world, as
+is the greatest declination of the <normalised orig="Sunne" auto="true">Sun</normalised> from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>,
+which is 23. degrees, 2'8. as hath <normalised orig="beene" auto="true">been</normalised> said before.
+BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.237
+
+<heading>
+
+Which is the <normalised orig="Arctique" auto="true">Arctic's</normalised> Circle, BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.239
+
+and why is it so called?  BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.240
+
+<$$heading>
+
+The <normalised orig="Arctique" auto="true">Arctic's</normalised> Circle is that which is next to the North Pole,
+BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.242
+
+and hath his name of this <normalised orig="worde" auto="true">word</normalised> <normalised orig="Arctos" auto="true">Arctics</normalised>, which is the great <normalised orig="Beare" auto="true">Bear</normalised> or
+Charles wayne, which are <normalised orig="seuen" auto="true">seven</normalised> stars placed next to this Circle on the
+outside thereof, BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.243
+
+and it is otherwise called the <normalised orig="Septentrionall" auto="true">Speedometer's</normalised> Circle of
+this word <normalised orig="Septentrio" auto="true">Speedometer's</normalised>, which is as much to say as <normalised orig="seuen" auto="true">seven</normalised> Oxen,
+signified by the <normalised orig="seuen" auto="true">seven</normalised> stars of the little <normalised orig="Beare" auto="true">Bear</normalised>, which doe <normalised orig="mooue" auto="true">move</normalised>
+slowly like Oxen, and are placed all within the <normalised orig="sayde" auto="true">said</normalised> Circle,
+BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.244
+
+and the bright <normalised orig="starre" auto="true">star</normalised> that is in the <normalised orig="tippe" auto="true">tip</normalised> of the <normalised orig="tayle" auto="true">tail</normalised> of the <normalised orig="sayde" auto="true">said</normalised>
+little <normalised orig="Beare" auto="true">Bear</normalised>, is called of the Mariners the <normalised orig="loade" auto="true">load</normalised> <normalised orig="starre" auto="true">star</normalised> or North <normalised orig="starre" auto="true">star</normalised>,
+whereby they <normalised orig="sayle" auto="true">sail</normalised> on the Sea, BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.245
+
+and the Centre of this Circle is the North Pole of the world which is
+not to be <normalised orig="seene" auto="true">seen</normalised> with mans eye.  BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.246
+
+<heading>
+
+What is the <normalised orig="Antarctique" auto="true">Antarctic's</normalised> Circle?  BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.248
+
+<$$heading>
+
+It is that which is next unto the South Pole,
+BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.250
+
+and it is so called, because it is opposite or <normalised orig="contrarie" auto="true">contrary</normalised> to the Circle
+<normalised orig="Arctique" auto="true">Arctic's</normalised>.  BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.251
+
+<heading>
+
+Now describe the two <normalised orig="Tropiques" auto="true">Trapezes</normalised>.  BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.253
+
+<$$heading>
+
+The <normalised orig="Tropique" auto="true">Tropic</normalised> of <font> Cancer <$$font> is a Circle imagined to bee betwixt
+the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> and the Circles <normalised orig="Arctique" auto="true">Arctic's</normalised>, which Circles the Sun <normalised orig="maketh" auto="true">makes</normalised>
+when he <normalised orig="entreth" auto="true">entered</normalised> into the first degree of <font> Cancer <$$font>, which is
+about <normalised orig="y=e=" auto="true">yew</normalised> <normalised orig="twelue" auto="true">twelve</normalised> or thirteenth day of June being then in his greatest
+declination from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> Northward, and nighest to our Zenith
+, being ascended to the highest point that he can <normalised orig="goe" auto="true">go</normalised>, at which time
+the <normalised orig="daies" auto="true">days</normalised> with us be at the longest, and the <normalised orig="nightes" auto="true">nights</normalised> at the shortest.
+BLUNDEV-E2-H,157R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156R.255
+
+And so from thence he <normalised orig="declineth" auto="true">declines</normalised> to the other <normalised orig="Tropique" auto="true">Tropic</normalised> called the <normalised orig="Tropique" auto="true">Tropic</normalised>
+of <font> <normalised orig="Capricorne" auto="true">Capricorn</normalised> <$$font>, which is a Circle imagined to be betwixt
+the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> and the Circle <normalised orig="Antarctique" auto="true">Antarctic's</normalised>, which the <normalised orig="Sunne" auto="true">Sun</normalised> <normalised orig="maketh" auto="true">makes</normalised> when
+<normalised orig="hee" auto="true">hoe</normalised> <normalised orig="entreth" auto="true">entered</normalised> into the first degree of <font> <normalised orig="Capricorne" auto="true">Capricorn</normalised> <$$font> , which
+is about the twelfth or thirteenth <normalised orig="daye" auto="true">day</normalised> of December at which time <normalised orig="hee" auto="true">hoe</normalised>
+is <normalised orig="againe" auto="true">again</normalised> in his greatest declination from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> <normalised orig="Southwarde" auto="true">Southward</normalised>,
+and furthest from our Zenith: whereby the <normalised orig="dayes" auto="true">days</normalised> with us bee then at the
+shortest, and the nights <P_157V_misnumbered_as_156V> at the longest:
+BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.256
+
+And note that these two Circles are called <normalised orig="Tropiques" auto="true">Trapezes</normalised> of this <normalised orig="Greeke" auto="true">Greek</normalised>
+word <normalised orig="Tropos" auto="true">Tripos</normalised>, which is as much to say as a <normalised orig="conuersion" auto="true">conversion</normalised> or turning,
+BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.257
+
+for when the <normalised orig="Sunne" auto="true">Sun</normalised> <normalised orig="arriueth" auto="true">arrives</normalised> at any of these two Circles, he <normalised orig="turneth" auto="true">turns</normalised>
+<normalised orig="backe" auto="true">back</normalised> <normalised orig="againe" auto="true">again</normalised> either ascending or descending, by reason of which <normalised orig="foure" auto="true">four</normalised>
+Circles as well the firmament as the earth is <normalised orig="deuided" auto="true">divided</normalised> into <normalised orig="fiue" auto="true">five</normalised> Zones ,
+that is to say, two <normalised orig="colde" auto="true">cold</normalised>, two temperate, & one extremely <normalised orig="hoat" auto="true">hoot</normalised>, otherwise
+called the burnt Zone, of which <normalised orig="fiue" auto="true">five</normalised> Zones, the <normalised orig="foresaid" auto="true">aforesaid</normalised> <normalised orig="foure" auto="true">four</normalised> circles
+are the true bounds.  BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.258
+
+For of the two cold Zones, the one <normalised orig="lyeth" auto="true">lies</normalised> betwixt the North pole and the
+Circle <normalised orig="Arctique" auto="true">Arctic's</normalised>, BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.259
+
+and the other <normalised orig="lyeth" auto="true">lies</normalised> betwixt the South Pole and the Circle <normalised orig="Antarctique" auto="true">Antarctic's</normalised>,
+BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.260
+
+& of the two temperate Zones, the one <normalised orig="lyeth" auto="true">lies</normalised> betwixt the
+Circle <normalised orig="Arctique" auto="true">Arctic's</normalised>, & the <normalised orig="Tropique" auto="true">Tropic</normalised> of <font> Cancer <$$font>,
+BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.261
+
+and the other <normalised orig="lyeth" auto="true">lies</normalised> betwixt the Circle <normalised orig="Antarctique" auto="true">Antarctic's</normalised>, and the <normalised orig="Tropique" auto="true">Tropic</normalised> of
+<font> <normalised orig="Capricorne" auto="true">Capricorn</normalised> <$$font>, BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.262
+
+& the extreme <normalised orig="hoat" auto="true">hoot</normalised> Zone <normalised orig="lyeth" auto="true">lies</normalised> betwixt the two <normalised orig="Tropiques" auto="true">Trapezes</normalised>, in the
+<normalised orig="middest" auto="true">midst</normalised> of which two <normalised orig="Tropiques" auto="true">Trapezes</normalised>, is the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> line, as you
+may see in this figure and also in the <normalised orig="Spheare" auto="true">Sphere</normalised> or Globe it <normalised orig="selfe" auto="true">self</normalised>.
+BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.263
+
+<font> A figure <normalised orig="shewing" auto="true">showing</normalised> the <normalised orig="fiue" auto="true">five</normalised> <normalised orig="foresaid" auto="true">aforesaid</normalised> Zones.  <$$font>
+BLUNDEV-E2-H,157V_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_156V.264
+
+{COM:figure_omitted}
+
+<P_158R_misnumbered_as_157R>
+
+Of which Zones the <normalised orig="auncient" auto="true">ancient</normalised> men were wont to say that three were
+<normalised orig="unhabitable" auto="true">uninhabitable</normalised>, that is, the two <normalised orig="colde" auto="true">cold</normalised>, and the <normalised orig="extreame" auto="true">extreme</normalised> <normalised orig="hoat" auto="true">hoot</normalised>, which
+experience <normalised orig="sheweth" auto="true">shows</normalised> in these latter <normalised orig="daies" auto="true">days</normalised>, to be untrue, as we shall
+declare more at large when we come to <normalised orig="treate" auto="true">treat</normalised> of the <normalised orig="diuision" auto="true">division</normalised> of the earth:
+BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.267
+
+<normalised orig="Againe" auto="true">Again</normalised> you <normalised orig="haue" auto="true">have</normalised> to understand that <normalised orig="euery" auto="true">every</normalised> one of these lesser Circles
+doth <normalised orig="containe" auto="true">contain</normalised> in length, 360. degrees as well as <normalised orig="euery" auto="true">every</normalised> one of
+the greater Circles, BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.268
+
+but the degrees are not of like <normalised orig="bignesse" auto="true">bigness</normalised>, no more then
+the Circles <normalised orig="themselues" auto="true">themselves</normalised> are like in <normalised orig="compasse" auto="true">compass</normalised> or circuit,
+BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.269
+
+for the lesser the Circles are in circuit, the lesser their degrees must
+<normalised orig="needes" auto="true">needs</normalised> be.  BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.270
+
+<heading>
+
+<normalised orig="Sith" auto="true">Sid</normalised> <normalised orig="euery" auto="true">every</normalised> of the lesser Circles differ one from another in circuit,
+and thereby the degrees of <normalised orig="euery" auto="true">every</normalised> Circle be lesser then other, how shall
+I know the true <normalised orig="quantitie" auto="true">quantity</normalised> of <normalised orig="euery" auto="true">every</normalised> degree in <normalised orig="ech" auto="true">each</normalised> Circle, and how <normalised orig="manye" auto="true">many</normalised>
+minutes are required in <normalised orig="euerie" auto="true">every</normalised> lesser degree proportionally to <normalised orig="answere" auto="true">answer</normalised>
+one degree of the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>.  BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.272
+
+<$$heading>
+
+For the better knowledge hereof, you must first imagine that there may
+bee as many Circles made from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> towards any of the Poles,
+as there be degrees of Latitude, which are in number 90. as hath
+<normalised orig="beene" auto="true">been</normalised> said before: BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.274
+
+And the nigher that any circle is to the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, the greater it
+is in circuit, and the further from the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised> towards any of the
+Poles, the lesser in circuit, BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.275
+
+and <normalised orig="therfore" auto="true">therefore</normalised> more or <normalised orig="lesse" auto="true">less</normalised> minutes are requisite to <normalised orig="answere" auto="true">answer</normalised> to
+one degree of the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, as you may easily <normalised orig="perceiue" auto="true">perceive</normalised> by this
+Table following, consisting of 6. <normalised orig="collums" auto="true">columns</normalised>, <normalised orig="euery" auto="true">every</normalised> front or
+head whereof is noted with three great letters, D. M.
+S. signifying degrees, minutes and seconds, <normalised orig="sixe" auto="true">six</normalised> times repeated ,
+BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.276
+
+and in the beginning of the first <normalised orig="collum" auto="true">column</normalised> on the left hand is set
+<normalised orig="downe" auto="true">down</normalised> one degree, which is the first degree of 90. and nighest
+unto the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, right against which one degree is placed
+towards the right hand, 59. minutes, and 59. seconds:
+BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.277
+
+and so proceeding from degree to degree <normalised orig="successiuely" auto="true">successively</normalised>, <normalised orig="untill" auto="true">until</normalised> you come to
+90. you shall <normalised orig="finde" auto="true">find</normalised> how many minutes and seconds doe <normalised orig="answere" auto="true">answer</normalised> to
+one degree of the <normalised orig="Equinoctiall" auto="true">Equinoctial</normalised>, BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.278
+
+and this Table will also <normalised orig="serue" auto="true">serve</normalised> to <normalised orig="shew" auto="true">show</normalised> the difference of miles in <normalised orig="euery" auto="true">every</normalised>
+sundry <normalised orig="clyme" auto="true">climb</normalised> or <normalised orig="paralell" auto="true">parallel</normalised>, whereof we shall <normalised orig="speake" auto="true">speak</normalised> hereafter when we come
+to treat of the earth.  BLUNDEV-E2-H,158R_<normalised orig="misnumbered" auto="true">misnomered</normalised>_as_157R.279
